@@ -1,0 +1,53 @@
+date,geography,geography_code,total_pop,value,cob_region,cob,percs
+2021,London,E12000007,8799725,1669,Africa,Africa not otherwise specified,0.02
+2021,London,E12000007,8799725,65905,Africa,Ghana,0.75
+2021,London,E12000007,8799725,117145,Africa,Nigeria,1.33
+2021,London,E12000007,8799725,71963,Africa,Other Central and Western Africa,0.82
+2021,London,E12000007,8799725,66268,Africa,North Africa,0.75
+2021,London,E12000007,8799725,58020,Africa,Kenya,0.66
+2021,London,E12000007,8799725,113143,Africa,Other South and Eastern Africa,1.29
+2021,London,E12000007,8799725,66288,Africa,Somalia,0.75
+2021,London,E12000007,8799725,47964,Africa,South Africa,0.55
+2021,London,E12000007,8799725,17000,Africa,Zimbabwe,0.19
+2021,London,E12000007,8799725,43418,Antarctica and Oceania,Australia,0.49
+2021,London,E12000007,8799725,19072,Antarctica and Oceania,Other Australasia,0.22
+2021,London,E12000007,8799725,2324,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+2021,London,E12000007,8799725,45378,Europe,Lithuania,0.52
+2021,London,E12000007,8799725,167657,Europe,Other EU 2001-2011 members,1.91
+2021,London,E12000007,8799725,149397,Europe,Poland,1.7
+2021,London,E12000007,8799725,175991,Europe,Romania,2
+2021,London,E12000007,8799725,77715,Europe,France,0.88
+2021,London,E12000007,8799725,50364,Europe,Germany,0.57
+2021,London,E12000007,8799725,96566,Europe,Ireland,1.1
+2021,London,E12000007,8799725,126059,Europe,Italy,1.43
+2021,London,E12000007,8799725,103000,Europe,Other EU 2001 members,1.17
+2021,London,E12000007,8799725,56963,Europe,Portugal,0.65
+2021,London,E12000007,8799725,68114,Europe,Spain,0.77
+2021,London,E12000007,8799725,176359,Europe,Other Europe non-EU,2
+2021,London,E12000007,8799725,72867,Europe,Turkey,0.83
+2021,London,E12000007,8799725,5075165,Europe,England,57.67
+2021,London,E12000007,8799725,119,Europe,Great Britain not otherwise specified,0
+2021,London,E12000007,8799725,28248,Europe,Northern Ireland,0.32
+2021,London,E12000007,8799725,75004,Europe,Scotland,0.85
+2021,London,E12000007,8799725,644,Europe,United Kingdom not otherwise specified,0.01
+2021,London,E12000007,8799725,44806,Europe,Wales,0.51
+2021,London,E12000007,8799725,6207,Middle East and Asia,Central Asia,0.07
+2021,London,E12000007,8799725,56116,Middle East and Asia,China,0.64
+2021,London,E12000007,8799725,33760,Middle East and Asia,Hong Kong,0.38
+2021,London,E12000007,8799725,35577,Middle East and Asia,Other Eastern Asia,0.4
+2021,London,E12000007,8799725,43852,Middle East and Asia,Iran,0.5
+2021,London,E12000007,8799725,105159,Middle East and Asia,Other Middle East,1.2
+2021,London,E12000007,8799725,68269,Middle East and Asia,Other South-East Asia,0.78
+2021,London,E12000007,8799725,54930,Middle East and Asia,Philippines,0.62
+2021,London,E12000007,8799725,138895,Middle East and Asia,Bangladesh,1.58
+2021,London,E12000007,8799725,322644,Middle East and Asia,India,3.67
+2021,London,E12000007,8799725,70683,Middle East and Asia,Other Southern Asia,0.8
+2021,London,E12000007,8799725,129774,Middle East and Asia,Pakistan,1.47
+2021,London,E12000007,8799725,80379,Middle East and Asia,Sri Lanka,0.91
+2021,London,E12000007,8799725,21,Other,Other,0
+2021,London,E12000007,8799725,8331,The Americas and the Caribbean,All Central American countries,0.09
+2021,London,E12000007,8799725,22799,The Americas and the Caribbean,Other North America,0.26
+2021,London,E12000007,8799725,71127,The Americas and the Caribbean,United States,0.81
+2021,London,E12000007,8799725,142318,The Americas and the Caribbean,All South American countries,1.62
+2021,London,E12000007,8799725,75676,The Americas and the Caribbean,Jamaica,0.86
+2021,London,E12000007,8799725,52613,The Americas and the Caribbean,Other Caribbean,0.6

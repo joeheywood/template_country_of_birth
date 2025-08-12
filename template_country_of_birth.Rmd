@@ -1,0 +1,980 @@
+---
+runtime: shiny
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+&nbsp;
+<hr />
+
+<table style="background-color:#353D42; color:#ffffff"; width=100%; >
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr><td>
+
+  <img src="ciu_logo.png" alt="CIU Logo" style="padding:10px; width:300px;" align="right">
+
+</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px; font-size:240%">Census 2021 Report - Country of Birth</td></tr>
+
+<tr><td style="padding:10px; font-size:160%">Census 2021 Reporting Series</td></tr>
+
+<tr><td style="padding:10px; font-size:120%">November 2022</td></tr>
+
+<tr><td style="padding:10px; font-size:100%">Last updated: 17th November 2022</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+&nbsp;
+
+<style type="text/css">
+  body{
+  font-size: 11pt; font-family: arial;
+}
+</style>
+
+```{r, include = FALSE}
+## loading libraries, setting options, setting plot options
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, include = TRUE)
+
+library(gglaplot)
+# library(dplyr)
+# library(tidyverse)
+library(plotly)
+# library(data.table)
+library(scales)
+# library(reactable)
+library(DT)
+library(RJSONIO)
+library(rmarkdown)
+# library(reticulate)
+library(httpuv)
+library(RColorBrewer)
+library(sf)
+
+
+```
+
+
+
+# Introduction
+
+On 2 November 2022, ONS published the first detailed data from the 2021 Census, the topic summary on demography and migration.
+
+<br>
+
+This report is one in a series giving a London perspective on some of the topics for which data from the 2021 are being made available. This report looks at the initial data released on Londoners’ country of birth as recorded in the March 2021 Census.  
+
+<br>
+
+The Census recorded 8.80 million usual residents in London – that is people living in London with no other address or whose main residence is in London. This number is believed to be temporarily reduced due to changes in some Londoners’ behaviour as a result of the Covid pandemic. London’s population in 2020 was 9 million and it is expected that by 2022 it will have returned to around this level. Further details are given in the GLA’s report on the <a href = "https://data.london.gov.uk/dataset/2021-census-first-release">Census first release</a>.
+
+<br>
+
+The detail in this initial release includes only 33 identified individual countries so many residents appear in sub-continent aggregations and residual ‘other’ categories. It is expected that further country detail will be available in later Census releases. In March 2022 ONS published preliminary census counts for some eastern European countries to support and inform the response to the Russian invasion of Ukraine. Counts of usual residents born in Afghanistan were also released. Census estimates for most of these countries have not been published in the November release.
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Key Findings
+</p>
+
+# Key findings
+
+-	At Census 2021, 3.58 million London residents were born outside the UK, some 41 per cent of London’s total population up from 3.00 million, 37 per cent of the population in 2011.
+-	1.37 million London residents were born in Europe outside the UK, 1.15 million were born in the Middle East and Asia and 1.06 million in the rest of the world including Africa, the Americas and Oceania.
+-	The top non-UK country of birth was India with 323,000 London residents. Also over 100,000 were Romania 176,000, Poland 149,000, Bangladesh 139,000, Pakistan 130,000, Italy 126,000, and Nigeria 117,000.
+-	Romania-born increased by 131,000 from 45,000 in 2011 to 176,000 in 2021. Persons born in Italy increased 64,000 over the decade, those born in India by 60,000 and born in Bangladesh by 29,000. 
+-	Over half the residents of six London boroughs were born outside the UK. Highest proportions were Brent and Westminster (each 56 per cent non-UK-born).
+-	44,000 Bangladesh-born persons lived in Tower Hamlets, 14 per cent of the borough’s total population. 38,000, 13 per cent of Hounslow’s total population were born in India as were 35,000 in Brent and 32,000 in Ealing. 
+
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+# The 2021 Picture in London
+
+
+
+At Census 2021, 3.58 million London residents were born outside the UK, some 41 per cent of London’s total population. This figure represents an increase of 577,000 over 2011, but it is likely that the number of foreign-born Londoners at the time of the census was temporarily reduced due to the Covid 19 pandemic, and that numbers of foreign-born in London have rebounded since March 2021.
+
+<br>
+
+Evidence from migration flows estimates, visas granted and other sources suggests that many young foreign workers left London at the beginning of the Covid 19 pandemic in early 2020 and did not return in significant numbers until the labour market returned to more normal conditions in the middle of 2021. The Census was conducted in March 2021 when the UK was emerging from the second covid lockdown, before labour mobility had resumed.   
+
+
+## World region / country of birth {.tabset}
+
+
+### Plot - world regions
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 1a: 	Population by world region of birth, London, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/london_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+### Plot - top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 1b: 	Population by country of birth, London, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/london_top_countries.R")
+
+# fin_plot
+get_top_countries_plot()
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 1: 	Population by region and country of birth, London, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/london_table.R")
+tab_dat <- get_london_table()
+
+font.size = "9.5pt"
+datatable(tab_dat,
+          extensions = "Buttons",
+          rownames = "",
+          filter = "top",
+          width = "75%",
+          options =  list(buttons = c('csv'),
+                          dom = "Brftip",
+                          columnDefs = list(list(className = 'dt-center', targets = 3:4)),
+                          initComplete = htmlwidgets::JS(
+                                   "function(settings, json) {",
+                                   paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+                                   "}"))
+          )
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+<br>
+
+-	1.37 million London residents, 38 per cent of the non-UK-born were born in Europe outside the UK, 1.15 million (32 per cent) were born in the Middle East and Asia and 1.06 million (30 per cent) in the rest of the world including Africa, the Americas and Oceania.  
+-	The top country of birth in London was India with 323,000 residents. A further six countries had over 100,000 residents: Romania 176,000, Poland 149,000, Bangladesh 139,000, Pakistan 130,000, Italy 126,000, and Nigeria 117,000. 
+ 
+
+<br>
+
+Data were also published on when foreign-born migrants arrived in the UK. 
+
+<br>
+
+
+## Born outside of UK {.tabset}
+
+### Plot
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 2: Persons born outside UK by year of arrival, London, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/year_of_arrival_plot.R")
+
+# fin_plot
+get_year_of_arrival_plot()
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+<br>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 3: Persons born outside UK by year of arrival, London, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/year_of_arrival_table.R")
+
+get_year_of_arrival_table()
+
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+<br>
+
+
+## {-}
+
+-	914,000 international migrants, over a tenth of London’s total population at Census 2021 arrived in the UK between 2001 and 2010. Nearly 1.5 million or 17 per cent arrived since 2011: 309,000 arrived 2011 to 2013, 434,000 between 2014 to 2016 and 502,000 arrived 2017 to 2019. 
+-	Despite the Covid lockdown, 150,000 migrants came to London in the year before census, some 1.7 per cent of the population. Top destinations within London were Tower Hamlets (10,500 new migrants), Westminster (9,900), Camden (8,200) and Newham (7,600). 
+-	Over 6 per cent of the population of City of London had migrated to the UK in the year before Census, and nearly 5 per cent in Westminster. These were the highest proportions of any local authorities in England and Wales.
+
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+# How London compares with England
+
+Over a third of England’s non-UK-born population lived in London. London’s non-UK-born population, 3.58 million, was 37 per cent of the England total of 9.80 million while UK-born Londoners were just 11 per cent of all UK-born in England. Consequently, 41 per cent of London’s population was born outside the UK, three times as high as the proportion in the rest of England (13 per cent). The charts below compare London’s country of birth populations to the rest of England.
+
+
+## World region / country of birth {.tabset}
+
+### Plot - world regions
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 3a: Populations by world region of birth,  <font style = "color: #6da7de"> London </font> and the <font style = "color: #ee266d"> Rest of England </font>, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/londonuk_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+### Plot - top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 3b: Populations by top countries of birth, London and rest of England, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonuk_top_countries.R")
+
+# fin_plot
+get_londonuk_top_countries()
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+### Table
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 3: Populations by countries of birth, London and rest of England, 2021 
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonuk_top_countries_tab.R")
+
+get_londonuk_top_countries_tab()
+
+
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+-	For England excluding London, the top five countries of birth were India 584,000, Poland 567,000, Pakistan 487,000, Romania 354,000 and Ireland 218,000. The top country of birth was India in both London and the rest of England, but there were more Romanian-born in London than Polish. 
+-	Nearly two-thirds (62%) of England’s Somalia-born population lived in London and for persons born in Turkey, Sri Lanka, Afghanistan, Jamaica, Bangladesh and France over half were in London. 
+
+
+<br>
+
+
+
+## Born outside of UK {.tabset}
+
+### Plot
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 4a: Population by top countries of birth, English regions, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/regions_plots",
+           options = list(height = 500,
+                          width = 850))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+### Map
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 4b: Map of population by top countries of birth, English regions, census 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/regions_maps",
+           options = list(height = 580,
+                         width = 800))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 4: Population by top countries of birth, English regions, census 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/regions_table.R")
+
+# datatable(tab_dat,
+#           extensions = "Buttons",
+#           rownames = "",
+#           filter = "top",
+#           width = "75%",
+#           options =  list(buttons = c('csv'),
+#                           dom = "Brftip",
+#                           columnDefs = list(list(className = 'dt-center', targets = 4:5)),
+#                           initComplete = htmlwidgets::JS(
+#                                    "function(settings, json) {",
+#                                    paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+#                                    "}"))
+#           )
+
+get_regions_table()
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+## {-}
+
+-	Most non-UK countries of birth were more prevalent in London than in any other English region – those born in India made up 3.7 per cent of London’s population. In West and East Midlands, the next highest regions, India-born made up 2.1 per cent. 
+-	2.0 per cent of Londoners were born in Romania, the next highest figure was 1.1 per cent for the East of England.
+-	For Polish-born the highest proportion 1.7 per cent was for London, followed by 1.6 per cent in East Midlands. The proportion was above 1 per cent for all the regions except the North East.
+-	Bangladesh-born were three times as common in London than in West Midlands, the next highest region (1.6 per cent and 0.5 per cent respectively).  
+-	The exception to the pattern was Pakistan-born, which was more common in West Midlands (1.9 per cent of total population), Yorkshire and the Humber (1.8 per cent) and the North West (1.7 per cent) than in London (1.5 per cent).
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+# Change in London 2011 - 2021
+
+Figure 5 compares populations by country birth for 2011 and 2021 censuses, with 2011 data aggregated to the groupings available for 2021. Croatia joined the EU in 2013 and therefore changed status from non-EU to EU over the two census periods. To allow for comparison, the 2021 entry on Croatia is aggregated into the "Other Europe non-EU" category in the plots and tables below. 
+
+## World regions / countries  {.tabset}
+
+### Plot - world regions
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 5a: 	Population by world region of birth <font style = "color: #6da7de"> 2021 </font> and <font style = "color: #ee266d"> 2011 </font>
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/londonchange_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census & 2011 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+### Plot - top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 5b: 	Population by top countries of birth, London, 2011 and 2021 
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonchange_top_countries.R")
+
+# fin_plot
+get_londonchange_top_countries_plot()
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census & 2011 Census, ONS
+
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 5: 	Population by country of birth, London, 2011 and 2021 
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonchange_table.R")
+
+get_londonchange_table()
+
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+-	The total population of London increased by 626,000 or 7 per cent over the decade. Most of the increase was in non-UK-born groups: Europe-born increased from 999,000 to 1.37 million (up 37 per cent), Middle East- and Asia-born increased from 967,000 to 1.15 million (up 19 per cent) and Americas- and Caribbean-born increased from 326,000 to 373,000 (up 14 per cent).
+-	The UK-born population increased only marginally from 5.18 to 5.22 million representing a fall in population share from 63 per cent to 59 per cent. Africa-born increased by less than 4,000 from 622,000 to 625,000.    
+-	The number of Romania-born Londoners nearly quadrupled from 45,000 in 2011 to 176,000 in 2021 an increase of 131,000. 
+-	Other large increases were those born in Italy up 64,000 over the decade, India-born up 60,000 and Bangladesh-born up 29,000. 
+-	There were also significant increases for groupings comprising countries not individually reported in this release. EU countries not individually identified increased 64,000 from 207,000 to 271,000; Europe other than EU and Turkey - which will include many eastern European countries increased 78,000 from 98,000 to 176,000.
+-	The number of Ireland-born Londoners fell by 33,000, Jamaicans by 12,000 and Australians by 11,000.
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+# Within London picture
+
+This section presents country of birth data for London boroughs, mapping the distribution of individual groups across London and giving the countries of birth for each borough. 
+
+
+## Maps of country by birth{.tabset}
+
+### Maps
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 6a: Map of population by country of birth, London boroughs, 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/borough_map_app",
+            options = list(
+              height = 580,
+              width = 750
+            ))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+### Plot
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 6b: Population by top countries of birth, London boroughs, 2021
+
+</div>
+
+<div align = "center">
+
+```{r}
+
+shinyAppDir("scripts/borough_plot_app",
+            options = list(
+              height = 580,
+              width = 750
+            ))
+
+```
+
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 6:  Population by country of birth, London boroughs, 2021
+
+</div>
+
+<div align = "center">
+
+```{r}
+
+source("scripts/boroughs_table.R")
+
+get_boroughs_table()
+
+```
+
+
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS <br>
+Please see the <a href = "#defs">definitions section</a> for a detailed definition of the "Other" categories
+
+</div>
+
+
+
+## --
+
+-	In six London boroughs, over half of their residents were born outside the UK. Highest proportions were Brent and Westminster (each 56 per cent foreign-born), Kensington & Chelsea and Newham (each 54 per cent) and Harrow and Ealing (each 51 per cent). Eighteen of the 20 local authorities with the highest proportions born outside the UK were in London.
+-	159,000, nearly half of London’s 323,000 residents born in India lived in the five west London boroughs Hounslow (38,000), Brent (35,000), Ealing (32,000), Hillingdon (28,000) and Harrow (26,000). 13 per cent of Hounslow’s total population were born in India. 
+-	Romania-born residents were concentrated in north London. Harrow had the highest number of residents born in Romania 21,000 8 per cent of the borough total, and Brent, Newham, Barnet, Redbridge and Waltham Forest each had over 10,000 Romania-born. Poland-born Londoners were more dispersed. There were most in Ealing 19,000, 5 per cent of Ealing’s total. Only Ealing and Hounslow housed more than 10,000 Poland-born.
+-	Bangladesh-born residents were concentrated in north-east London. Two thirds of the London total of 139,000 were in Tower Hamlets (44,000, 14 per cent of the borough’s total population), Newham (26,000), Redbridge (14,000) and Barking & Dagenham (9,000). There were most Pakistan-born residents in Redbridge (18,000), Newham (14,000) and Waltham Forest (11,000).
+
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Diversity across London
+</p>
+
+A diversity index is a summary measure of how evenly a population is distributed across categories. The GLA has produced ethnic diversity indices for London since the 2001 Census and for 2011 indices were produced for a wider range of identity variables, including country of birth. 
+
+<br>
+
+This analysis presents the Simpsons diversity index for London wards in force following the May 2022 elections. It uses GLA estimates of ward level data based on apportioning published output area data by the distribution of residential addresses. These estimates may differ from those produced elsewhere, for example by ONS, using alternative methods. There are 679 wards across the 32 boroughs, with City of London included as a single area. Comparable figures are given for country of birth diversity for both 2021 and 2011 data.
+
+<br>
+
+For 2021 we present standardised diversity ranging from 0 (no diversity - all persons have the same country of birth) to 1 (maximum diversity). In 2011, indices were ‘raw’ so ranged from 1 to the number of categories. This change is presentational and does not affect the ordering of wards’ index scores. See the methodology note for more details.  
+
+
+
+## Diversity and change{.tabset}
+
+### 2021 diversity
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 7a: Map of country of birth diversity index, London wards, 2021 
+
+</div>
+
+<div align = "center">
+```{r}
+
+htmltools::includeHTML("fragments/di_map_21.html")
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Change since 2011
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Figure 7b: Map of change in country of birth diversity index, London wards, 2011 and 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+htmltools::includeHTML("fragments/di_map_change.html")
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Table 7: Table of country of birth diversity indices, London wards, 2011 and 2021
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/di_tab.R")
+get_di_tab()
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2021 Census, ONS
+
+</div>
+
+
+### Methodology note
+
+<div style = "background-color:#dcdcdc">
+
+<div style = "font-weight: bold">
+
+Overview
+
+</div>
+
+The GLA uses Diversity Indices to compare diversity for a census variable across areas and over time. A diversity index is a summary measure of group diversity in a population, taking into account the number of different groups present, and the sizes of these distinct groups relative to each other.  
+
+<br>
+There are multiple measures of diversity, including the Entropy Index, Shannon's Index, and the Simpson's Index. Each of these comes with advantages and disadvantages.  
+
+<br>
+
+<div style = "font-weight: bold">
+
+Simpson's Index
+
+</div>
+
+The GLA uses the Simpson's Index. The equation for Simpson's Index is shown below:    
+
+<br>
+
+ $$S = 1- \sum_{n = 1}^{k} (\frac{n_i}{N})^2  $$
+
+<br>
+
+where S is the Simpson's Diversity Index, n is the number of individuals in category i, k is the total number of categories, and N is the total population size. This is a different formulation of the Simpson's Index than the one the GLA used in 2011 and gives a different range - 0 to 1 rather than 1 to k.
+
+<br>
+
+An advantage of the Simpson's Index is its simplicity of calculation and interpretation. The index ranges from 0 to a theoretical maximum of 1. 0 represents the lowest possible diversity and means that all persons have the same country of birth. For a finite number of categories k, the highest possible score is (k-1)/k - for example, if there were 10 categories within a variable the highest possible score would be 0.9. This maximum represents the situation where all persons in the population have a different country of birth. 
+
+<br>
+A disadvantage of the Simpson's Index is that it tends to give too much weight to the dominant category in a geography. A suitable example in this case is those born in the United Kingdom. If one geography has a high proportion born in the United Kingdom with the rest of the population born in the same country, while another geography has a similarly high proportion born in the United Kingdom but with the rest of the population split across ten different countries of birth, the Simpson's Index scores won't differ greatly between the geographies. This difference in diversity will be better picked up by other indices.  
+
+<br>
+
+<div style = "font-weight: bold">
+
+Categories included in the calculation
+
+</div>
+In order to compare across 2011 and 2021, the index is calculated using matched countries/sub-regions of birth between the two time periods, meaning some categories were aggregated. Additionally, the diversity index is calculated for a lower level of geography (ward level), meaning the country of birth variable is less detailed than at local authority level. The categories included are:  
+
+- United Kingdom
+- European Union 14
+- Other European Union
+- Europe non-EU (excluding the United Kingdom)
+- Africa
+- Antarctica and Oceania (including Australasia) and Other
+- Middle East and Asia
+- The Americas and the Caribbean.
+
+</div>
+
+## --
+
+-	The wards with the highest diversity scores in 2021 were Lancaster Gate, West End and Marylebone in Westminster; and Courtfield, Earl's Court, and Queen's Gate in Kensington & Chelsea. 
+-	Of wards in the top (most diverse) decile in 2021, 13 were in Brent, 11 in Westminster, and 10 each in Haringey and Kensington & Chelsea. The pattern was similar in 2011, the top decile included 15 wards in Brent, 12 in Haringey, 11 in Westminster and 9 in Kensington & Chelsea.
+-	Wards with the lowest diversity scores in 2021 were Biggin Hill and Darwin in Bromley, Upminster and Cranham in Havering, and Blendon & Penhill in Bexley. 
+-	Lowest diversity scores were predominantly in eastern outer boroughs. The bottom (least diverse) decile in 2021 included 16 wards in Bromley, 15 in Havering and 13 in Bexley. Counts were very similar for 2011: 18 in Havering, 16 wards in Bromley and 13 in Bexley.
+-	569 wards showed higher diversity scores in 2021 than in 2011, 79 showed lower diversity and 32 showed no change. Wards that increased the most tended to be in areas with low diversity in 2011 – seven of the top ten wards that increased most were in Havering. These were wards with very low diversity that were still below the London average in 2021. 
+-	Wards that saw the greatest decreases in diversity score over the decade were Springfield in Hackney, Nunhead & Queen's Road, Peckham Rye and Rye Lane in Southwark and Southall Green in Ealing. 
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<a name = "defs" id = "defs"> </a>
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Annex: Definitions
+</p>
+
+<div style = "font-weight: bold">
+Europe
+</div>
+- Other EU 2001 members: Austria, Belgium, Denmark, Finland, Gibraltar, Greece, Luxembourg, Netherlands, Sweden
+- Other EU 2001-2011 members: Bulgaria, Cyprus (EU), Czech Republic, Estonia, Hungary, Latvia, Malta, Slovakia, Slovenia
+- Other Europe non-EU: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Cyprus (non-European Union), Georgia, Iceland, Kosovo, Macedonia, Moldova, Montenegro, Norway, Russia, Serbia, Switzerland, Ukraine
+
+<br>
+
+<div style = "font-weight: bold">
+Africa
+</div>
+- North Africa: Algeria, Egypt, Libya, Mauritania, Morocco, South Sudan, Sudan, Tunisia
+- Other Central and Western Africa: Angola, Cameroon, Cape Verde, Congo, Congo (Democratic Republic), The Gambia, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Senegal, Sierra Leone, St Helena, Togo
+- Other South and Eastern Africa: Botswana, Burundi, Eritrea, Ethiopia, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Rwanda, Seychelles,  Swaziland, Tanzania, Uganda, Zambia
+- Africa not otherwise specified: Country or region not specified
+
+<br>
+
+<div style = "font-weight: bold">
+Middle East
+</div>
+- Other Middle East: Bahrain, Israel, Jordan, Kuwait, Lebanon, Occupied Palestinian Territories, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates, Yemen
+
+<br>
+
+<div style = "font-weight: bold">
+Asia
+</div>
+- Other Eastern Asia: Japan, North and South Korea, Macao, Mongolia, Taiwan
+- Other Southern Asia: Bhutan, Maldives, Nepal 
+- Other South East Asia: Brunei, Cambodia, Indonesia, Myanmar, Thailand, Vietnam
+
+<br>
+
+<div style = "font-weight: bold">
+Americas
+</div>
+- Caribbean other than Jamaica: Antigua and Barbuda, The Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, Jamaica, Montserrat, St Kitts and Nevis, St Lucia, St Vincent and the Grenadines, Trinidad and Tobago
+- Other North America: Bermuda
+- Central America: Belize, Mexico
+- South America: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Peru, Uruguay, Venezuela
+
+<br>
+
+<div style = "font-weight: bold">
+Oceania
+</div>
+- Other Oceania: Fiji, Papua New Guinea
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+
+
+&nbsp;
+<hr />
+
+<table style="background-color:#353D42; color:#ffffff"; width=100%; >
+  
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px">For more information please contact the Census Team, GLA City Intelligence Unit.<br>
+
+<a href="mailto:census@london.gov.uk">census@london.gov.uk</a></td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px">Copyright &copy; Greater London Authority, 2022</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+&nbsp;
+

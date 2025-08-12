@@ -1,0 +1,1948 @@
+geography_code,total_pop,date,geography,value,cob_region,cob,percs
+E09000001,8579,2021,City of London,0,Africa,Africa not otherwise specified,0
+E09000002,218870,2021,Barking and Dagenham,33,Africa,Africa not otherwise specified,0.02
+E09000003,389342,2021,Barnet,59,Africa,Africa not otherwise specified,0.02
+E09000004,246472,2021,Bexley,30,Africa,Africa not otherwise specified,0.01
+E09000005,339817,2021,Brent,126,Africa,Africa not otherwise specified,0.04
+E09000006,329984,2021,Bromley,13,Africa,Africa not otherwise specified,0
+E09000007,210135,2021,Camden,24,Africa,Africa not otherwise specified,0.01
+E09000008,390719,2021,Croydon,63,Africa,Africa not otherwise specified,0.02
+E09000009,367116,2021,Ealing,131,Africa,Africa not otherwise specified,0.04
+E09000010,329987,2021,Enfield,57,Africa,Africa not otherwise specified,0.02
+E09000011,289073,2021,Greenwich,41,Africa,Africa not otherwise specified,0.01
+E09000012,259147,2021,Hackney,37,Africa,Africa not otherwise specified,0.01
+E09000013,183149,2021,Hammersmith and Fulham,30,Africa,Africa not otherwise specified,0.02
+E09000014,264236,2021,Haringey,47,Africa,Africa not otherwise specified,0.02
+E09000015,261201,2021,Harrow,185,Africa,Africa not otherwise specified,0.07
+E09000016,262058,2021,Havering,22,Africa,Africa not otherwise specified,0.01
+E09000017,305912,2021,Hillingdon,76,Africa,Africa not otherwise specified,0.02
+E09000018,288177,2021,Hounslow,99,Africa,Africa not otherwise specified,0.03
+E09000019,216589,2021,Islington,29,Africa,Africa not otherwise specified,0.01
+E09000020,143375,2021,Kensington and Chelsea,10,Africa,Africa not otherwise specified,0.01
+E09000021,168064,2021,Kingston upon Thames,15,Africa,Africa not otherwise specified,0.01
+E09000022,317654,2021,Lambeth,55,Africa,Africa not otherwise specified,0.02
+E09000023,300556,2021,Lewisham,33,Africa,Africa not otherwise specified,0.01
+E09000024,215184,2021,Merton,22,Africa,Africa not otherwise specified,0.01
+E09000025,351041,2021,Newham,89,Africa,Africa not otherwise specified,0.03
+E09000026,310257,2021,Redbridge,144,Africa,Africa not otherwise specified,0.05
+E09000027,195277,2021,Richmond upon Thames,17,Africa,Africa not otherwise specified,0.01
+E09000028,307632,2021,Southwark,61,Africa,Africa not otherwise specified,0.02
+E09000029,209640,2021,Sutton,11,Africa,Africa not otherwise specified,0.01
+E09000030,310304,2021,Tower Hamlets,18,Africa,Africa not otherwise specified,0.01
+E09000031,278417,2021,Waltham Forest,32,Africa,Africa not otherwise specified,0.01
+E09000032,327502,2021,Wandsworth,30,Africa,Africa not otherwise specified,0.01
+E09000033,204238,2021,Westminster,28,Africa,Africa not otherwise specified,0.01
+E09000001,8579,2021,City of London,24,Africa,Ghana,0.28
+E09000002,218870,2021,Barking and Dagenham,3320,Africa,Ghana,1.52
+E09000003,389342,2021,Barnet,2013,Africa,Ghana,0.52
+E09000004,246472,2021,Bexley,1640,Africa,Ghana,0.67
+E09000005,339817,2021,Brent,2358,Africa,Ghana,0.69
+E09000006,329984,2021,Bromley,1128,Africa,Ghana,0.34
+E09000007,210135,2021,Camden,576,Africa,Ghana,0.27
+E09000008,390719,2021,Croydon,7244,Africa,Ghana,1.85
+E09000009,367116,2021,Ealing,1048,Africa,Ghana,0.29
+E09000010,329987,2021,Enfield,4738,Africa,Ghana,1.44
+E09000011,289073,2021,Greenwich,2730,Africa,Ghana,0.94
+E09000012,259147,2021,Hackney,3088,Africa,Ghana,1.19
+E09000013,183149,2021,Hammersmith and Fulham,702,Africa,Ghana,0.38
+E09000014,264236,2021,Haringey,3153,Africa,Ghana,1.19
+E09000015,261201,2021,Harrow,915,Africa,Ghana,0.35
+E09000016,262058,2021,Havering,1246,Africa,Ghana,0.48
+E09000017,305912,2021,Hillingdon,736,Africa,Ghana,0.24
+E09000018,288177,2021,Hounslow,1197,Africa,Ghana,0.42
+E09000019,216589,2021,Islington,850,Africa,Ghana,0.39
+E09000020,143375,2021,Kensington and Chelsea,438,Africa,Ghana,0.31
+E09000021,168064,2021,Kingston upon Thames,241,Africa,Ghana,0.14
+E09000022,317654,2021,Lambeth,4106,Africa,Ghana,1.29
+E09000023,300556,2021,Lewisham,2838,Africa,Ghana,0.94
+E09000024,215184,2021,Merton,3037,Africa,Ghana,1.41
+E09000025,351041,2021,Newham,4085,Africa,Ghana,1.16
+E09000026,310257,2021,Redbridge,1199,Africa,Ghana,0.39
+E09000027,195277,2021,Richmond upon Thames,215,Africa,Ghana,0.11
+E09000028,307632,2021,Southwark,4321,Africa,Ghana,1.4
+E09000029,209640,2021,Sutton,1212,Africa,Ghana,0.58
+E09000030,310304,2021,Tower Hamlets,838,Africa,Ghana,0.27
+E09000031,278417,2021,Waltham Forest,2474,Africa,Ghana,0.89
+E09000032,327502,2021,Wandsworth,1819,Africa,Ghana,0.56
+E09000033,204238,2021,Westminster,376,Africa,Ghana,0.18
+E09000001,8579,2021,City of London,21,Africa,Nigeria,0.24
+E09000002,218870,2021,Barking and Dagenham,9434,Africa,Nigeria,4.31
+E09000003,389342,2021,Barnet,3846,Africa,Nigeria,0.99
+E09000004,246472,2021,Bexley,8831,Africa,Nigeria,3.58
+E09000005,339817,2021,Brent,2559,Africa,Nigeria,0.75
+E09000006,329984,2021,Bromley,3515,Africa,Nigeria,1.07
+E09000007,210135,2021,Camden,1063,Africa,Nigeria,0.51
+E09000008,390719,2021,Croydon,6185,Africa,Nigeria,1.58
+E09000009,367116,2021,Ealing,1603,Africa,Nigeria,0.44
+E09000010,329987,2021,Enfield,3861,Africa,Nigeria,1.17
+E09000011,289073,2021,Greenwich,14357,Africa,Nigeria,4.97
+E09000012,259147,2021,Hackney,5239,Africa,Nigeria,2.02
+E09000013,183149,2021,Hammersmith and Fulham,934,Africa,Nigeria,0.51
+E09000014,264236,2021,Haringey,2380,Africa,Nigeria,0.9
+E09000015,261201,2021,Harrow,1199,Africa,Nigeria,0.46
+E09000016,262058,2021,Havering,4137,Africa,Nigeria,1.58
+E09000017,305912,2021,Hillingdon,1514,Africa,Nigeria,0.49
+E09000018,288177,2021,Hounslow,1205,Africa,Nigeria,0.42
+E09000019,216589,2021,Islington,1477,Africa,Nigeria,0.68
+E09000020,143375,2021,Kensington and Chelsea,559,Africa,Nigeria,0.39
+E09000021,168064,2021,Kingston upon Thames,457,Africa,Nigeria,0.27
+E09000022,317654,2021,Lambeth,5139,Africa,Nigeria,1.62
+E09000023,300556,2021,Lewisham,9278,Africa,Nigeria,3.09
+E09000024,215184,2021,Merton,1338,Africa,Nigeria,0.62
+E09000025,351041,2021,Newham,5813,Africa,Nigeria,1.66
+E09000026,310257,2021,Redbridge,2321,Africa,Nigeria,0.75
+E09000027,195277,2021,Richmond upon Thames,368,Africa,Nigeria,0.19
+E09000028,307632,2021,Southwark,11173,Africa,Nigeria,3.63
+E09000029,209640,2021,Sutton,1144,Africa,Nigeria,0.55
+E09000030,310304,2021,Tower Hamlets,1459,Africa,Nigeria,0.47
+E09000031,278417,2021,Waltham Forest,2021,Africa,Nigeria,0.73
+E09000032,327502,2021,Wandsworth,1594,Africa,Nigeria,0.49
+E09000033,204238,2021,Westminster,1121,Africa,Nigeria,0.55
+E09000001,8579,2021,City of London,17,Africa,Other Central and Western Africa,0.2
+E09000002,218870,2021,Barking and Dagenham,3489,Africa,Other Central and Western Africa,1.59
+E09000003,389342,2021,Barnet,2446,Africa,Other Central and Western Africa,0.63
+E09000004,246472,2021,Bexley,1400,Africa,Other Central and Western Africa,0.57
+E09000005,339817,2021,Brent,2158,Africa,Other Central and Western Africa,0.64
+E09000006,329984,2021,Bromley,1273,Africa,Other Central and Western Africa,0.39
+E09000007,210135,2021,Camden,1333,Africa,Other Central and Western Africa,0.63
+E09000008,390719,2021,Croydon,4473,Africa,Other Central and Western Africa,1.14
+E09000009,367116,2021,Ealing,1124,Africa,Other Central and Western Africa,0.31
+E09000010,329987,2021,Enfield,3690,Africa,Other Central and Western Africa,1.12
+E09000011,289073,2021,Greenwich,3606,Africa,Other Central and Western Africa,1.25
+E09000012,259147,2021,Hackney,4277,Africa,Other Central and Western Africa,1.65
+E09000013,183149,2021,Hammersmith and Fulham,808,Africa,Other Central and Western Africa,0.44
+E09000014,264236,2021,Haringey,3029,Africa,Other Central and Western Africa,1.15
+E09000015,261201,2021,Harrow,635,Africa,Other Central and Western Africa,0.24
+E09000016,262058,2021,Havering,855,Africa,Other Central and Western Africa,0.33
+E09000017,305912,2021,Hillingdon,961,Africa,Other Central and Western Africa,0.31
+E09000018,288177,2021,Hounslow,1055,Africa,Other Central and Western Africa,0.37
+E09000019,216589,2021,Islington,1502,Africa,Other Central and Western Africa,0.69
+E09000020,143375,2021,Kensington and Chelsea,563,Africa,Other Central and Western Africa,0.39
+E09000021,168064,2021,Kingston upon Thames,396,Africa,Other Central and Western Africa,0.24
+E09000022,317654,2021,Lambeth,4680,Africa,Other Central and Western Africa,1.47
+E09000023,300556,2021,Lewisham,5279,Africa,Other Central and Western Africa,1.76
+E09000024,215184,2021,Merton,1058,Africa,Other Central and Western Africa,0.49
+E09000025,351041,2021,Newham,5336,Africa,Other Central and Western Africa,1.52
+E09000026,310257,2021,Redbridge,1716,Africa,Other Central and Western Africa,0.55
+E09000027,195277,2021,Richmond upon Thames,309,Africa,Other Central and Western Africa,0.16
+E09000028,307632,2021,Southwark,7462,Africa,Other Central and Western Africa,2.43
+E09000029,209640,2021,Sutton,682,Africa,Other Central and Western Africa,0.33
+E09000030,310304,2021,Tower Hamlets,1435,Africa,Other Central and Western Africa,0.46
+E09000031,278417,2021,Waltham Forest,2207,Africa,Other Central and Western Africa,0.79
+E09000032,327502,2021,Wandsworth,1328,Africa,Other Central and Western Africa,0.41
+E09000033,204238,2021,Westminster,1381,Africa,Other Central and Western Africa,0.68
+E09000001,8579,2021,City of London,83,Africa,North Africa,0.97
+E09000002,218870,2021,Barking and Dagenham,943,Africa,North Africa,0.43
+E09000003,389342,2021,Barnet,3370,Africa,North Africa,0.87
+E09000004,246472,2021,Bexley,465,Africa,North Africa,0.19
+E09000005,339817,2021,Brent,5304,Africa,North Africa,1.56
+E09000006,329984,2021,Bromley,1006,Africa,North Africa,0.3
+E09000007,210135,2021,Camden,2415,Africa,North Africa,1.15
+E09000008,390719,2021,Croydon,1679,Africa,North Africa,0.43
+E09000009,367116,2021,Ealing,4271,Africa,North Africa,1.16
+E09000010,329987,2021,Enfield,1608,Africa,North Africa,0.49
+E09000011,289073,2021,Greenwich,1149,Africa,North Africa,0.4
+E09000012,259147,2021,Hackney,1687,Africa,North Africa,0.65
+E09000013,183149,2021,Hammersmith and Fulham,2869,Africa,North Africa,1.57
+E09000014,264236,2021,Haringey,1827,Africa,North Africa,0.69
+E09000015,261201,2021,Harrow,1375,Africa,North Africa,0.53
+E09000016,262058,2021,Havering,507,Africa,North Africa,0.19
+E09000017,305912,2021,Hillingdon,1680,Africa,North Africa,0.55
+E09000018,288177,2021,Hounslow,3081,Africa,North Africa,1.07
+E09000019,216589,2021,Islington,1940,Africa,North Africa,0.9
+E09000020,143375,2021,Kensington and Chelsea,3560,Africa,North Africa,2.48
+E09000021,168064,2021,Kingston upon Thames,987,Africa,North Africa,0.59
+E09000022,317654,2021,Lambeth,2051,Africa,North Africa,0.65
+E09000023,300556,2021,Lewisham,1382,Africa,North Africa,0.46
+E09000024,215184,2021,Merton,1127,Africa,North Africa,0.52
+E09000025,351041,2021,Newham,1965,Africa,North Africa,0.56
+E09000026,310257,2021,Redbridge,1160,Africa,North Africa,0.37
+E09000027,195277,2021,Richmond upon Thames,933,Africa,North Africa,0.48
+E09000028,307632,2021,Southwark,2198,Africa,North Africa,0.71
+E09000029,209640,2021,Sutton,714,Africa,North Africa,0.34
+E09000030,310304,2021,Tower Hamlets,2359,Africa,North Africa,0.76
+E09000031,278417,2021,Waltham Forest,2477,Africa,North Africa,0.89
+E09000032,327502,2021,Wandsworth,2473,Africa,North Africa,0.76
+E09000033,204238,2021,Westminster,5623,Africa,North Africa,2.75
+E09000001,8579,2021,City of London,28,Africa,Kenya,0.33
+E09000002,218870,2021,Barking and Dagenham,892,Africa,Kenya,0.41
+E09000003,389342,2021,Barnet,4384,Africa,Kenya,1.13
+E09000004,246472,2021,Bexley,826,Africa,Kenya,0.34
+E09000005,339817,2021,Brent,6370,Africa,Kenya,1.87
+E09000006,329984,2021,Bromley,846,Africa,Kenya,0.26
+E09000007,210135,2021,Camden,491,Africa,Kenya,0.23
+E09000008,390719,2021,Croydon,3088,Africa,Kenya,0.79
+E09000009,367116,2021,Ealing,3760,Africa,Kenya,1.02
+E09000010,329987,2021,Enfield,1897,Africa,Kenya,0.57
+E09000011,289073,2021,Greenwich,926,Africa,Kenya,0.32
+E09000012,259147,2021,Hackney,398,Africa,Kenya,0.15
+E09000013,183149,2021,Hammersmith and Fulham,407,Africa,Kenya,0.22
+E09000014,264236,2021,Haringey,792,Africa,Kenya,0.3
+E09000015,261201,2021,Harrow,10859,Africa,Kenya,4.16
+E09000016,262058,2021,Havering,662,Africa,Kenya,0.25
+E09000017,305912,2021,Hillingdon,3670,Africa,Kenya,1.2
+E09000018,288177,2021,Hounslow,3755,Africa,Kenya,1.3
+E09000019,216589,2021,Islington,370,Africa,Kenya,0.17
+E09000020,143375,2021,Kensington and Chelsea,304,Africa,Kenya,0.21
+E09000021,168064,2021,Kingston upon Thames,706,Africa,Kenya,0.42
+E09000022,317654,2021,Lambeth,822,Africa,Kenya,0.26
+E09000023,300556,2021,Lewisham,571,Africa,Kenya,0.19
+E09000024,215184,2021,Merton,907,Africa,Kenya,0.42
+E09000025,351041,2021,Newham,1725,Africa,Kenya,0.49
+E09000026,310257,2021,Redbridge,3425,Africa,Kenya,1.1
+E09000027,195277,2021,Richmond upon Thames,722,Africa,Kenya,0.37
+E09000028,307632,2021,Southwark,628,Africa,Kenya,0.2
+E09000029,209640,2021,Sutton,770,Africa,Kenya,0.37
+E09000030,310304,2021,Tower Hamlets,492,Africa,Kenya,0.16
+E09000031,278417,2021,Waltham Forest,818,Africa,Kenya,0.29
+E09000032,327502,2021,Wandsworth,1149,Africa,Kenya,0.35
+E09000033,204238,2021,Westminster,556,Africa,Kenya,0.27
+E09000001,8579,2021,City of London,43,Africa,Other South and Eastern Africa,0.5
+E09000002,218870,2021,Barking and Dagenham,2266,Africa,Other South and Eastern Africa,1.04
+E09000003,389342,2021,Barnet,4731,Africa,Other South and Eastern Africa,1.22
+E09000004,246472,2021,Bexley,1470,Africa,Other South and Eastern Africa,0.6
+E09000005,339817,2021,Brent,6730,Africa,Other South and Eastern Africa,1.98
+E09000006,329984,2021,Bromley,1809,Africa,Other South and Eastern Africa,0.55
+E09000007,210135,2021,Camden,2237,Africa,Other South and Eastern Africa,1.06
+E09000008,390719,2021,Croydon,7054,Africa,Other South and Eastern Africa,1.81
+E09000009,367116,2021,Ealing,4945,Africa,Other South and Eastern Africa,1.35
+E09000010,329987,2021,Enfield,6325,Africa,Other South and Eastern Africa,1.92
+E09000011,289073,2021,Greenwich,3009,Africa,Other South and Eastern Africa,1.04
+E09000012,259147,2021,Hackney,2504,Africa,Other South and Eastern Africa,0.97
+E09000013,183149,2021,Hammersmith and Fulham,2614,Africa,Other South and Eastern Africa,1.43
+E09000014,264236,2021,Haringey,4233,Africa,Other South and Eastern Africa,1.6
+E09000015,261201,2021,Harrow,8058,Africa,Other South and Eastern Africa,3.08
+E09000016,262058,2021,Havering,1399,Africa,Other South and Eastern Africa,0.53
+E09000017,305912,2021,Hillingdon,5040,Africa,Other South and Eastern Africa,1.65
+E09000018,288177,2021,Hounslow,4084,Africa,Other South and Eastern Africa,1.42
+E09000019,216589,2021,Islington,3200,Africa,Other South and Eastern Africa,1.48
+E09000020,143375,2021,Kensington and Chelsea,1951,Africa,Other South and Eastern Africa,1.36
+E09000021,168064,2021,Kingston upon Thames,1350,Africa,Other South and Eastern Africa,0.8
+E09000022,317654,2021,Lambeth,5196,Africa,Other South and Eastern Africa,1.64
+E09000023,300556,2021,Lewisham,2556,Africa,Other South and Eastern Africa,0.85
+E09000024,215184,2021,Merton,2709,Africa,Other South and Eastern Africa,1.26
+E09000025,351041,2021,Newham,4975,Africa,Other South and Eastern Africa,1.42
+E09000026,310257,2021,Redbridge,4769,Africa,Other South and Eastern Africa,1.54
+E09000027,195277,2021,Richmond upon Thames,1105,Africa,Other South and Eastern Africa,0.57
+E09000028,307632,2021,Southwark,3663,Africa,Other South and Eastern Africa,1.19
+E09000029,209640,2021,Sutton,2213,Africa,Other South and Eastern Africa,1.06
+E09000030,310304,2021,Tower Hamlets,1725,Africa,Other South and Eastern Africa,0.56
+E09000031,278417,2021,Waltham Forest,3134,Africa,Other South and Eastern Africa,1.13
+E09000032,327502,2021,Wandsworth,3653,Africa,Other South and Eastern Africa,1.12
+E09000033,204238,2021,Westminster,2392,Africa,Other South and Eastern Africa,1.17
+E09000001,8579,2021,City of London,16,Africa,Somalia,0.19
+E09000002,218870,2021,Barking and Dagenham,1311,Africa,Somalia,0.6
+E09000003,389342,2021,Barnet,2276,Africa,Somalia,0.58
+E09000004,246472,2021,Bexley,90,Africa,Somalia,0.04
+E09000005,339817,2021,Brent,6678,Africa,Somalia,1.97
+E09000006,329984,2021,Bromley,257,Africa,Somalia,0.08
+E09000007,210135,2021,Camden,2954,Africa,Somalia,1.41
+E09000008,390719,2021,Croydon,1226,Africa,Somalia,0.31
+E09000009,367116,2021,Ealing,5848,Africa,Somalia,1.59
+E09000010,329987,2021,Enfield,3807,Africa,Somalia,1.15
+E09000011,289073,2021,Greenwich,2073,Africa,Somalia,0.72
+E09000012,259147,2021,Hackney,1512,Africa,Somalia,0.58
+E09000013,183149,2021,Hammersmith and Fulham,2446,Africa,Somalia,1.34
+E09000014,264236,2021,Haringey,2642,Africa,Somalia,1
+E09000015,261201,2021,Harrow,2455,Africa,Somalia,0.94
+E09000016,262058,2021,Havering,161,Africa,Somalia,0.06
+E09000017,305912,2021,Hillingdon,3281,Africa,Somalia,1.07
+E09000018,288177,2021,Hounslow,3032,Africa,Somalia,1.05
+E09000019,216589,2021,Islington,3070,Africa,Somalia,1.42
+E09000020,143375,2021,Kensington and Chelsea,807,Africa,Somalia,0.56
+E09000021,168064,2021,Kingston upon Thames,113,Africa,Somalia,0.07
+E09000022,317654,2021,Lambeth,2511,Africa,Somalia,0.79
+E09000023,300556,2021,Lewisham,1342,Africa,Somalia,0.45
+E09000024,215184,2021,Merton,568,Africa,Somalia,0.26
+E09000025,351041,2021,Newham,3755,Africa,Somalia,1.07
+E09000026,310257,2021,Redbridge,1511,Africa,Somalia,0.49
+E09000027,195277,2021,Richmond upon Thames,108,Africa,Somalia,0.06
+E09000028,307632,2021,Southwark,1509,Africa,Somalia,0.49
+E09000029,209640,2021,Sutton,127,Africa,Somalia,0.06
+E09000030,310304,2021,Tower Hamlets,3107,Africa,Somalia,1
+E09000031,278417,2021,Waltham Forest,2259,Africa,Somalia,0.81
+E09000032,327502,2021,Wandsworth,2630,Africa,Somalia,0.8
+E09000033,204238,2021,Westminster,804,Africa,Somalia,0.39
+E09000001,8579,2021,City of London,68,Africa,South Africa,0.79
+E09000002,218870,2021,Barking and Dagenham,323,Africa,South Africa,0.15
+E09000003,389342,2021,Barnet,3232,Africa,South Africa,0.83
+E09000004,246472,2021,Bexley,679,Africa,South Africa,0.28
+E09000005,339817,2021,Brent,862,Africa,South Africa,0.25
+E09000006,329984,2021,Bromley,1939,Africa,South Africa,0.59
+E09000007,210135,2021,Camden,1735,Africa,South Africa,0.83
+E09000008,390719,2021,Croydon,1551,Africa,South Africa,0.4
+E09000009,367116,2021,Ealing,1437,Africa,South Africa,0.39
+E09000010,329987,2021,Enfield,725,Africa,South Africa,0.22
+E09000011,289073,2021,Greenwich,1465,Africa,South Africa,0.51
+E09000012,259147,2021,Hackney,964,Africa,South Africa,0.37
+E09000013,183149,2021,Hammersmith and Fulham,1564,Africa,South Africa,0.85
+E09000014,264236,2021,Haringey,1214,Africa,South Africa,0.46
+E09000015,261201,2021,Harrow,766,Africa,South Africa,0.29
+E09000016,262058,2021,Havering,681,Africa,South Africa,0.26
+E09000017,305912,2021,Hillingdon,940,Africa,South Africa,0.31
+E09000018,288177,2021,Hounslow,1123,Africa,South Africa,0.39
+E09000019,216589,2021,Islington,1065,Africa,South Africa,0.49
+E09000020,143375,2021,Kensington and Chelsea,1026,Africa,South Africa,0.72
+E09000021,168064,2021,Kingston upon Thames,2059,Africa,South Africa,1.23
+E09000022,317654,2021,Lambeth,2102,Africa,South Africa,0.66
+E09000023,300556,2021,Lewisham,1154,Africa,South Africa,0.38
+E09000024,215184,2021,Merton,3636,Africa,South Africa,1.69
+E09000025,351041,2021,Newham,842,Africa,South Africa,0.24
+E09000026,310257,2021,Redbridge,676,Africa,South Africa,0.22
+E09000027,195277,2021,Richmond upon Thames,2618,Africa,South Africa,1.34
+E09000028,307632,2021,Southwark,1387,Africa,South Africa,0.45
+E09000029,209640,2021,Sutton,1645,Africa,South Africa,0.78
+E09000030,310304,2021,Tower Hamlets,1356,Africa,South Africa,0.44
+E09000031,278417,2021,Waltham Forest,907,Africa,South Africa,0.33
+E09000032,327502,2021,Wandsworth,4860,Africa,South Africa,1.48
+E09000033,204238,2021,Westminster,1365,Africa,South Africa,0.67
+E09000001,8579,2021,City of London,12,Africa,Zimbabwe,0.14
+E09000002,218870,2021,Barking and Dagenham,765,Africa,Zimbabwe,0.35
+E09000003,389342,2021,Barnet,729,Africa,Zimbabwe,0.19
+E09000004,246472,2021,Bexley,628,Africa,Zimbabwe,0.25
+E09000005,339817,2021,Brent,372,Africa,Zimbabwe,0.11
+E09000006,329984,2021,Bromley,824,Africa,Zimbabwe,0.25
+E09000007,210135,2021,Camden,270,Africa,Zimbabwe,0.13
+E09000008,390719,2021,Croydon,1144,Africa,Zimbabwe,0.29
+E09000009,367116,2021,Ealing,460,Africa,Zimbabwe,0.13
+E09000010,329987,2021,Enfield,547,Africa,Zimbabwe,0.17
+E09000011,289073,2021,Greenwich,838,Africa,Zimbabwe,0.29
+E09000012,259147,2021,Hackney,276,Africa,Zimbabwe,0.11
+E09000013,183149,2021,Hammersmith and Fulham,282,Africa,Zimbabwe,0.15
+E09000014,264236,2021,Haringey,395,Africa,Zimbabwe,0.15
+E09000015,261201,2021,Harrow,319,Africa,Zimbabwe,0.12
+E09000016,262058,2021,Havering,710,Africa,Zimbabwe,0.27
+E09000017,305912,2021,Hillingdon,639,Africa,Zimbabwe,0.21
+E09000018,288177,2021,Hounslow,569,Africa,Zimbabwe,0.2
+E09000019,216589,2021,Islington,295,Africa,Zimbabwe,0.14
+E09000020,143375,2021,Kensington and Chelsea,171,Africa,Zimbabwe,0.12
+E09000021,168064,2021,Kingston upon Thames,452,Africa,Zimbabwe,0.27
+E09000022,317654,2021,Lambeth,495,Africa,Zimbabwe,0.16
+E09000023,300556,2021,Lewisham,698,Africa,Zimbabwe,0.23
+E09000024,215184,2021,Merton,713,Africa,Zimbabwe,0.33
+E09000025,351041,2021,Newham,590,Africa,Zimbabwe,0.17
+E09000026,310257,2021,Redbridge,412,Africa,Zimbabwe,0.13
+E09000027,195277,2021,Richmond upon Thames,435,Africa,Zimbabwe,0.22
+E09000028,307632,2021,Southwark,517,Africa,Zimbabwe,0.17
+E09000029,209640,2021,Sutton,702,Africa,Zimbabwe,0.33
+E09000030,310304,2021,Tower Hamlets,374,Africa,Zimbabwe,0.12
+E09000031,278417,2021,Waltham Forest,367,Africa,Zimbabwe,0.13
+E09000032,327502,2021,Wandsworth,755,Africa,Zimbabwe,0.23
+E09000033,204238,2021,Westminster,244,Africa,Zimbabwe,0.12
+E09000001,8579,2021,City of London,155,Antarctica and Oceania,Australia,1.81
+E09000002,218870,2021,Barking and Dagenham,50,Antarctica and Oceania,Australia,0.02
+E09000003,389342,2021,Barnet,1079,Antarctica and Oceania,Australia,0.28
+E09000004,246472,2021,Bexley,275,Antarctica and Oceania,Australia,0.11
+E09000005,339817,2021,Brent,900,Antarctica and Oceania,Australia,0.26
+E09000006,329984,2021,Bromley,1026,Antarctica and Oceania,Australia,0.31
+E09000007,210135,2021,Camden,2069,Antarctica and Oceania,Australia,0.98
+E09000008,390719,2021,Croydon,722,Antarctica and Oceania,Australia,0.18
+E09000009,367116,2021,Ealing,1264,Antarctica and Oceania,Australia,0.34
+E09000010,329987,2021,Enfield,422,Antarctica and Oceania,Australia,0.13
+E09000011,289073,2021,Greenwich,1008,Antarctica and Oceania,Australia,0.35
+E09000012,259147,2021,Hackney,3188,Antarctica and Oceania,Australia,1.23
+E09000013,183149,2021,Hammersmith and Fulham,2318,Antarctica and Oceania,Australia,1.27
+E09000014,264236,2021,Haringey,1407,Antarctica and Oceania,Australia,0.53
+E09000015,261201,2021,Harrow,287,Antarctica and Oceania,Australia,0.11
+E09000016,262058,2021,Havering,241,Antarctica and Oceania,Australia,0.09
+E09000017,305912,2021,Hillingdon,347,Antarctica and Oceania,Australia,0.11
+E09000018,288177,2021,Hounslow,821,Antarctica and Oceania,Australia,0.28
+E09000019,216589,2021,Islington,3225,Antarctica and Oceania,Australia,1.49
+E09000020,143375,2021,Kensington and Chelsea,1684,Antarctica and Oceania,Australia,1.17
+E09000021,168064,2021,Kingston upon Thames,735,Antarctica and Oceania,Australia,0.44
+E09000022,317654,2021,Lambeth,2966,Antarctica and Oceania,Australia,0.93
+E09000023,300556,2021,Lewisham,1316,Antarctica and Oceania,Australia,0.44
+E09000024,215184,2021,Merton,1162,Antarctica and Oceania,Australia,0.54
+E09000025,351041,2021,Newham,493,Antarctica and Oceania,Australia,0.14
+E09000026,310257,2021,Redbridge,378,Antarctica and Oceania,Australia,0.12
+E09000027,195277,2021,Richmond upon Thames,1892,Antarctica and Oceania,Australia,0.97
+E09000028,307632,2021,Southwark,2165,Antarctica and Oceania,Australia,0.7
+E09000029,209640,2021,Sutton,413,Antarctica and Oceania,Australia,0.2
+E09000030,310304,2021,Tower Hamlets,2239,Antarctica and Oceania,Australia,0.72
+E09000031,278417,2021,Waltham Forest,1014,Antarctica and Oceania,Australia,0.36
+E09000032,327502,2021,Wandsworth,4062,Antarctica and Oceania,Australia,1.24
+E09000033,204238,2021,Westminster,2097,Antarctica and Oceania,Australia,1.03
+E09000001,8579,2021,City of London,50,Antarctica and Oceania,New Zealand,0.58
+E09000002,218870,2021,Barking and Dagenham,55,Antarctica and Oceania,New Zealand,0.03
+E09000003,389342,2021,Barnet,418,Antarctica and Oceania,New Zealand,0.11
+E09000004,246472,2021,Bexley,126,Antarctica and Oceania,New Zealand,0.05
+E09000005,339817,2021,Brent,496,Antarctica and Oceania,New Zealand,0.15
+E09000006,329984,2021,Bromley,544,Antarctica and Oceania,New Zealand,0.16
+E09000007,210135,2021,Camden,758,Antarctica and Oceania,New Zealand,0.36
+E09000008,390719,2021,Croydon,370,Antarctica and Oceania,New Zealand,0.09
+E09000009,367116,2021,Ealing,835,Antarctica and Oceania,New Zealand,0.23
+E09000010,329987,2021,Enfield,199,Antarctica and Oceania,New Zealand,0.06
+E09000011,289073,2021,Greenwich,465,Antarctica and Oceania,New Zealand,0.16
+E09000012,259147,2021,Hackney,1257,Antarctica and Oceania,New Zealand,0.49
+E09000013,183149,2021,Hammersmith and Fulham,879,Antarctica and Oceania,New Zealand,0.48
+E09000014,264236,2021,Haringey,558,Antarctica and Oceania,New Zealand,0.21
+E09000015,261201,2021,Harrow,136,Antarctica and Oceania,New Zealand,0.05
+E09000016,262058,2021,Havering,109,Antarctica and Oceania,New Zealand,0.04
+E09000017,305912,2021,Hillingdon,219,Antarctica and Oceania,New Zealand,0.07
+E09000018,288177,2021,Hounslow,429,Antarctica and Oceania,New Zealand,0.15
+E09000019,216589,2021,Islington,1163,Antarctica and Oceania,New Zealand,0.54
+E09000020,143375,2021,Kensington and Chelsea,393,Antarctica and Oceania,New Zealand,0.27
+E09000021,168064,2021,Kingston upon Thames,367,Antarctica and Oceania,New Zealand,0.22
+E09000022,317654,2021,Lambeth,1396,Antarctica and Oceania,New Zealand,0.44
+E09000023,300556,2021,Lewisham,673,Antarctica and Oceania,New Zealand,0.22
+E09000024,215184,2021,Merton,647,Antarctica and Oceania,New Zealand,0.3
+E09000025,351041,2021,Newham,258,Antarctica and Oceania,New Zealand,0.07
+E09000026,310257,2021,Redbridge,164,Antarctica and Oceania,New Zealand,0.05
+E09000027,195277,2021,Richmond upon Thames,856,Antarctica and Oceania,New Zealand,0.44
+E09000028,307632,2021,Southwark,918,Antarctica and Oceania,New Zealand,0.3
+E09000029,209640,2021,Sutton,227,Antarctica and Oceania,New Zealand,0.11
+E09000030,310304,2021,Tower Hamlets,922,Antarctica and Oceania,New Zealand,0.3
+E09000031,278417,2021,Waltham Forest,508,Antarctica and Oceania,New Zealand,0.18
+E09000032,327502,2021,Wandsworth,1975,Antarctica and Oceania,New Zealand,0.6
+E09000033,204238,2021,Westminster,688,Antarctica and Oceania,New Zealand,0.34
+E09000001,8579,2021,City of London,0,Antarctica and Oceania,Other Australasia,0
+E09000002,218870,2021,Barking and Dagenham,0,Antarctica and Oceania,Other Australasia,0
+E09000003,389342,2021,Barnet,0,Antarctica and Oceania,Other Australasia,0
+E09000004,246472,2021,Bexley,0,Antarctica and Oceania,Other Australasia,0
+E09000005,339817,2021,Brent,2,Antarctica and Oceania,Other Australasia,0
+E09000006,329984,2021,Bromley,0,Antarctica and Oceania,Other Australasia,0
+E09000007,210135,2021,Camden,0,Antarctica and Oceania,Other Australasia,0
+E09000008,390719,2021,Croydon,0,Antarctica and Oceania,Other Australasia,0
+E09000009,367116,2021,Ealing,0,Antarctica and Oceania,Other Australasia,0
+E09000010,329987,2021,Enfield,0,Antarctica and Oceania,Other Australasia,0
+E09000011,289073,2021,Greenwich,0,Antarctica and Oceania,Other Australasia,0
+E09000012,259147,2021,Hackney,0,Antarctica and Oceania,Other Australasia,0
+E09000013,183149,2021,Hammersmith and Fulham,0,Antarctica and Oceania,Other Australasia,0
+E09000014,264236,2021,Haringey,0,Antarctica and Oceania,Other Australasia,0
+E09000015,261201,2021,Harrow,0,Antarctica and Oceania,Other Australasia,0
+E09000016,262058,2021,Havering,0,Antarctica and Oceania,Other Australasia,0
+E09000017,305912,2021,Hillingdon,0,Antarctica and Oceania,Other Australasia,0
+E09000018,288177,2021,Hounslow,0,Antarctica and Oceania,Other Australasia,0
+E09000019,216589,2021,Islington,1,Antarctica and Oceania,Other Australasia,0
+E09000020,143375,2021,Kensington and Chelsea,0,Antarctica and Oceania,Other Australasia,0
+E09000021,168064,2021,Kingston upon Thames,0,Antarctica and Oceania,Other Australasia,0
+E09000022,317654,2021,Lambeth,1,Antarctica and Oceania,Other Australasia,0
+E09000023,300556,2021,Lewisham,1,Antarctica and Oceania,Other Australasia,0
+E09000024,215184,2021,Merton,1,Antarctica and Oceania,Other Australasia,0
+E09000025,351041,2021,Newham,2,Antarctica and Oceania,Other Australasia,0
+E09000026,310257,2021,Redbridge,2,Antarctica and Oceania,Other Australasia,0
+E09000027,195277,2021,Richmond upon Thames,0,Antarctica and Oceania,Other Australasia,0
+E09000028,307632,2021,Southwark,2,Antarctica and Oceania,Other Australasia,0
+E09000029,209640,2021,Sutton,0,Antarctica and Oceania,Other Australasia,0
+E09000030,310304,2021,Tower Hamlets,0,Antarctica and Oceania,Other Australasia,0
+E09000031,278417,2021,Waltham Forest,1,Antarctica and Oceania,Other Australasia,0
+E09000032,327502,2021,Wandsworth,0,Antarctica and Oceania,Other Australasia,0
+E09000033,204238,2021,Westminster,1,Antarctica and Oceania,Other Australasia,0
+E09000001,8579,2021,City of London,0,Antarctica and Oceania,Other Oceania and Antarctica,0
+E09000002,218870,2021,Barking and Dagenham,35,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000003,389342,2021,Barnet,82,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000004,246472,2021,Bexley,25,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+E09000005,339817,2021,Brent,199,Antarctica and Oceania,Other Oceania and Antarctica,0.06
+E09000006,329984,2021,Bromley,45,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+E09000007,210135,2021,Camden,40,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000008,390719,2021,Croydon,97,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000009,367116,2021,Ealing,162,Antarctica and Oceania,Other Oceania and Antarctica,0.04
+E09000010,329987,2021,Enfield,55,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000011,289073,2021,Greenwich,58,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000012,259147,2021,Hackney,51,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000013,183149,2021,Hammersmith and Fulham,57,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+E09000014,264236,2021,Haringey,47,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000015,261201,2021,Harrow,172,Antarctica and Oceania,Other Oceania and Antarctica,0.07
+E09000016,262058,2021,Havering,29,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+E09000017,305912,2021,Hillingdon,163,Antarctica and Oceania,Other Oceania and Antarctica,0.05
+E09000018,288177,2021,Hounslow,167,Antarctica and Oceania,Other Oceania and Antarctica,0.06
+E09000019,216589,2021,Islington,50,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000020,143375,2021,Kensington and Chelsea,43,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+E09000021,168064,2021,Kingston upon Thames,36,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000022,317654,2021,Lambeth,107,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+E09000023,300556,2021,Lewisham,50,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000024,215184,2021,Merton,54,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+E09000025,351041,2021,Newham,66,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000026,310257,2021,Redbridge,71,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000027,195277,2021,Richmond upon Thames,47,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000028,307632,2021,Southwark,59,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000029,209640,2021,Sutton,32,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000030,310304,2021,Tower Hamlets,35,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+E09000031,278417,2021,Waltham Forest,36,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+E09000032,327502,2021,Wandsworth,64,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+E09000033,204238,2021,Westminster,91,Antarctica and Oceania,Other Oceania and Antarctica,0.04
+E09000001,8579,2021,City of London,24,Europe,Lithuania,0.28
+E09000002,218870,2021,Barking and Dagenham,5494,Europe,Lithuania,2.51
+E09000003,389342,2021,Barnet,1148,Europe,Lithuania,0.29
+E09000004,246472,2021,Bexley,1280,Europe,Lithuania,0.52
+E09000005,339817,2021,Brent,830,Europe,Lithuania,0.24
+E09000006,329984,2021,Bromley,1116,Europe,Lithuania,0.34
+E09000007,210135,2021,Camden,449,Europe,Lithuania,0.21
+E09000008,390719,2021,Croydon,1088,Europe,Lithuania,0.28
+E09000009,367116,2021,Ealing,1215,Europe,Lithuania,0.33
+E09000010,329987,2021,Enfield,831,Europe,Lithuania,0.25
+E09000011,289073,2021,Greenwich,2744,Europe,Lithuania,0.95
+E09000012,259147,2021,Hackney,528,Europe,Lithuania,0.2
+E09000013,183149,2021,Hammersmith and Fulham,537,Europe,Lithuania,0.29
+E09000014,264236,2021,Haringey,919,Europe,Lithuania,0.35
+E09000015,261201,2021,Harrow,462,Europe,Lithuania,0.18
+E09000016,262058,2021,Havering,2841,Europe,Lithuania,1.08
+E09000017,305912,2021,Hillingdon,1138,Europe,Lithuania,0.37
+E09000018,288177,2021,Hounslow,1556,Europe,Lithuania,0.54
+E09000019,216589,2021,Islington,469,Europe,Lithuania,0.22
+E09000020,143375,2021,Kensington and Chelsea,307,Europe,Lithuania,0.21
+E09000021,168064,2021,Kingston upon Thames,572,Europe,Lithuania,0.34
+E09000022,317654,2021,Lambeth,613,Europe,Lithuania,0.19
+E09000023,300556,2021,Lewisham,1359,Europe,Lithuania,0.45
+E09000024,215184,2021,Merton,767,Europe,Lithuania,0.36
+E09000025,351041,2021,Newham,6439,Europe,Lithuania,1.83
+E09000026,310257,2021,Redbridge,3087,Europe,Lithuania,0.99
+E09000027,195277,2021,Richmond upon Thames,447,Europe,Lithuania,0.23
+E09000028,307632,2021,Southwark,889,Europe,Lithuania,0.29
+E09000029,209640,2021,Sutton,593,Europe,Lithuania,0.28
+E09000030,310304,2021,Tower Hamlets,1683,Europe,Lithuania,0.54
+E09000031,278417,2021,Waltham Forest,2529,Europe,Lithuania,0.91
+E09000032,327502,2021,Wandsworth,874,Europe,Lithuania,0.27
+E09000033,204238,2021,Westminster,548,Europe,Lithuania,0.27
+E09000001,8579,2021,City of London,177,Europe,Other EU 2001-2011 members,2.06
+E09000002,218870,2021,Barking and Dagenham,4270,Europe,Other EU 2001-2011 members,1.95
+E09000003,389342,2021,Barnet,10793,Europe,Other EU 2001-2011 members,2.77
+E09000004,246472,2021,Bexley,2979,Europe,Other EU 2001-2011 members,1.21
+E09000005,339817,2021,Brent,5240,Europe,Other EU 2001-2011 members,1.54
+E09000006,329984,2021,Bromley,3823,Europe,Other EU 2001-2011 members,1.16
+E09000007,210135,2021,Camden,3078,Europe,Other EU 2001-2011 members,1.46
+E09000008,390719,2021,Croydon,5421,Europe,Other EU 2001-2011 members,1.39
+E09000009,367116,2021,Ealing,5544,Europe,Other EU 2001-2011 members,1.51
+E09000010,329987,2021,Enfield,20324,Europe,Other EU 2001-2011 members,6.16
+E09000011,289073,2021,Greenwich,5660,Europe,Other EU 2001-2011 members,1.96
+E09000012,259147,2021,Hackney,3663,Europe,Other EU 2001-2011 members,1.41
+E09000013,183149,2021,Hammersmith and Fulham,2681,Europe,Other EU 2001-2011 members,1.46
+E09000014,264236,2021,Haringey,12087,Europe,Other EU 2001-2011 members,4.57
+E09000015,261201,2021,Harrow,2466,Europe,Other EU 2001-2011 members,0.94
+E09000016,262058,2021,Havering,2686,Europe,Other EU 2001-2011 members,1.02
+E09000017,305912,2021,Hillingdon,2825,Europe,Other EU 2001-2011 members,0.92
+E09000018,288177,2021,Hounslow,4411,Europe,Other EU 2001-2011 members,1.53
+E09000019,216589,2021,Islington,3497,Europe,Other EU 2001-2011 members,1.61
+E09000020,143375,2021,Kensington and Chelsea,1777,Europe,Other EU 2001-2011 members,1.24
+E09000021,168064,2021,Kingston upon Thames,3455,Europe,Other EU 2001-2011 members,2.06
+E09000022,317654,2021,Lambeth,3696,Europe,Other EU 2001-2011 members,1.16
+E09000023,300556,2021,Lewisham,5062,Europe,Other EU 2001-2011 members,1.68
+E09000024,215184,2021,Merton,5296,Europe,Other EU 2001-2011 members,2.46
+E09000025,351041,2021,Newham,8677,Europe,Other EU 2001-2011 members,2.47
+E09000026,310257,2021,Redbridge,4626,Europe,Other EU 2001-2011 members,1.49
+E09000027,195277,2021,Richmond upon Thames,2571,Europe,Other EU 2001-2011 members,1.32
+E09000028,307632,2021,Southwark,4580,Europe,Other EU 2001-2011 members,1.49
+E09000029,209640,2021,Sutton,3642,Europe,Other EU 2001-2011 members,1.74
+E09000030,310304,2021,Tower Hamlets,5095,Europe,Other EU 2001-2011 members,1.64
+E09000031,278417,2021,Waltham Forest,9654,Europe,Other EU 2001-2011 members,3.47
+E09000032,327502,2021,Wandsworth,4763,Europe,Other EU 2001-2011 members,1.45
+E09000033,204238,2021,Westminster,3137,Europe,Other EU 2001-2011 members,1.54
+E09000001,8579,2021,City of London,131,Europe,Poland,1.53
+E09000002,218870,2021,Barking and Dagenham,2321,Europe,Poland,1.06
+E09000003,389342,2021,Barnet,7551,Europe,Poland,1.94
+E09000004,246472,2021,Bexley,2082,Europe,Poland,0.84
+E09000005,339817,2021,Brent,7235,Europe,Poland,2.13
+E09000006,329984,2021,Bromley,2826,Europe,Poland,0.86
+E09000007,210135,2021,Camden,1901,Europe,Poland,0.9
+E09000008,390719,2021,Croydon,7979,Europe,Poland,2.04
+E09000009,367116,2021,Ealing,18816,Europe,Poland,5.13
+E09000010,329987,2021,Enfield,5894,Europe,Poland,1.79
+E09000011,289073,2021,Greenwich,3449,Europe,Poland,1.19
+E09000012,259147,2021,Hackney,3529,Europe,Poland,1.36
+E09000013,183149,2021,Hammersmith and Fulham,2553,Europe,Poland,1.39
+E09000014,264236,2021,Haringey,7212,Europe,Poland,2.73
+E09000015,261201,2021,Harrow,3602,Europe,Poland,1.38
+E09000016,262058,2021,Havering,1868,Europe,Poland,0.71
+E09000017,305912,2021,Hillingdon,6398,Europe,Poland,2.09
+E09000018,288177,2021,Hounslow,11105,Europe,Poland,3.85
+E09000019,216589,2021,Islington,1806,Europe,Poland,0.83
+E09000020,143375,2021,Kensington and Chelsea,1168,Europe,Poland,0.81
+E09000021,168064,2021,Kingston upon Thames,2568,Europe,Poland,1.53
+E09000022,317654,2021,Lambeth,4817,Europe,Poland,1.52
+E09000023,300556,2021,Lewisham,3841,Europe,Poland,1.28
+E09000024,215184,2021,Merton,6934,Europe,Poland,3.22
+E09000025,351041,2021,Newham,4288,Europe,Poland,1.22
+E09000026,310257,2021,Redbridge,2583,Europe,Poland,0.83
+E09000027,195277,2021,Richmond upon Thames,2485,Europe,Poland,1.27
+E09000028,307632,2021,Southwark,2837,Europe,Poland,0.92
+E09000029,209640,2021,Sutton,3407,Europe,Poland,1.63
+E09000030,310304,2021,Tower Hamlets,3077,Europe,Poland,0.99
+E09000031,278417,2021,Waltham Forest,5486,Europe,Poland,1.97
+E09000032,327502,2021,Wandsworth,5698,Europe,Poland,1.74
+E09000033,204238,2021,Westminster,1946,Europe,Poland,0.95
+E09000001,8579,2021,City of London,50,Europe,Romania,0.58
+E09000002,218870,2021,Barking and Dagenham,9416,Europe,Romania,4.3
+E09000003,389342,2021,Barnet,13430,Europe,Romania,3.45
+E09000004,246472,2021,Bexley,2415,Europe,Romania,0.98
+E09000005,339817,2021,Brent,17722,Europe,Romania,5.22
+E09000006,329984,2021,Bromley,2426,Europe,Romania,0.74
+E09000007,210135,2021,Camden,1115,Europe,Romania,0.53
+E09000008,390719,2021,Croydon,4860,Europe,Romania,1.24
+E09000009,367116,2021,Ealing,4986,Europe,Romania,1.36
+E09000010,329987,2021,Enfield,6812,Europe,Romania,2.06
+E09000011,289073,2021,Greenwich,4812,Europe,Romania,1.66
+E09000012,259147,2021,Hackney,1211,Europe,Romania,0.47
+E09000013,183149,2021,Hammersmith and Fulham,1186,Europe,Romania,0.65
+E09000014,264236,2021,Haringey,6353,Europe,Romania,2.4
+E09000015,261201,2021,Harrow,21082,Europe,Romania,8.07
+E09000016,262058,2021,Havering,5393,Europe,Romania,2.06
+E09000017,305912,2021,Hillingdon,5575,Europe,Romania,1.82
+E09000018,288177,2021,Hounslow,5443,Europe,Romania,1.89
+E09000019,216589,2021,Islington,1244,Europe,Romania,0.57
+E09000020,143375,2021,Kensington and Chelsea,809,Europe,Romania,0.56
+E09000021,168064,2021,Kingston upon Thames,1157,Europe,Romania,0.69
+E09000022,317654,2021,Lambeth,1553,Europe,Romania,0.49
+E09000023,300556,2021,Lewisham,3924,Europe,Romania,1.31
+E09000024,215184,2021,Merton,2932,Europe,Romania,1.36
+E09000025,351041,2021,Newham,17455,Europe,Romania,4.97
+E09000026,310257,2021,Redbridge,11099,Europe,Romania,3.58
+E09000027,195277,2021,Richmond upon Thames,944,Europe,Romania,0.48
+E09000028,307632,2021,Southwark,1758,Europe,Romania,0.57
+E09000029,209640,2021,Sutton,1890,Europe,Romania,0.9
+E09000030,310304,2021,Tower Hamlets,2765,Europe,Romania,0.89
+E09000031,278417,2021,Waltham Forest,11015,Europe,Romania,3.96
+E09000032,327502,2021,Wandsworth,1731,Europe,Romania,0.53
+E09000033,204238,2021,Westminster,1428,Europe,Romania,0.7
+E09000001,8579,2021,City of London,7,Europe,Croatia,0.08
+E09000002,218870,2021,Barking and Dagenham,95,Europe,Croatia,0.04
+E09000003,389342,2021,Barnet,275,Europe,Croatia,0.07
+E09000004,246472,2021,Bexley,54,Europe,Croatia,0.02
+E09000005,339817,2021,Brent,186,Europe,Croatia,0.05
+E09000006,329984,2021,Bromley,114,Europe,Croatia,0.03
+E09000007,210135,2021,Camden,227,Europe,Croatia,0.11
+E09000008,390719,2021,Croydon,99,Europe,Croatia,0.03
+E09000009,367116,2021,Ealing,488,Europe,Croatia,0.13
+E09000010,329987,2021,Enfield,119,Europe,Croatia,0.04
+E09000011,289073,2021,Greenwich,133,Europe,Croatia,0.05
+E09000012,259147,2021,Hackney,208,Europe,Croatia,0.08
+E09000013,183149,2021,Hammersmith and Fulham,312,Europe,Croatia,0.17
+E09000014,264236,2021,Haringey,157,Europe,Croatia,0.06
+E09000015,261201,2021,Harrow,64,Europe,Croatia,0.02
+E09000016,262058,2021,Havering,70,Europe,Croatia,0.03
+E09000017,305912,2021,Hillingdon,132,Europe,Croatia,0.04
+E09000018,288177,2021,Hounslow,251,Europe,Croatia,0.09
+E09000019,216589,2021,Islington,168,Europe,Croatia,0.08
+E09000020,143375,2021,Kensington and Chelsea,194,Europe,Croatia,0.14
+E09000021,168064,2021,Kingston upon Thames,103,Europe,Croatia,0.06
+E09000022,317654,2021,Lambeth,157,Europe,Croatia,0.05
+E09000023,300556,2021,Lewisham,137,Europe,Croatia,0.05
+E09000024,215184,2021,Merton,122,Europe,Croatia,0.06
+E09000025,351041,2021,Newham,97,Europe,Croatia,0.03
+E09000026,310257,2021,Redbridge,71,Europe,Croatia,0.02
+E09000027,195277,2021,Richmond upon Thames,176,Europe,Croatia,0.09
+E09000028,307632,2021,Southwark,152,Europe,Croatia,0.05
+E09000029,209640,2021,Sutton,70,Europe,Croatia,0.03
+E09000030,310304,2021,Tower Hamlets,197,Europe,Croatia,0.06
+E09000031,278417,2021,Waltham Forest,97,Europe,Croatia,0.03
+E09000032,327502,2021,Wandsworth,312,Europe,Croatia,0.1
+E09000033,204238,2021,Westminster,306,Europe,Croatia,0.15
+E09000001,8579,2021,City of London,207,Europe,France,2.41
+E09000002,218870,2021,Barking and Dagenham,471,Europe,France,0.22
+E09000003,389342,2021,Barnet,2109,Europe,France,0.54
+E09000004,246472,2021,Bexley,533,Europe,France,0.22
+E09000005,339817,2021,Brent,2339,Europe,France,0.69
+E09000006,329984,2021,Bromley,1403,Europe,France,0.43
+E09000007,210135,2021,Camden,5265,Europe,France,2.51
+E09000008,390719,2021,Croydon,1682,Europe,France,0.43
+E09000009,367116,2021,Ealing,2780,Europe,France,0.76
+E09000010,329987,2021,Enfield,790,Europe,France,0.24
+E09000011,289073,2021,Greenwich,1959,Europe,France,0.68
+E09000012,259147,2021,Hackney,3926,Europe,France,1.51
+E09000013,183149,2021,Hammersmith and Fulham,5094,Europe,France,2.78
+E09000014,264236,2021,Haringey,2157,Europe,France,0.82
+E09000015,261201,2021,Harrow,1043,Europe,France,0.4
+E09000016,262058,2021,Havering,363,Europe,France,0.14
+E09000017,305912,2021,Hillingdon,842,Europe,France,0.28
+E09000018,288177,2021,Hounslow,1391,Europe,France,0.48
+E09000019,216589,2021,Islington,4346,Europe,France,2.01
+E09000020,143375,2021,Kensington and Chelsea,5272,Europe,France,3.68
+E09000021,168064,2021,Kingston upon Thames,1027,Europe,France,0.61
+E09000022,317654,2021,Lambeth,3828,Europe,France,1.21
+E09000023,300556,2021,Lewisham,2489,Europe,France,0.83
+E09000024,215184,2021,Merton,1571,Europe,France,0.73
+E09000025,351041,2021,Newham,1679,Europe,France,0.48
+E09000026,310257,2021,Redbridge,1090,Europe,France,0.35
+E09000027,195277,2021,Richmond upon Thames,1440,Europe,France,0.74
+E09000028,307632,2021,Southwark,3789,Europe,France,1.23
+E09000029,209640,2021,Sutton,630,Europe,France,0.3
+E09000030,310304,2021,Tower Hamlets,4562,Europe,France,1.47
+E09000031,278417,2021,Waltham Forest,1330,Europe,France,0.48
+E09000032,327502,2021,Wandsworth,4629,Europe,France,1.41
+E09000033,204238,2021,Westminster,5675,Europe,France,2.78
+E09000001,8579,2021,City of London,153,Europe,Germany,1.78
+E09000002,218870,2021,Barking and Dagenham,520,Europe,Germany,0.24
+E09000003,389342,2021,Barnet,1887,Europe,Germany,0.48
+E09000004,246472,2021,Bexley,629,Europe,Germany,0.26
+E09000005,339817,2021,Brent,1211,Europe,Germany,0.36
+E09000006,329984,2021,Bromley,1285,Europe,Germany,0.39
+E09000007,210135,2021,Camden,2408,Europe,Germany,1.15
+E09000008,390719,2021,Croydon,1581,Europe,Germany,0.4
+E09000009,367116,2021,Ealing,1630,Europe,Germany,0.44
+E09000010,329987,2021,Enfield,862,Europe,Germany,0.26
+E09000011,289073,2021,Greenwich,1520,Europe,Germany,0.53
+E09000012,259147,2021,Hackney,2230,Europe,Germany,0.86
+E09000013,183149,2021,Hammersmith and Fulham,1675,Europe,Germany,0.91
+E09000014,264236,2021,Haringey,1535,Europe,Germany,0.58
+E09000015,261201,2021,Harrow,1165,Europe,Germany,0.45
+E09000016,262058,2021,Havering,495,Europe,Germany,0.19
+E09000017,305912,2021,Hillingdon,1183,Europe,Germany,0.39
+E09000018,288177,2021,Hounslow,1061,Europe,Germany,0.37
+E09000019,216589,2021,Islington,1958,Europe,Germany,0.9
+E09000020,143375,2021,Kensington and Chelsea,1952,Europe,Germany,1.36
+E09000021,168064,2021,Kingston upon Thames,1544,Europe,Germany,0.92
+E09000022,317654,2021,Lambeth,2179,Europe,Germany,0.69
+E09000023,300556,2021,Lewisham,1785,Europe,Germany,0.59
+E09000024,215184,2021,Merton,1515,Europe,Germany,0.7
+E09000025,351041,2021,Newham,992,Europe,Germany,0.28
+E09000026,310257,2021,Redbridge,934,Europe,Germany,0.3
+E09000027,195277,2021,Richmond upon Thames,2106,Europe,Germany,1.08
+E09000028,307632,2021,Southwark,2323,Europe,Germany,0.76
+E09000029,209640,2021,Sutton,969,Europe,Germany,0.46
+E09000030,310304,2021,Tower Hamlets,2401,Europe,Germany,0.77
+E09000031,278417,2021,Waltham Forest,1167,Europe,Germany,0.42
+E09000032,327502,2021,Wandsworth,2976,Europe,Germany,0.91
+E09000033,204238,2021,Westminster,2530,Europe,Germany,1.24
+E09000001,8579,2021,City of London,100,Europe,Ireland,1.17
+E09000002,218870,2021,Barking and Dagenham,1072,Europe,Ireland,0.49
+E09000003,389342,2021,Barnet,4681,Europe,Ireland,1.2
+E09000004,246472,2021,Bexley,1871,Europe,Ireland,0.76
+E09000005,339817,2021,Brent,5850,Europe,Ireland,1.72
+E09000006,329984,2021,Bromley,2942,Europe,Ireland,0.89
+E09000007,210135,2021,Camden,3064,Europe,Ireland,1.46
+E09000008,390719,2021,Croydon,3164,Europe,Ireland,0.81
+E09000009,367116,2021,Ealing,5316,Europe,Ireland,1.45
+E09000010,329987,2021,Enfield,3283,Europe,Ireland,0.99
+E09000011,289073,2021,Greenwich,2723,Europe,Ireland,0.94
+E09000012,259147,2021,Hackney,3311,Europe,Ireland,1.28
+E09000013,183149,2021,Hammersmith and Fulham,3036,Europe,Ireland,1.66
+E09000014,264236,2021,Haringey,3312,Europe,Ireland,1.25
+E09000015,261201,2021,Harrow,3245,Europe,Ireland,1.24
+E09000016,262058,2021,Havering,2082,Europe,Ireland,0.79
+E09000017,305912,2021,Hillingdon,3511,Europe,Ireland,1.15
+E09000018,288177,2021,Hounslow,2593,Europe,Ireland,0.9
+E09000019,216589,2021,Islington,4116,Europe,Ireland,1.9
+E09000020,143375,2021,Kensington and Chelsea,1745,Europe,Ireland,1.22
+E09000021,168064,2021,Kingston upon Thames,1630,Europe,Ireland,0.97
+E09000022,317654,2021,Lambeth,4230,Europe,Ireland,1.33
+E09000023,300556,2021,Lewisham,2942,Europe,Ireland,0.98
+E09000024,215184,2021,Merton,2628,Europe,Ireland,1.22
+E09000025,351041,2021,Newham,1486,Europe,Ireland,0.42
+E09000026,310257,2021,Redbridge,2043,Europe,Ireland,0.66
+E09000027,195277,2021,Richmond upon Thames,2832,Europe,Ireland,1.45
+E09000028,307632,2021,Southwark,3642,Europe,Ireland,1.18
+E09000029,209640,2021,Sutton,1925,Europe,Ireland,0.92
+E09000030,310304,2021,Tower Hamlets,2315,Europe,Ireland,0.75
+E09000031,278417,2021,Waltham Forest,2471,Europe,Ireland,0.89
+E09000032,327502,2021,Wandsworth,5062,Europe,Ireland,1.55
+E09000033,204238,2021,Westminster,2346,Europe,Ireland,1.15
+E09000001,8579,2021,City of London,250,Europe,Italy,2.91
+E09000002,218870,2021,Barking and Dagenham,2073,Europe,Italy,0.95
+E09000003,389342,2021,Barnet,4533,Europe,Italy,1.16
+E09000004,246472,2021,Bexley,1018,Europe,Italy,0.41
+E09000005,339817,2021,Brent,4662,Europe,Italy,1.37
+E09000006,329984,2021,Bromley,1872,Europe,Italy,0.57
+E09000007,210135,2021,Camden,4442,Europe,Italy,2.11
+E09000008,390719,2021,Croydon,3268,Europe,Italy,0.84
+E09000009,367116,2021,Ealing,5243,Europe,Italy,1.43
+E09000010,329987,2021,Enfield,3167,Europe,Italy,0.96
+E09000011,289073,2021,Greenwich,3065,Europe,Italy,1.06
+E09000012,259147,2021,Hackney,4378,Europe,Italy,1.69
+E09000013,183149,2021,Hammersmith and Fulham,5408,Europe,Italy,2.95
+E09000014,264236,2021,Haringey,5279,Europe,Italy,2
+E09000015,261201,2021,Harrow,1453,Europe,Italy,0.56
+E09000016,262058,2021,Havering,752,Europe,Italy,0.29
+E09000017,305912,2021,Hillingdon,1934,Europe,Italy,0.63
+E09000018,288177,2021,Hounslow,2507,Europe,Italy,0.87
+E09000019,216589,2021,Islington,5079,Europe,Italy,2.34
+E09000020,143375,2021,Kensington and Chelsea,5518,Europe,Italy,3.85
+E09000021,168064,2021,Kingston upon Thames,1609,Europe,Italy,0.96
+E09000022,317654,2021,Lambeth,5675,Europe,Italy,1.79
+E09000023,300556,2021,Lewisham,4047,Europe,Italy,1.35
+E09000024,215184,2021,Merton,2693,Europe,Italy,1.25
+E09000025,351041,2021,Newham,7026,Europe,Italy,2
+E09000026,310257,2021,Redbridge,3428,Europe,Italy,1.1
+E09000027,195277,2021,Richmond upon Thames,2042,Europe,Italy,1.05
+E09000028,307632,2021,Southwark,5939,Europe,Italy,1.93
+E09000029,209640,2021,Sutton,1212,Europe,Italy,0.58
+E09000030,310304,2021,Tower Hamlets,10553,Europe,Italy,3.4
+E09000031,278417,2021,Waltham Forest,2944,Europe,Italy,1.06
+E09000032,327502,2021,Wandsworth,6864,Europe,Italy,2.1
+E09000033,204238,2021,Westminster,6125,Europe,Italy,3
+E09000001,8579,2021,City of London,293,Europe,Other EU 2001 members,3.42
+E09000002,218870,2021,Barking and Dagenham,1124,Europe,Other EU 2001 members,0.51
+E09000003,389342,2021,Barnet,5405,Europe,Other EU 2001 members,1.39
+E09000004,246472,2021,Bexley,866,Europe,Other EU 2001 members,0.35
+E09000005,339817,2021,Brent,3605,Europe,Other EU 2001 members,1.06
+E09000006,329984,2021,Bromley,1921,Europe,Other EU 2001 members,0.58
+E09000007,210135,2021,Camden,4814,Europe,Other EU 2001 members,2.29
+E09000008,390719,2021,Croydon,2478,Europe,Other EU 2001 members,0.63
+E09000009,367116,2021,Ealing,4209,Europe,Other EU 2001 members,1.15
+E09000010,329987,2021,Enfield,4490,Europe,Other EU 2001 members,1.36
+E09000011,289073,2021,Greenwich,3030,Europe,Other EU 2001 members,1.05
+E09000012,259147,2021,Hackney,4630,Europe,Other EU 2001 members,1.79
+E09000013,183149,2021,Hammersmith and Fulham,3920,Europe,Other EU 2001 members,2.14
+E09000014,264236,2021,Haringey,4469,Europe,Other EU 2001 members,1.69
+E09000015,261201,2021,Harrow,2062,Europe,Other EU 2001 members,0.79
+E09000016,262058,2021,Havering,678,Europe,Other EU 2001 members,0.26
+E09000017,305912,2021,Hillingdon,2201,Europe,Other EU 2001 members,0.72
+E09000018,288177,2021,Hounslow,2398,Europe,Other EU 2001 members,0.83
+E09000019,216589,2021,Islington,4457,Europe,Other EU 2001 members,2.06
+E09000020,143375,2021,Kensington and Chelsea,4344,Europe,Other EU 2001 members,3.03
+E09000021,168064,2021,Kingston upon Thames,1756,Europe,Other EU 2001 members,1.04
+E09000022,317654,2021,Lambeth,3590,Europe,Other EU 2001 members,1.13
+E09000023,300556,2021,Lewisham,2990,Europe,Other EU 2001 members,0.99
+E09000024,215184,2021,Merton,2119,Europe,Other EU 2001 members,0.98
+E09000025,351041,2021,Newham,2566,Europe,Other EU 2001 members,0.73
+E09000026,310257,2021,Redbridge,1603,Europe,Other EU 2001 members,0.52
+E09000027,195277,2021,Richmond upon Thames,3060,Europe,Other EU 2001 members,1.57
+E09000028,307632,2021,Southwark,4336,Europe,Other EU 2001 members,1.41
+E09000029,209640,2021,Sutton,1015,Europe,Other EU 2001 members,0.48
+E09000030,310304,2021,Tower Hamlets,4861,Europe,Other EU 2001 members,1.57
+E09000031,278417,2021,Waltham Forest,1884,Europe,Other EU 2001 members,0.68
+E09000032,327502,2021,Wandsworth,5219,Europe,Other EU 2001 members,1.59
+E09000033,204238,2021,Westminster,6612,Europe,Other EU 2001 members,3.24
+E09000001,8579,2021,City of London,53,Europe,Portugal,0.62
+E09000002,218870,2021,Barking and Dagenham,1253,Europe,Portugal,0.57
+E09000003,389342,2021,Barnet,2248,Europe,Portugal,0.58
+E09000004,246472,2021,Bexley,483,Europe,Portugal,0.2
+E09000005,339817,2021,Brent,3528,Europe,Portugal,1.04
+E09000006,329984,2021,Bromley,994,Europe,Portugal,0.3
+E09000007,210135,2021,Camden,1298,Europe,Portugal,0.62
+E09000008,390719,2021,Croydon,3104,Europe,Portugal,0.79
+E09000009,367116,2021,Ealing,2212,Europe,Portugal,0.6
+E09000010,329987,2021,Enfield,1207,Europe,Portugal,0.37
+E09000011,289073,2021,Greenwich,1473,Europe,Portugal,0.51
+E09000012,259147,2021,Hackney,1813,Europe,Portugal,0.7
+E09000013,183149,2021,Hammersmith and Fulham,1568,Europe,Portugal,0.86
+E09000014,264236,2021,Haringey,1676,Europe,Portugal,0.63
+E09000015,261201,2021,Harrow,774,Europe,Portugal,0.3
+E09000016,262058,2021,Havering,488,Europe,Portugal,0.19
+E09000017,305912,2021,Hillingdon,1807,Europe,Portugal,0.59
+E09000018,288177,2021,Hounslow,2031,Europe,Portugal,0.7
+E09000019,216589,2021,Islington,1292,Europe,Portugal,0.6
+E09000020,143375,2021,Kensington and Chelsea,1437,Europe,Portugal,1
+E09000021,168064,2021,Kingston upon Thames,862,Europe,Portugal,0.51
+E09000022,317654,2021,Lambeth,7012,Europe,Portugal,2.21
+E09000023,300556,2021,Lewisham,1701,Europe,Portugal,0.57
+E09000024,215184,2021,Merton,1711,Europe,Portugal,0.8
+E09000025,351041,2021,Newham,2774,Europe,Portugal,0.79
+E09000026,310257,2021,Redbridge,1059,Europe,Portugal,0.34
+E09000027,195277,2021,Richmond upon Thames,614,Europe,Portugal,0.31
+E09000028,307632,2021,Southwark,1889,Europe,Portugal,0.61
+E09000029,209640,2021,Sutton,976,Europe,Portugal,0.47
+E09000030,310304,2021,Tower Hamlets,1812,Europe,Portugal,0.58
+E09000031,278417,2021,Waltham Forest,1263,Europe,Portugal,0.45
+E09000032,327502,2021,Wandsworth,2357,Europe,Portugal,0.72
+E09000033,204238,2021,Westminster,2200,Europe,Portugal,1.08
+E09000001,8579,2021,City of London,129,Europe,Spain,1.5
+E09000002,218870,2021,Barking and Dagenham,635,Europe,Spain,0.29
+E09000003,389342,2021,Barnet,1987,Europe,Spain,0.51
+E09000004,246472,2021,Bexley,483,Europe,Spain,0.2
+E09000005,339817,2021,Brent,2670,Europe,Spain,0.79
+E09000006,329984,2021,Bromley,1064,Europe,Spain,0.32
+E09000007,210135,2021,Camden,2309,Europe,Spain,1.1
+E09000008,390719,2021,Croydon,1982,Europe,Spain,0.51
+E09000009,367116,2021,Ealing,2409,Europe,Spain,0.66
+E09000010,329987,2021,Enfield,1129,Europe,Spain,0.34
+E09000011,289073,2021,Greenwich,1711,Europe,Spain,0.59
+E09000012,259147,2021,Hackney,2876,Europe,Spain,1.11
+E09000013,183149,2021,Hammersmith and Fulham,3258,Europe,Spain,1.78
+E09000014,264236,2021,Haringey,3357,Europe,Spain,1.27
+E09000015,261201,2021,Harrow,718,Europe,Spain,0.27
+E09000016,262058,2021,Havering,485,Europe,Spain,0.19
+E09000017,305912,2021,Hillingdon,857,Europe,Spain,0.28
+E09000018,288177,2021,Hounslow,1400,Europe,Spain,0.49
+E09000019,216589,2021,Islington,2872,Europe,Spain,1.33
+E09000020,143375,2021,Kensington and Chelsea,2992,Europe,Spain,2.09
+E09000021,168064,2021,Kingston upon Thames,904,Europe,Spain,0.54
+E09000022,317654,2021,Lambeth,4344,Europe,Spain,1.37
+E09000023,300556,2021,Lewisham,2908,Europe,Spain,0.97
+E09000024,215184,2021,Merton,1685,Europe,Spain,0.78
+E09000025,351041,2021,Newham,2512,Europe,Spain,0.72
+E09000026,310257,2021,Redbridge,930,Europe,Spain,0.3
+E09000027,195277,2021,Richmond upon Thames,1292,Europe,Spain,0.66
+E09000028,307632,2021,Southwark,4520,Europe,Spain,1.47
+E09000029,209640,2021,Sutton,670,Europe,Spain,0.32
+E09000030,310304,2021,Tower Hamlets,3791,Europe,Spain,1.22
+E09000031,278417,2021,Waltham Forest,1786,Europe,Spain,0.64
+E09000032,327502,2021,Wandsworth,3858,Europe,Spain,1.18
+E09000033,204238,2021,Westminster,3593,Europe,Spain,1.76
+E09000001,8579,2021,City of London,302,Europe,Other Europe non-EU,3.52
+E09000002,218870,2021,Barking and Dagenham,6127,Europe,Other Europe non-EU,2.8
+E09000003,389342,2021,Barnet,10929,Europe,Other Europe non-EU,2.81
+E09000004,246472,2021,Bexley,2429,Europe,Other Europe non-EU,0.99
+E09000005,339817,2021,Brent,5007,Europe,Other Europe non-EU,1.47
+E09000006,329984,2021,Bromley,3685,Europe,Other Europe non-EU,1.12
+E09000007,210135,2021,Camden,6445,Europe,Other Europe non-EU,3.07
+E09000008,390719,2021,Croydon,3771,Europe,Other Europe non-EU,0.97
+E09000009,367116,2021,Ealing,7357,Europe,Other Europe non-EU,2
+E09000010,329987,2021,Enfield,8929,Europe,Other Europe non-EU,2.71
+E09000011,289073,2021,Greenwich,5655,Europe,Other Europe non-EU,1.96
+E09000012,259147,2021,Hackney,3193,Europe,Other Europe non-EU,1.23
+E09000013,183149,2021,Hammersmith and Fulham,4927,Europe,Other Europe non-EU,2.69
+E09000014,264236,2021,Haringey,6932,Europe,Other Europe non-EU,2.62
+E09000015,261201,2021,Harrow,3051,Europe,Other Europe non-EU,1.17
+E09000016,262058,2021,Havering,4233,Europe,Other Europe non-EU,1.62
+E09000017,305912,2021,Hillingdon,3924,Europe,Other Europe non-EU,1.28
+E09000018,288177,2021,Hounslow,6098,Europe,Other Europe non-EU,2.12
+E09000019,216589,2021,Islington,4259,Europe,Other Europe non-EU,1.97
+E09000020,143375,2021,Kensington and Chelsea,5786,Europe,Other Europe non-EU,4.04
+E09000021,168064,2021,Kingston upon Thames,2838,Europe,Other Europe non-EU,1.69
+E09000022,317654,2021,Lambeth,3692,Europe,Other Europe non-EU,1.16
+E09000023,300556,2021,Lewisham,4320,Europe,Other Europe non-EU,1.44
+E09000024,215184,2021,Merton,3749,Europe,Other Europe non-EU,1.74
+E09000025,351041,2021,Newham,8541,Europe,Other Europe non-EU,2.43
+E09000026,310257,2021,Redbridge,8011,Europe,Other Europe non-EU,2.58
+E09000027,195277,2021,Richmond upon Thames,3700,Europe,Other Europe non-EU,1.89
+E09000028,307632,2021,Southwark,4333,Europe,Other Europe non-EU,1.41
+E09000029,209640,2021,Sutton,2398,Europe,Other Europe non-EU,1.14
+E09000030,310304,2021,Tower Hamlets,5420,Europe,Other Europe non-EU,1.75
+E09000031,278417,2021,Waltham Forest,7092,Europe,Other Europe non-EU,2.55
+E09000032,327502,2021,Wandsworth,5739,Europe,Other Europe non-EU,1.75
+E09000033,204238,2021,Westminster,8135,Europe,Other Europe non-EU,3.98
+E09000001,8579,2021,City of London,47,Europe,Turkey,0.55
+E09000002,218870,2021,Barking and Dagenham,612,Europe,Turkey,0.28
+E09000003,389342,2021,Barnet,2811,Europe,Turkey,0.72
+E09000004,246472,2021,Bexley,655,Europe,Turkey,0.27
+E09000005,339817,2021,Brent,669,Europe,Turkey,0.2
+E09000006,329984,2021,Bromley,1073,Europe,Turkey,0.33
+E09000007,210135,2021,Camden,1224,Europe,Turkey,0.58
+E09000008,390719,2021,Croydon,1507,Europe,Turkey,0.39
+E09000009,367116,2021,Ealing,769,Europe,Turkey,0.21
+E09000010,329987,2021,Enfield,17053,Europe,Turkey,5.17
+E09000011,289073,2021,Greenwich,1330,Europe,Turkey,0.46
+E09000012,259147,2021,Hackney,8674,Europe,Turkey,3.35
+E09000013,183149,2021,Hammersmith and Fulham,907,Europe,Turkey,0.5
+E09000014,264236,2021,Haringey,9465,Europe,Turkey,3.58
+E09000015,261201,2021,Harrow,485,Europe,Turkey,0.19
+E09000016,262058,2021,Havering,588,Europe,Turkey,0.22
+E09000017,305912,2021,Hillingdon,595,Europe,Turkey,0.19
+E09000018,288177,2021,Hounslow,769,Europe,Turkey,0.27
+E09000019,216589,2021,Islington,4220,Europe,Turkey,1.95
+E09000020,143375,2021,Kensington and Chelsea,1215,Europe,Turkey,0.85
+E09000021,168064,2021,Kingston upon Thames,853,Europe,Turkey,0.51
+E09000022,317654,2021,Lambeth,762,Europe,Turkey,0.24
+E09000023,300556,2021,Lewisham,1351,Europe,Turkey,0.45
+E09000024,215184,2021,Merton,1048,Europe,Turkey,0.49
+E09000025,351041,2021,Newham,784,Europe,Turkey,0.22
+E09000026,310257,2021,Redbridge,1110,Europe,Turkey,0.36
+E09000027,195277,2021,Richmond upon Thames,1831,Europe,Turkey,0.94
+E09000028,307632,2021,Southwark,1251,Europe,Turkey,0.41
+E09000029,209640,2021,Sutton,969,Europe,Turkey,0.46
+E09000030,310304,2021,Tower Hamlets,1476,Europe,Turkey,0.48
+E09000031,278417,2021,Waltham Forest,3516,Europe,Turkey,1.26
+E09000032,327502,2021,Wandsworth,1647,Europe,Turkey,0.5
+E09000033,204238,2021,Westminster,1599,Europe,Turkey,0.78
+E09000001,8579,2021,City of London,4044,Europe,England,47.14
+E09000002,218870,2021,Barking and Dagenham,127430,Europe,England,58.22
+E09000003,389342,2021,Barnet,215835,Europe,England,55.44
+E09000004,246472,2021,Bexley,191843,Europe,England,77.84
+E09000005,339817,2021,Brent,145986,Europe,England,42.96
+E09000006,329984,2021,Bromley,256209,Europe,England,77.64
+E09000007,210135,2021,Camden,109871,Europe,England,52.29
+E09000008,390719,2021,Croydon,249371,Europe,England,63.82
+E09000009,367116,2021,Ealing,174861,Europe,England,47.63
+E09000010,329987,2021,Enfield,193733,Europe,England,58.71
+E09000011,289073,2021,Greenwich,175656,Europe,England,60.77
+E09000012,259147,2021,Hackney,150832,Europe,England,58.2
+E09000013,183149,2021,Hammersmith and Fulham,95299,Europe,England,52.03
+E09000014,264236,2021,Haringey,137952,Europe,England,52.21
+E09000015,261201,2021,Harrow,125093,Europe,England,47.89
+E09000016,262058,2021,Havering,208603,Europe,England,79.6
+E09000017,305912,2021,Hillingdon,184323,Europe,England,60.25
+E09000018,288177,2021,Hounslow,141720,Europe,England,49.18
+E09000019,216589,2021,Islington,124561,Europe,England,57.51
+E09000020,143375,2021,Kensington and Chelsea,63175,Europe,England,44.06
+E09000021,168064,2021,Kingston upon Thames,107386,Europe,England,63.9
+E09000022,317654,2021,Lambeth,186554,Europe,England,58.73
+E09000023,300556,2021,Lewisham,187507,Europe,England,62.39
+E09000024,215184,2021,Merton,122799,Europe,England,57.07
+E09000025,351041,2021,Newham,159717,Europe,England,45.5
+E09000026,310257,2021,Redbridge,172324,Europe,England,55.54
+E09000027,195277,2021,Richmond upon Thames,132159,Europe,England,67.68
+E09000028,307632,2021,Southwark,175328,Europe,England,56.99
+E09000029,209640,2021,Sutton,148237,Europe,England,70.71
+E09000030,310304,2021,Tower Hamlets,159957,Europe,England,51.55
+E09000031,278417,2021,Waltham Forest,166976,Europe,England,59.97
+E09000032,327502,2021,Wandsworth,193087,Europe,England,58.96
+E09000033,204238,2021,Westminster,86734,Europe,England,42.47
+E09000001,8579,2021,City of London,0,Europe,Great Britain not otherwise specified,0
+E09000002,218870,2021,Barking and Dagenham,3,Europe,Great Britain not otherwise specified,0
+E09000003,389342,2021,Barnet,2,Europe,Great Britain not otherwise specified,0
+E09000004,246472,2021,Bexley,3,Europe,Great Britain not otherwise specified,0
+E09000005,339817,2021,Brent,5,Europe,Great Britain not otherwise specified,0
+E09000006,329984,2021,Bromley,1,Europe,Great Britain not otherwise specified,0
+E09000007,210135,2021,Camden,2,Europe,Great Britain not otherwise specified,0
+E09000008,390719,2021,Croydon,4,Europe,Great Britain not otherwise specified,0
+E09000009,367116,2021,Ealing,0,Europe,Great Britain not otherwise specified,0
+E09000010,329987,2021,Enfield,11,Europe,Great Britain not otherwise specified,0
+E09000011,289073,2021,Greenwich,2,Europe,Great Britain not otherwise specified,0
+E09000012,259147,2021,Hackney,6,Europe,Great Britain not otherwise specified,0
+E09000013,183149,2021,Hammersmith and Fulham,4,Europe,Great Britain not otherwise specified,0
+E09000014,264236,2021,Haringey,1,Europe,Great Britain not otherwise specified,0
+E09000015,261201,2021,Harrow,7,Europe,Great Britain not otherwise specified,0
+E09000016,262058,2021,Havering,2,Europe,Great Britain not otherwise specified,0
+E09000017,305912,2021,Hillingdon,3,Europe,Great Britain not otherwise specified,0
+E09000018,288177,2021,Hounslow,5,Europe,Great Britain not otherwise specified,0
+E09000019,216589,2021,Islington,8,Europe,Great Britain not otherwise specified,0
+E09000020,143375,2021,Kensington and Chelsea,4,Europe,Great Britain not otherwise specified,0
+E09000021,168064,2021,Kingston upon Thames,1,Europe,Great Britain not otherwise specified,0
+E09000022,317654,2021,Lambeth,0,Europe,Great Britain not otherwise specified,0
+E09000023,300556,2021,Lewisham,6,Europe,Great Britain not otherwise specified,0
+E09000024,215184,2021,Merton,5,Europe,Great Britain not otherwise specified,0
+E09000025,351041,2021,Newham,7,Europe,Great Britain not otherwise specified,0
+E09000026,310257,2021,Redbridge,8,Europe,Great Britain not otherwise specified,0
+E09000027,195277,2021,Richmond upon Thames,0,Europe,Great Britain not otherwise specified,0
+E09000028,307632,2021,Southwark,6,Europe,Great Britain not otherwise specified,0
+E09000029,209640,2021,Sutton,2,Europe,Great Britain not otherwise specified,0
+E09000030,310304,2021,Tower Hamlets,1,Europe,Great Britain not otherwise specified,0
+E09000031,278417,2021,Waltham Forest,3,Europe,Great Britain not otherwise specified,0
+E09000032,327502,2021,Wandsworth,2,Europe,Great Britain not otherwise specified,0
+E09000033,204238,2021,Westminster,2,Europe,Great Britain not otherwise specified,0
+E09000001,8579,2021,City of London,38,Europe,Northern Ireland,0.44
+E09000002,218870,2021,Barking and Dagenham,183,Europe,Northern Ireland,0.08
+E09000003,389342,2021,Barnet,998,Europe,Northern Ireland,0.26
+E09000004,246472,2021,Bexley,479,Europe,Northern Ireland,0.19
+E09000005,339817,2021,Brent,832,Europe,Northern Ireland,0.24
+E09000006,329984,2021,Bromley,1102,Europe,Northern Ireland,0.33
+E09000007,210135,2021,Camden,919,Europe,Northern Ireland,0.44
+E09000008,390719,2021,Croydon,924,Europe,Northern Ireland,0.24
+E09000009,367116,2021,Ealing,1156,Europe,Northern Ireland,0.31
+E09000010,329987,2021,Enfield,658,Europe,Northern Ireland,0.2
+E09000011,289073,2021,Greenwich,970,Europe,Northern Ireland,0.34
+E09000012,259147,2021,Hackney,1102,Europe,Northern Ireland,0.43
+E09000013,183149,2021,Hammersmith and Fulham,844,Europe,Northern Ireland,0.46
+E09000014,264236,2021,Haringey,973,Europe,Northern Ireland,0.37
+E09000015,261201,2021,Harrow,469,Europe,Northern Ireland,0.18
+E09000016,262058,2021,Havering,443,Europe,Northern Ireland,0.17
+E09000017,305912,2021,Hillingdon,716,Europe,Northern Ireland,0.23
+E09000018,288177,2021,Hounslow,744,Europe,Northern Ireland,0.26
+E09000019,216589,2021,Islington,1160,Europe,Northern Ireland,0.54
+E09000020,143375,2021,Kensington and Chelsea,468,Europe,Northern Ireland,0.33
+E09000021,168064,2021,Kingston upon Thames,702,Europe,Northern Ireland,0.42
+E09000022,317654,2021,Lambeth,1623,Europe,Northern Ireland,0.51
+E09000023,300556,2021,Lewisham,1167,Europe,Northern Ireland,0.39
+E09000024,215184,2021,Merton,881,Europe,Northern Ireland,0.41
+E09000025,351041,2021,Newham,499,Europe,Northern Ireland,0.14
+E09000026,310257,2021,Redbridge,509,Europe,Northern Ireland,0.16
+E09000027,195277,2021,Richmond upon Thames,1172,Europe,Northern Ireland,0.6
+E09000028,307632,2021,Southwark,1508,Europe,Northern Ireland,0.49
+E09000029,209640,2021,Sutton,560,Europe,Northern Ireland,0.27
+E09000030,310304,2021,Tower Hamlets,1044,Europe,Northern Ireland,0.34
+E09000031,278417,2021,Waltham Forest,782,Europe,Northern Ireland,0.28
+E09000032,327502,2021,Wandsworth,1915,Europe,Northern Ireland,0.58
+E09000033,204238,2021,Westminster,709,Europe,Northern Ireland,0.35
+E09000001,8579,2021,City of London,159,Europe,Scotland,1.85
+E09000002,218870,2021,Barking and Dagenham,522,Europe,Scotland,0.24
+E09000003,389342,2021,Barnet,2808,Europe,Scotland,0.72
+E09000004,246472,2021,Bexley,1464,Europe,Scotland,0.59
+E09000005,339817,2021,Brent,1405,Europe,Scotland,0.41
+E09000006,329984,2021,Bromley,3572,Europe,Scotland,1.08
+E09000007,210135,2021,Camden,2481,Europe,Scotland,1.18
+E09000008,390719,2021,Croydon,2564,Europe,Scotland,0.66
+E09000009,367116,2021,Ealing,2693,Europe,Scotland,0.73
+E09000010,329987,2021,Enfield,1516,Europe,Scotland,0.46
+E09000011,289073,2021,Greenwich,2445,Europe,Scotland,0.85
+E09000012,259147,2021,Hackney,2827,Europe,Scotland,1.09
+E09000013,183149,2021,Hammersmith and Fulham,2441,Europe,Scotland,1.33
+E09000014,264236,2021,Haringey,2585,Europe,Scotland,0.98
+E09000015,261201,2021,Harrow,1191,Europe,Scotland,0.46
+E09000016,262058,2021,Havering,1284,Europe,Scotland,0.49
+E09000017,305912,2021,Hillingdon,1853,Europe,Scotland,0.61
+E09000018,288177,2021,Hounslow,1961,Europe,Scotland,0.68
+E09000019,216589,2021,Islington,3015,Europe,Scotland,1.39
+E09000020,143375,2021,Kensington and Chelsea,1682,Europe,Scotland,1.17
+E09000021,168064,2021,Kingston upon Thames,1894,Europe,Scotland,1.13
+E09000022,317654,2021,Lambeth,4302,Europe,Scotland,1.35
+E09000023,300556,2021,Lewisham,3052,Europe,Scotland,1.02
+E09000024,215184,2021,Merton,2137,Europe,Scotland,0.99
+E09000025,351041,2021,Newham,1268,Europe,Scotland,0.36
+E09000026,310257,2021,Redbridge,1270,Europe,Scotland,0.41
+E09000027,195277,2021,Richmond upon Thames,3403,Europe,Scotland,1.74
+E09000028,307632,2021,Southwark,3577,Europe,Scotland,1.16
+E09000029,209640,2021,Sutton,1608,Europe,Scotland,0.77
+E09000030,310304,2021,Tower Hamlets,2578,Europe,Scotland,0.83
+E09000031,278417,2021,Waltham Forest,2047,Europe,Scotland,0.74
+E09000032,327502,2021,Wandsworth,5237,Europe,Scotland,1.6
+E09000033,204238,2021,Westminster,2166,Europe,Scotland,1.06
+E09000001,8579,2021,City of London,0,Europe,United Kingdom not otherwise specified,0
+E09000002,218870,2021,Barking and Dagenham,28,Europe,United Kingdom not otherwise specified,0.01
+E09000003,389342,2021,Barnet,24,Europe,United Kingdom not otherwise specified,0.01
+E09000004,246472,2021,Bexley,14,Europe,United Kingdom not otherwise specified,0.01
+E09000005,339817,2021,Brent,52,Europe,United Kingdom not otherwise specified,0.02
+E09000006,329984,2021,Bromley,8,Europe,United Kingdom not otherwise specified,0
+E09000007,210135,2021,Camden,12,Europe,United Kingdom not otherwise specified,0.01
+E09000008,390719,2021,Croydon,24,Europe,United Kingdom not otherwise specified,0.01
+E09000009,367116,2021,Ealing,33,Europe,United Kingdom not otherwise specified,0.01
+E09000010,329987,2021,Enfield,25,Europe,United Kingdom not otherwise specified,0.01
+E09000011,289073,2021,Greenwich,28,Europe,United Kingdom not otherwise specified,0.01
+E09000012,259147,2021,Hackney,16,Europe,United Kingdom not otherwise specified,0.01
+E09000013,183149,2021,Hammersmith and Fulham,9,Europe,United Kingdom not otherwise specified,0
+E09000014,264236,2021,Haringey,23,Europe,United Kingdom not otherwise specified,0.01
+E09000015,261201,2021,Harrow,14,Europe,United Kingdom not otherwise specified,0.01
+E09000016,262058,2021,Havering,5,Europe,United Kingdom not otherwise specified,0
+E09000017,305912,2021,Hillingdon,22,Europe,United Kingdom not otherwise specified,0.01
+E09000018,288177,2021,Hounslow,26,Europe,United Kingdom not otherwise specified,0.01
+E09000019,216589,2021,Islington,10,Europe,United Kingdom not otherwise specified,0
+E09000020,143375,2021,Kensington and Chelsea,11,Europe,United Kingdom not otherwise specified,0.01
+E09000021,168064,2021,Kingston upon Thames,16,Europe,United Kingdom not otherwise specified,0.01
+E09000022,317654,2021,Lambeth,19,Europe,United Kingdom not otherwise specified,0.01
+E09000023,300556,2021,Lewisham,20,Europe,United Kingdom not otherwise specified,0.01
+E09000024,215184,2021,Merton,8,Europe,United Kingdom not otherwise specified,0
+E09000025,351041,2021,Newham,53,Europe,United Kingdom not otherwise specified,0.02
+E09000026,310257,2021,Redbridge,38,Europe,United Kingdom not otherwise specified,0.01
+E09000027,195277,2021,Richmond upon Thames,9,Europe,United Kingdom not otherwise specified,0
+E09000028,307632,2021,Southwark,20,Europe,United Kingdom not otherwise specified,0.01
+E09000029,209640,2021,Sutton,13,Europe,United Kingdom not otherwise specified,0.01
+E09000030,310304,2021,Tower Hamlets,16,Europe,United Kingdom not otherwise specified,0.01
+E09000031,278417,2021,Waltham Forest,19,Europe,United Kingdom not otherwise specified,0.01
+E09000032,327502,2021,Wandsworth,18,Europe,United Kingdom not otherwise specified,0.01
+E09000033,204238,2021,Westminster,11,Europe,United Kingdom not otherwise specified,0.01
+E09000001,8579,2021,City of London,86,Europe,Wales,1
+E09000002,218870,2021,Barking and Dagenham,317,Europe,Wales,0.14
+E09000003,389342,2021,Barnet,1626,Europe,Wales,0.42
+E09000004,246472,2021,Bexley,910,Europe,Wales,0.37
+E09000005,339817,2021,Brent,962,Europe,Wales,0.28
+E09000006,329984,2021,Bromley,2160,Europe,Wales,0.65
+E09000007,210135,2021,Camden,1362,Europe,Wales,0.65
+E09000008,390719,2021,Croydon,1649,Europe,Wales,0.42
+E09000009,367116,2021,Ealing,1818,Europe,Wales,0.5
+E09000010,329987,2021,Enfield,881,Europe,Wales,0.27
+E09000011,289073,2021,Greenwich,1478,Europe,Wales,0.51
+E09000012,259147,2021,Hackney,1436,Europe,Wales,0.55
+E09000013,183149,2021,Hammersmith and Fulham,1219,Europe,Wales,0.67
+E09000014,264236,2021,Haringey,1583,Europe,Wales,0.6
+E09000015,261201,2021,Harrow,836,Europe,Wales,0.32
+E09000016,262058,2021,Havering,830,Europe,Wales,0.32
+E09000017,305912,2021,Hillingdon,1343,Europe,Wales,0.44
+E09000018,288177,2021,Hounslow,1099,Europe,Wales,0.38
+E09000019,216589,2021,Islington,1459,Europe,Wales,0.67
+E09000020,143375,2021,Kensington and Chelsea,723,Europe,Wales,0.5
+E09000021,168064,2021,Kingston upon Thames,1414,Europe,Wales,0.84
+E09000022,317654,2021,Lambeth,2593,Europe,Wales,0.82
+E09000023,300556,2021,Lewisham,1731,Europe,Wales,0.58
+E09000024,215184,2021,Merton,1415,Europe,Wales,0.66
+E09000025,351041,2021,Newham,903,Europe,Wales,0.26
+E09000026,310257,2021,Redbridge,814,Europe,Wales,0.26
+E09000027,195277,2021,Richmond upon Thames,2310,Europe,Wales,1.18
+E09000028,307632,2021,Southwark,1953,Europe,Wales,0.63
+E09000029,209640,2021,Sutton,1028,Europe,Wales,0.49
+E09000030,310304,2021,Tower Hamlets,1483,Europe,Wales,0.48
+E09000031,278417,2021,Waltham Forest,1244,Europe,Wales,0.45
+E09000032,327502,2021,Wandsworth,3062,Europe,Wales,0.93
+E09000033,204238,2021,Westminster,1080,Europe,Wales,0.53
+E09000001,8579,2021,City of London,14,Middle East and Asia,Central Asia,0.16
+E09000002,218870,2021,Barking and Dagenham,72,Middle East and Asia,Central Asia,0.03
+E09000003,389342,2021,Barnet,518,Middle East and Asia,Central Asia,0.13
+E09000004,246472,2021,Bexley,165,Middle East and Asia,Central Asia,0.07
+E09000005,339817,2021,Brent,113,Middle East and Asia,Central Asia,0.03
+E09000006,329984,2021,Bromley,149,Middle East and Asia,Central Asia,0.05
+E09000007,210135,2021,Camden,254,Middle East and Asia,Central Asia,0.12
+E09000008,390719,2021,Croydon,125,Middle East and Asia,Central Asia,0.03
+E09000009,367116,2021,Ealing,188,Middle East and Asia,Central Asia,0.05
+E09000010,329987,2021,Enfield,190,Middle East and Asia,Central Asia,0.06
+E09000011,289073,2021,Greenwich,257,Middle East and Asia,Central Asia,0.09
+E09000012,259147,2021,Hackney,137,Middle East and Asia,Central Asia,0.05
+E09000013,183149,2021,Hammersmith and Fulham,180,Middle East and Asia,Central Asia,0.1
+E09000014,264236,2021,Haringey,185,Middle East and Asia,Central Asia,0.07
+E09000015,261201,2021,Harrow,59,Middle East and Asia,Central Asia,0.02
+E09000016,262058,2021,Havering,72,Middle East and Asia,Central Asia,0.03
+E09000017,305912,2021,Hillingdon,117,Middle East and Asia,Central Asia,0.04
+E09000018,288177,2021,Hounslow,174,Middle East and Asia,Central Asia,0.06
+E09000019,216589,2021,Islington,160,Middle East and Asia,Central Asia,0.07
+E09000020,143375,2021,Kensington and Chelsea,238,Middle East and Asia,Central Asia,0.17
+E09000021,168064,2021,Kingston upon Thames,138,Middle East and Asia,Central Asia,0.08
+E09000022,317654,2021,Lambeth,168,Middle East and Asia,Central Asia,0.05
+E09000023,300556,2021,Lewisham,149,Middle East and Asia,Central Asia,0.05
+E09000024,215184,2021,Merton,148,Middle East and Asia,Central Asia,0.07
+E09000025,351041,2021,Newham,273,Middle East and Asia,Central Asia,0.08
+E09000026,310257,2021,Redbridge,105,Middle East and Asia,Central Asia,0.03
+E09000027,195277,2021,Richmond upon Thames,148,Middle East and Asia,Central Asia,0.08
+E09000028,307632,2021,Southwark,241,Middle East and Asia,Central Asia,0.08
+E09000029,209640,2021,Sutton,118,Middle East and Asia,Central Asia,0.06
+E09000030,310304,2021,Tower Hamlets,494,Middle East and Asia,Central Asia,0.16
+E09000031,278417,2021,Waltham Forest,199,Middle East and Asia,Central Asia,0.07
+E09000032,327502,2021,Wandsworth,242,Middle East and Asia,Central Asia,0.07
+E09000033,204238,2021,Westminster,411,Middle East and Asia,Central Asia,0.2
+E09000001,8579,2021,City of London,282,Middle East and Asia,China,3.29
+E09000002,218870,2021,Barking and Dagenham,551,Middle East and Asia,China,0.25
+E09000003,389342,2021,Barnet,3074,Middle East and Asia,China,0.79
+E09000004,246472,2021,Bexley,1143,Middle East and Asia,China,0.46
+E09000005,339817,2021,Brent,1328,Middle East and Asia,China,0.39
+E09000006,329984,2021,Bromley,1738,Middle East and Asia,China,0.53
+E09000007,210135,2021,Camden,3111,Middle East and Asia,China,1.48
+E09000008,390719,2021,Croydon,1203,Middle East and Asia,China,0.31
+E09000009,367116,2021,Ealing,1529,Middle East and Asia,China,0.42
+E09000010,329987,2021,Enfield,796,Middle East and Asia,China,0.24
+E09000011,289073,2021,Greenwich,2818,Middle East and Asia,China,0.97
+E09000012,259147,2021,Hackney,1218,Middle East and Asia,China,0.47
+E09000013,183149,2021,Hammersmith and Fulham,2038,Middle East and Asia,China,1.11
+E09000014,264236,2021,Haringey,1451,Middle East and Asia,China,0.55
+E09000015,261201,2021,Harrow,792,Middle East and Asia,China,0.3
+E09000016,262058,2021,Havering,592,Middle East and Asia,China,0.23
+E09000017,305912,2021,Hillingdon,1125,Middle East and Asia,China,0.37
+E09000018,288177,2021,Hounslow,948,Middle East and Asia,China,0.33
+E09000019,216589,2021,Islington,2079,Middle East and Asia,China,0.96
+E09000020,143375,2021,Kensington and Chelsea,1890,Middle East and Asia,China,1.32
+E09000021,168064,2021,Kingston upon Thames,1548,Middle East and Asia,China,0.92
+E09000022,317654,2021,Lambeth,1797,Middle East and Asia,China,0.57
+E09000023,300556,2021,Lewisham,2222,Middle East and Asia,China,0.74
+E09000024,215184,2021,Merton,1211,Middle East and Asia,China,0.56
+E09000025,351041,2021,Newham,2567,Middle East and Asia,China,0.73
+E09000026,310257,2021,Redbridge,723,Middle East and Asia,China,0.23
+E09000027,195277,2021,Richmond upon Thames,1025,Middle East and Asia,China,0.52
+E09000028,307632,2021,Southwark,3352,Middle East and Asia,China,1.09
+E09000029,209640,2021,Sutton,1412,Middle East and Asia,China,0.67
+E09000030,310304,2021,Tower Hamlets,4818,Middle East and Asia,China,1.55
+E09000031,278417,2021,Waltham Forest,1020,Middle East and Asia,China,0.37
+E09000032,327502,2021,Wandsworth,1627,Middle East and Asia,China,0.5
+E09000033,204238,2021,Westminster,3088,Middle East and Asia,China,1.51
+E09000001,8579,2021,City of London,105,Middle East and Asia,Hong Kong,1.22
+E09000002,218870,2021,Barking and Dagenham,265,Middle East and Asia,Hong Kong,0.12
+E09000003,389342,2021,Barnet,2400,Middle East and Asia,Hong Kong,0.62
+E09000004,246472,2021,Bexley,744,Middle East and Asia,Hong Kong,0.3
+E09000005,339817,2021,Brent,891,Middle East and Asia,Hong Kong,0.26
+E09000006,329984,2021,Bromley,1007,Middle East and Asia,Hong Kong,0.31
+E09000007,210135,2021,Camden,1343,Middle East and Asia,Hong Kong,0.64
+E09000008,390719,2021,Croydon,818,Middle East and Asia,Hong Kong,0.21
+E09000009,367116,2021,Ealing,1378,Middle East and Asia,Hong Kong,0.38
+E09000010,329987,2021,Enfield,610,Middle East and Asia,Hong Kong,0.18
+E09000011,289073,2021,Greenwich,1799,Middle East and Asia,Hong Kong,0.62
+E09000012,259147,2021,Hackney,688,Middle East and Asia,Hong Kong,0.27
+E09000013,183149,2021,Hammersmith and Fulham,1055,Middle East and Asia,Hong Kong,0.58
+E09000014,264236,2021,Haringey,832,Middle East and Asia,Hong Kong,0.31
+E09000015,261201,2021,Harrow,820,Middle East and Asia,Hong Kong,0.31
+E09000016,262058,2021,Havering,460,Middle East and Asia,Hong Kong,0.18
+E09000017,305912,2021,Hillingdon,1142,Middle East and Asia,Hong Kong,0.37
+E09000018,288177,2021,Hounslow,1073,Middle East and Asia,Hong Kong,0.37
+E09000019,216589,2021,Islington,1102,Middle East and Asia,Hong Kong,0.51
+E09000020,143375,2021,Kensington and Chelsea,890,Middle East and Asia,Hong Kong,0.62
+E09000021,168064,2021,Kingston upon Thames,1110,Middle East and Asia,Hong Kong,0.66
+E09000022,317654,2021,Lambeth,1084,Middle East and Asia,Hong Kong,0.34
+E09000023,300556,2021,Lewisham,969,Middle East and Asia,Hong Kong,0.32
+E09000024,215184,2021,Merton,843,Middle East and Asia,Hong Kong,0.39
+E09000025,351041,2021,Newham,1176,Middle East and Asia,Hong Kong,0.34
+E09000026,310257,2021,Redbridge,643,Middle East and Asia,Hong Kong,0.21
+E09000027,195277,2021,Richmond upon Thames,985,Middle East and Asia,Hong Kong,0.5
+E09000028,307632,2021,Southwark,1477,Middle East and Asia,Hong Kong,0.48
+E09000029,209640,2021,Sutton,924,Middle East and Asia,Hong Kong,0.44
+E09000030,310304,2021,Tower Hamlets,1865,Middle East and Asia,Hong Kong,0.6
+E09000031,278417,2021,Waltham Forest,439,Middle East and Asia,Hong Kong,0.16
+E09000032,327502,2021,Wandsworth,1459,Middle East and Asia,Hong Kong,0.45
+E09000033,204238,2021,Westminster,1363,Middle East and Asia,Hong Kong,0.67
+E09000001,8579,2021,City of London,117,Middle East and Asia,Other Eastern Asia,1.36
+E09000002,218870,2021,Barking and Dagenham,89,Middle East and Asia,Other Eastern Asia,0.04
+E09000003,389342,2021,Barnet,2821,Middle East and Asia,Other Eastern Asia,0.72
+E09000004,246472,2021,Bexley,181,Middle East and Asia,Other Eastern Asia,0.07
+E09000005,339817,2021,Brent,685,Middle East and Asia,Other Eastern Asia,0.2
+E09000006,329984,2021,Bromley,602,Middle East and Asia,Other Eastern Asia,0.18
+E09000007,210135,2021,Camden,2502,Middle East and Asia,Other Eastern Asia,1.19
+E09000008,390719,2021,Croydon,609,Middle East and Asia,Other Eastern Asia,0.16
+E09000009,367116,2021,Ealing,3426,Middle East and Asia,Other Eastern Asia,0.93
+E09000010,329987,2021,Enfield,259,Middle East and Asia,Other Eastern Asia,0.08
+E09000011,289073,2021,Greenwich,627,Middle East and Asia,Other Eastern Asia,0.22
+E09000012,259147,2021,Hackney,867,Middle East and Asia,Other Eastern Asia,0.33
+E09000013,183149,2021,Hammersmith and Fulham,1269,Middle East and Asia,Other Eastern Asia,0.69
+E09000014,264236,2021,Haringey,724,Middle East and Asia,Other Eastern Asia,0.27
+E09000015,261201,2021,Harrow,430,Middle East and Asia,Other Eastern Asia,0.16
+E09000016,262058,2021,Havering,148,Middle East and Asia,Other Eastern Asia,0.06
+E09000017,305912,2021,Hillingdon,394,Middle East and Asia,Other Eastern Asia,0.13
+E09000018,288177,2021,Hounslow,622,Middle East and Asia,Other Eastern Asia,0.22
+E09000019,216589,2021,Islington,1196,Middle East and Asia,Other Eastern Asia,0.55
+E09000020,143375,2021,Kensington and Chelsea,1399,Middle East and Asia,Other Eastern Asia,0.98
+E09000021,168064,2021,Kingston upon Thames,3296,Middle East and Asia,Other Eastern Asia,1.96
+E09000022,317654,2021,Lambeth,864,Middle East and Asia,Other Eastern Asia,0.27
+E09000023,300556,2021,Lewisham,806,Middle East and Asia,Other Eastern Asia,0.27
+E09000024,215184,2021,Merton,1824,Middle East and Asia,Other Eastern Asia,0.85
+E09000025,351041,2021,Newham,657,Middle East and Asia,Other Eastern Asia,0.19
+E09000026,310257,2021,Redbridge,259,Middle East and Asia,Other Eastern Asia,0.08
+E09000027,195277,2021,Richmond upon Thames,834,Middle East and Asia,Other Eastern Asia,0.43
+E09000028,307632,2021,Southwark,1255,Middle East and Asia,Other Eastern Asia,0.41
+E09000029,209640,2021,Sutton,963,Middle East and Asia,Other Eastern Asia,0.46
+E09000030,310304,2021,Tower Hamlets,1507,Middle East and Asia,Other Eastern Asia,0.49
+E09000031,278417,2021,Waltham Forest,368,Middle East and Asia,Other Eastern Asia,0.13
+E09000032,327502,2021,Wandsworth,1392,Middle East and Asia,Other Eastern Asia,0.43
+E09000033,204238,2021,Westminster,2580,Middle East and Asia,Other Eastern Asia,1.26
+E09000001,8579,2021,City of London,41,Middle East and Asia,Iran,0.48
+E09000002,218870,2021,Barking and Dagenham,215,Middle East and Asia,Iran,0.1
+E09000003,389342,2021,Barnet,11227,Middle East and Asia,Iran,2.88
+E09000004,246472,2021,Bexley,178,Middle East and Asia,Iran,0.07
+E09000005,339817,2021,Brent,2192,Middle East and Asia,Iran,0.65
+E09000006,329984,2021,Bromley,604,Middle East and Asia,Iran,0.18
+E09000007,210135,2021,Camden,1943,Middle East and Asia,Iran,0.92
+E09000008,390719,2021,Croydon,902,Middle East and Asia,Iran,0.23
+E09000009,367116,2021,Ealing,3796,Middle East and Asia,Iran,1.03
+E09000010,329987,2021,Enfield,1710,Middle East and Asia,Iran,0.52
+E09000011,289073,2021,Greenwich,314,Middle East and Asia,Iran,0.11
+E09000012,259147,2021,Hackney,381,Middle East and Asia,Iran,0.15
+E09000013,183149,2021,Hammersmith and Fulham,1635,Middle East and Asia,Iran,0.89
+E09000014,264236,2021,Haringey,980,Middle East and Asia,Iran,0.37
+E09000015,261201,2021,Harrow,1331,Middle East and Asia,Iran,0.51
+E09000016,262058,2021,Havering,229,Middle East and Asia,Iran,0.09
+E09000017,305912,2021,Hillingdon,1126,Middle East and Asia,Iran,0.37
+E09000018,288177,2021,Hounslow,1491,Middle East and Asia,Iran,0.52
+E09000019,216589,2021,Islington,855,Middle East and Asia,Iran,0.39
+E09000020,143375,2021,Kensington and Chelsea,1841,Middle East and Asia,Iran,1.28
+E09000021,168064,2021,Kingston upon Thames,1298,Middle East and Asia,Iran,0.77
+E09000022,317654,2021,Lambeth,521,Middle East and Asia,Iran,0.16
+E09000023,300556,2021,Lewisham,449,Middle East and Asia,Iran,0.15
+E09000024,215184,2021,Merton,712,Middle East and Asia,Iran,0.33
+E09000025,351041,2021,Newham,356,Middle East and Asia,Iran,0.1
+E09000026,310257,2021,Redbridge,417,Middle East and Asia,Iran,0.13
+E09000027,195277,2021,Richmond upon Thames,1389,Middle East and Asia,Iran,0.71
+E09000028,307632,2021,Southwark,639,Middle East and Asia,Iran,0.21
+E09000029,209640,2021,Sutton,667,Middle East and Asia,Iran,0.32
+E09000030,310304,2021,Tower Hamlets,503,Middle East and Asia,Iran,0.16
+E09000031,278417,2021,Waltham Forest,351,Middle East and Asia,Iran,0.13
+E09000032,327502,2021,Wandsworth,1103,Middle East and Asia,Iran,0.34
+E09000033,204238,2021,Westminster,2458,Middle East and Asia,Iran,1.2
+E09000001,8579,2021,City of London,9,Middle East and Asia,Iraq,0.1
+E09000002,218870,2021,Barking and Dagenham,118,Middle East and Asia,Iraq,0.05
+E09000003,389342,2021,Barnet,1986,Middle East and Asia,Iraq,0.51
+E09000004,246472,2021,Bexley,198,Middle East and Asia,Iraq,0.08
+E09000005,339817,2021,Brent,3646,Middle East and Asia,Iraq,1.07
+E09000006,329984,2021,Bromley,313,Middle East and Asia,Iraq,0.09
+E09000007,210135,2021,Camden,754,Middle East and Asia,Iraq,0.36
+E09000008,390719,2021,Croydon,815,Middle East and Asia,Iraq,0.21
+E09000009,367116,2021,Ealing,4779,Middle East and Asia,Iraq,1.3
+E09000010,329987,2021,Enfield,703,Middle East and Asia,Iraq,0.21
+E09000011,289073,2021,Greenwich,463,Middle East and Asia,Iraq,0.16
+E09000012,259147,2021,Hackney,324,Middle East and Asia,Iraq,0.13
+E09000013,183149,2021,Hammersmith and Fulham,1008,Middle East and Asia,Iraq,0.55
+E09000014,264236,2021,Haringey,385,Middle East and Asia,Iraq,0.15
+E09000015,261201,2021,Harrow,1506,Middle East and Asia,Iraq,0.58
+E09000016,262058,2021,Havering,164,Middle East and Asia,Iraq,0.06
+E09000017,305912,2021,Hillingdon,1228,Middle East and Asia,Iraq,0.4
+E09000018,288177,2021,Hounslow,1038,Middle East and Asia,Iraq,0.36
+E09000019,216589,2021,Islington,448,Middle East and Asia,Iraq,0.21
+E09000020,143375,2021,Kensington and Chelsea,1278,Middle East and Asia,Iraq,0.89
+E09000021,168064,2021,Kingston upon Thames,1657,Middle East and Asia,Iraq,0.99
+E09000022,317654,2021,Lambeth,377,Middle East and Asia,Iraq,0.12
+E09000023,300556,2021,Lewisham,417,Middle East and Asia,Iraq,0.14
+E09000024,215184,2021,Merton,427,Middle East and Asia,Iraq,0.2
+E09000025,351041,2021,Newham,213,Middle East and Asia,Iraq,0.06
+E09000026,310257,2021,Redbridge,284,Middle East and Asia,Iraq,0.09
+E09000027,195277,2021,Richmond upon Thames,378,Middle East and Asia,Iraq,0.19
+E09000028,307632,2021,Southwark,477,Middle East and Asia,Iraq,0.16
+E09000029,209640,2021,Sutton,546,Middle East and Asia,Iraq,0.26
+E09000030,310304,2021,Tower Hamlets,258,Middle East and Asia,Iraq,0.08
+E09000031,278417,2021,Waltham Forest,195,Middle East and Asia,Iraq,0.07
+E09000032,327502,2021,Wandsworth,644,Middle East and Asia,Iraq,0.2
+E09000033,204238,2021,Westminster,3328,Middle East and Asia,Iraq,1.63
+E09000001,8579,2021,City of London,76,Middle East and Asia,Other Middle East,0.89
+E09000002,218870,2021,Barking and Dagenham,522,Middle East and Asia,Other Middle East,0.24
+E09000003,389342,2021,Barnet,7857,Middle East and Asia,Other Middle East,2.02
+E09000004,246472,2021,Bexley,298,Middle East and Asia,Other Middle East,0.12
+E09000005,339817,2021,Brent,7946,Middle East and Asia,Other Middle East,2.34
+E09000006,329984,2021,Bromley,669,Middle East and Asia,Other Middle East,0.2
+E09000007,210135,2021,Camden,3201,Middle East and Asia,Other Middle East,1.52
+E09000008,390719,2021,Croydon,1092,Middle East and Asia,Other Middle East,0.28
+E09000009,367116,2021,Ealing,7589,Middle East and Asia,Other Middle East,2.07
+E09000010,329987,2021,Enfield,1164,Middle East and Asia,Other Middle East,0.35
+E09000011,289073,2021,Greenwich,820,Middle East and Asia,Other Middle East,0.28
+E09000012,259147,2021,Hackney,3282,Middle East and Asia,Other Middle East,1.27
+E09000013,183149,2021,Hammersmith and Fulham,2426,Middle East and Asia,Other Middle East,1.32
+E09000014,264236,2021,Haringey,1881,Middle East and Asia,Other Middle East,0.71
+E09000015,261201,2021,Harrow,3303,Middle East and Asia,Other Middle East,1.26
+E09000016,262058,2021,Havering,423,Middle East and Asia,Other Middle East,0.16
+E09000017,305912,2021,Hillingdon,2256,Middle East and Asia,Other Middle East,0.74
+E09000018,288177,2021,Hounslow,3041,Middle East and Asia,Other Middle East,1.06
+E09000019,216589,2021,Islington,1629,Middle East and Asia,Other Middle East,0.75
+E09000020,143375,2021,Kensington and Chelsea,3220,Middle East and Asia,Other Middle East,2.25
+E09000021,168064,2021,Kingston upon Thames,1460,Middle East and Asia,Other Middle East,0.87
+E09000022,317654,2021,Lambeth,1461,Middle East and Asia,Other Middle East,0.46
+E09000023,300556,2021,Lewisham,911,Middle East and Asia,Other Middle East,0.3
+E09000024,215184,2021,Merton,1045,Middle East and Asia,Other Middle East,0.49
+E09000025,351041,2021,Newham,1388,Middle East and Asia,Other Middle East,0.4
+E09000026,310257,2021,Redbridge,1383,Middle East and Asia,Other Middle East,0.45
+E09000027,195277,2021,Richmond upon Thames,1252,Middle East and Asia,Other Middle East,0.64
+E09000028,307632,2021,Southwark,1305,Middle East and Asia,Other Middle East,0.42
+E09000029,209640,2021,Sutton,633,Middle East and Asia,Other Middle East,0.3
+E09000030,310304,2021,Tower Hamlets,1529,Middle East and Asia,Other Middle East,0.49
+E09000031,278417,2021,Waltham Forest,765,Middle East and Asia,Other Middle East,0.27
+E09000032,327502,2021,Wandsworth,2072,Middle East and Asia,Other Middle East,0.63
+E09000033,204238,2021,Westminster,6896,Middle East and Asia,Other Middle East,3.38
+E09000001,8579,2021,City of London,58,Middle East and Asia,Malaysia,0.68
+E09000002,218870,2021,Barking and Dagenham,177,Middle East and Asia,Malaysia,0.08
+E09000003,389342,2021,Barnet,1417,Middle East and Asia,Malaysia,0.36
+E09000004,246472,2021,Bexley,269,Middle East and Asia,Malaysia,0.11
+E09000005,339817,2021,Brent,691,Middle East and Asia,Malaysia,0.2
+E09000006,329984,2021,Bromley,582,Middle East and Asia,Malaysia,0.18
+E09000007,210135,2021,Camden,1023,Middle East and Asia,Malaysia,0.49
+E09000008,390719,2021,Croydon,669,Middle East and Asia,Malaysia,0.17
+E09000009,367116,2021,Ealing,1022,Middle East and Asia,Malaysia,0.28
+E09000010,329987,2021,Enfield,438,Middle East and Asia,Malaysia,0.13
+E09000011,289073,2021,Greenwich,614,Middle East and Asia,Malaysia,0.21
+E09000012,259147,2021,Hackney,324,Middle East and Asia,Malaysia,0.13
+E09000013,183149,2021,Hammersmith and Fulham,606,Middle East and Asia,Malaysia,0.33
+E09000014,264236,2021,Haringey,506,Middle East and Asia,Malaysia,0.19
+E09000015,261201,2021,Harrow,563,Middle East and Asia,Malaysia,0.22
+E09000016,262058,2021,Havering,281,Middle East and Asia,Malaysia,0.11
+E09000017,305912,2021,Hillingdon,599,Middle East and Asia,Malaysia,0.2
+E09000018,288177,2021,Hounslow,547,Middle East and Asia,Malaysia,0.19
+E09000019,216589,2021,Islington,667,Middle East and Asia,Malaysia,0.31
+E09000020,143375,2021,Kensington and Chelsea,671,Middle East and Asia,Malaysia,0.47
+E09000021,168064,2021,Kingston upon Thames,476,Middle East and Asia,Malaysia,0.28
+E09000022,317654,2021,Lambeth,530,Middle East and Asia,Malaysia,0.17
+E09000023,300556,2021,Lewisham,558,Middle East and Asia,Malaysia,0.19
+E09000024,215184,2021,Merton,460,Middle East and Asia,Malaysia,0.21
+E09000025,351041,2021,Newham,827,Middle East and Asia,Malaysia,0.24
+E09000026,310257,2021,Redbridge,490,Middle East and Asia,Malaysia,0.16
+E09000027,195277,2021,Richmond upon Thames,430,Middle East and Asia,Malaysia,0.22
+E09000028,307632,2021,Southwark,832,Middle East and Asia,Malaysia,0.27
+E09000029,209640,2021,Sutton,483,Middle East and Asia,Malaysia,0.23
+E09000030,310304,2021,Tower Hamlets,1128,Middle East and Asia,Malaysia,0.36
+E09000031,278417,2021,Waltham Forest,294,Middle East and Asia,Malaysia,0.11
+E09000032,327502,2021,Wandsworth,824,Middle East and Asia,Malaysia,0.25
+E09000033,204238,2021,Westminster,1161,Middle East and Asia,Malaysia,0.57
+E09000001,8579,2021,City of London,43,Middle East and Asia,Other South-East Asia,0.5
+E09000002,218870,2021,Barking and Dagenham,442,Middle East and Asia,Other South-East Asia,0.2
+E09000003,389342,2021,Barnet,1328,Middle East and Asia,Other South-East Asia,0.34
+E09000004,246472,2021,Bexley,1086,Middle East and Asia,Other South-East Asia,0.44
+E09000005,339817,2021,Brent,969,Middle East and Asia,Other South-East Asia,0.29
+E09000006,329984,2021,Bromley,1042,Middle East and Asia,Other South-East Asia,0.32
+E09000007,210135,2021,Camden,1037,Middle East and Asia,Other South-East Asia,0.49
+E09000008,390719,2021,Croydon,1333,Middle East and Asia,Other South-East Asia,0.34
+E09000009,367116,2021,Ealing,1214,Middle East and Asia,Other South-East Asia,0.33
+E09000010,329987,2021,Enfield,778,Middle East and Asia,Other South-East Asia,0.24
+E09000011,289073,2021,Greenwich,2538,Middle East and Asia,Other South-East Asia,0.88
+E09000012,259147,2021,Hackney,1802,Middle East and Asia,Other South-East Asia,0.7
+E09000013,183149,2021,Hammersmith and Fulham,917,Middle East and Asia,Other South-East Asia,0.5
+E09000014,264236,2021,Haringey,1039,Middle East and Asia,Other South-East Asia,0.39
+E09000015,261201,2021,Harrow,591,Middle East and Asia,Other South-East Asia,0.23
+E09000016,262058,2021,Havering,525,Middle East and Asia,Other South-East Asia,0.2
+E09000017,305912,2021,Hillingdon,883,Middle East and Asia,Other South-East Asia,0.29
+E09000018,288177,2021,Hounslow,1483,Middle East and Asia,Other South-East Asia,0.51
+E09000019,216589,2021,Islington,908,Middle East and Asia,Other South-East Asia,0.42
+E09000020,143375,2021,Kensington and Chelsea,841,Middle East and Asia,Other South-East Asia,0.59
+E09000021,168064,2021,Kingston upon Thames,687,Middle East and Asia,Other South-East Asia,0.41
+E09000022,317654,2021,Lambeth,1552,Middle East and Asia,Other South-East Asia,0.49
+E09000023,300556,2021,Lewisham,2465,Middle East and Asia,Other South-East Asia,0.82
+E09000024,215184,2021,Merton,841,Middle East and Asia,Other South-East Asia,0.39
+E09000025,351041,2021,Newham,1492,Middle East and Asia,Other South-East Asia,0.43
+E09000026,310257,2021,Redbridge,683,Middle East and Asia,Other South-East Asia,0.22
+E09000027,195277,2021,Richmond upon Thames,740,Middle East and Asia,Other South-East Asia,0.38
+E09000028,307632,2021,Southwark,2303,Middle East and Asia,Other South-East Asia,0.75
+E09000029,209640,2021,Sutton,691,Middle East and Asia,Other South-East Asia,0.33
+E09000030,310304,2021,Tower Hamlets,1945,Middle East and Asia,Other South-East Asia,0.63
+E09000031,278417,2021,Waltham Forest,1022,Middle East and Asia,Other South-East Asia,0.37
+E09000032,327502,2021,Wandsworth,1227,Middle East and Asia,Other South-East Asia,0.37
+E09000033,204238,2021,Westminster,1248,Middle East and Asia,Other South-East Asia,0.61
+E09000001,8579,2021,City of London,49,Middle East and Asia,Philippines,0.57
+E09000002,218870,2021,Barking and Dagenham,1122,Middle East and Asia,Philippines,0.51
+E09000003,389342,2021,Barnet,3902,Middle East and Asia,Philippines,1
+E09000004,246472,2021,Bexley,411,Middle East and Asia,Philippines,0.17
+E09000005,339817,2021,Brent,4415,Middle East and Asia,Philippines,1.3
+E09000006,329984,2021,Bromley,1324,Middle East and Asia,Philippines,0.4
+E09000007,210135,2021,Camden,2063,Middle East and Asia,Philippines,0.98
+E09000008,390719,2021,Croydon,1437,Middle East and Asia,Philippines,0.37
+E09000009,367116,2021,Ealing,2059,Middle East and Asia,Philippines,0.56
+E09000010,329987,2021,Enfield,1132,Middle East and Asia,Philippines,0.34
+E09000011,289073,2021,Greenwich,970,Middle East and Asia,Philippines,0.34
+E09000012,259147,2021,Hackney,626,Middle East and Asia,Philippines,0.24
+E09000013,183149,2021,Hammersmith and Fulham,2943,Middle East and Asia,Philippines,1.61
+E09000014,264236,2021,Haringey,1073,Middle East and Asia,Philippines,0.41
+E09000015,261201,2021,Harrow,1172,Middle East and Asia,Philippines,0.45
+E09000016,262058,2021,Havering,1138,Middle East and Asia,Philippines,0.43
+E09000017,305912,2021,Hillingdon,1515,Middle East and Asia,Philippines,0.5
+E09000018,288177,2021,Hounslow,2365,Middle East and Asia,Philippines,0.82
+E09000019,216589,2021,Islington,868,Middle East and Asia,Philippines,0.4
+E09000020,143375,2021,Kensington and Chelsea,2762,Middle East and Asia,Philippines,1.93
+E09000021,168064,2021,Kingston upon Thames,1346,Middle East and Asia,Philippines,0.8
+E09000022,317654,2021,Lambeth,1313,Middle East and Asia,Philippines,0.41
+E09000023,300556,2021,Lewisham,1087,Middle East and Asia,Philippines,0.36
+E09000024,215184,2021,Merton,1473,Middle East and Asia,Philippines,0.68
+E09000025,351041,2021,Newham,4033,Middle East and Asia,Philippines,1.15
+E09000026,310257,2021,Redbridge,719,Middle East and Asia,Philippines,0.23
+E09000027,195277,2021,Richmond upon Thames,504,Middle East and Asia,Philippines,0.26
+E09000028,307632,2021,Southwark,2100,Middle East and Asia,Philippines,0.68
+E09000029,209640,2021,Sutton,1385,Middle East and Asia,Philippines,0.66
+E09000030,310304,2021,Tower Hamlets,1155,Middle East and Asia,Philippines,0.37
+E09000031,278417,2021,Waltham Forest,1341,Middle East and Asia,Philippines,0.48
+E09000032,327502,2021,Wandsworth,2713,Middle East and Asia,Philippines,0.83
+E09000033,204238,2021,Westminster,2415,Middle East and Asia,Philippines,1.18
+E09000001,8579,2021,City of London,47,Middle East and Asia,Singapore,0.55
+E09000002,218870,2021,Barking and Dagenham,52,Middle East and Asia,Singapore,0.02
+E09000003,389342,2021,Barnet,365,Middle East and Asia,Singapore,0.09
+E09000004,246472,2021,Bexley,107,Middle East and Asia,Singapore,0.04
+E09000005,339817,2021,Brent,233,Middle East and Asia,Singapore,0.07
+E09000006,329984,2021,Bromley,286,Middle East and Asia,Singapore,0.09
+E09000007,210135,2021,Camden,695,Middle East and Asia,Singapore,0.33
+E09000008,390719,2021,Croydon,336,Middle East and Asia,Singapore,0.09
+E09000009,367116,2021,Ealing,476,Middle East and Asia,Singapore,0.13
+E09000010,329987,2021,Enfield,121,Middle East and Asia,Singapore,0.04
+E09000011,289073,2021,Greenwich,254,Middle East and Asia,Singapore,0.09
+E09000012,259147,2021,Hackney,224,Middle East and Asia,Singapore,0.09
+E09000013,183149,2021,Hammersmith and Fulham,413,Middle East and Asia,Singapore,0.23
+E09000014,264236,2021,Haringey,200,Middle East and Asia,Singapore,0.08
+E09000015,261201,2021,Harrow,160,Middle East and Asia,Singapore,0.06
+E09000016,262058,2021,Havering,90,Middle East and Asia,Singapore,0.03
+E09000017,305912,2021,Hillingdon,320,Middle East and Asia,Singapore,0.1
+E09000018,288177,2021,Hounslow,346,Middle East and Asia,Singapore,0.12
+E09000019,216589,2021,Islington,356,Middle East and Asia,Singapore,0.16
+E09000020,143375,2021,Kensington and Chelsea,436,Middle East and Asia,Singapore,0.3
+E09000021,168064,2021,Kingston upon Thames,235,Middle East and Asia,Singapore,0.14
+E09000022,317654,2021,Lambeth,398,Middle East and Asia,Singapore,0.13
+E09000023,300556,2021,Lewisham,242,Middle East and Asia,Singapore,0.08
+E09000024,215184,2021,Merton,261,Middle East and Asia,Singapore,0.12
+E09000025,351041,2021,Newham,451,Middle East and Asia,Singapore,0.13
+E09000026,310257,2021,Redbridge,310,Middle East and Asia,Singapore,0.1
+E09000027,195277,2021,Richmond upon Thames,378,Middle East and Asia,Singapore,0.19
+E09000028,307632,2021,Southwark,504,Middle East and Asia,Singapore,0.16
+E09000029,209640,2021,Sutton,162,Middle East and Asia,Singapore,0.08
+E09000030,310304,2021,Tower Hamlets,599,Middle East and Asia,Singapore,0.19
+E09000031,278417,2021,Waltham Forest,93,Middle East and Asia,Singapore,0.03
+E09000032,327502,2021,Wandsworth,572,Middle East and Asia,Singapore,0.17
+E09000033,204238,2021,Westminster,631,Middle East and Asia,Singapore,0.31
+E09000001,8579,2021,City of London,2,Middle East and Asia,Afghanistan,0.02
+E09000002,218870,2021,Barking and Dagenham,543,Middle East and Asia,Afghanistan,0.25
+E09000003,389342,2021,Barnet,3729,Middle East and Asia,Afghanistan,0.96
+E09000004,246472,2021,Bexley,282,Middle East and Asia,Afghanistan,0.11
+E09000005,339817,2021,Brent,3504,Middle East and Asia,Afghanistan,1.03
+E09000006,329984,2021,Bromley,246,Middle East and Asia,Afghanistan,0.07
+E09000007,210135,2021,Camden,564,Middle East and Asia,Afghanistan,0.27
+E09000008,390719,2021,Croydon,1463,Middle East and Asia,Afghanistan,0.37
+E09000009,367116,2021,Ealing,7006,Middle East and Asia,Afghanistan,1.91
+E09000010,329987,2021,Enfield,727,Middle East and Asia,Afghanistan,0.22
+E09000011,289073,2021,Greenwich,552,Middle East and Asia,Afghanistan,0.19
+E09000012,259147,2021,Hackney,323,Middle East and Asia,Afghanistan,0.12
+E09000013,183149,2021,Hammersmith and Fulham,657,Middle East and Asia,Afghanistan,0.36
+E09000014,264236,2021,Haringey,338,Middle East and Asia,Afghanistan,0.13
+E09000015,261201,2021,Harrow,4825,Middle East and Asia,Afghanistan,1.85
+E09000016,262058,2021,Havering,228,Middle East and Asia,Afghanistan,0.09
+E09000017,305912,2021,Hillingdon,6324,Middle East and Asia,Afghanistan,2.07
+E09000018,288177,2021,Hounslow,6444,Middle East and Asia,Afghanistan,2.24
+E09000019,216589,2021,Islington,263,Middle East and Asia,Afghanistan,0.12
+E09000020,143375,2021,Kensington and Chelsea,198,Middle East and Asia,Afghanistan,0.14
+E09000021,168064,2021,Kingston upon Thames,848,Middle East and Asia,Afghanistan,0.5
+E09000022,317654,2021,Lambeth,375,Middle East and Asia,Afghanistan,0.12
+E09000023,300556,2021,Lewisham,849,Middle East and Asia,Afghanistan,0.28
+E09000024,215184,2021,Merton,470,Middle East and Asia,Afghanistan,0.22
+E09000025,351041,2021,Newham,1219,Middle East and Asia,Afghanistan,0.35
+E09000026,310257,2021,Redbridge,1140,Middle East and Asia,Afghanistan,0.37
+E09000027,195277,2021,Richmond upon Thames,916,Middle East and Asia,Afghanistan,0.47
+E09000028,307632,2021,Southwark,714,Middle East and Asia,Afghanistan,0.23
+E09000029,209640,2021,Sutton,269,Middle East and Asia,Afghanistan,0.13
+E09000030,310304,2021,Tower Hamlets,247,Middle East and Asia,Afghanistan,0.08
+E09000031,278417,2021,Waltham Forest,1054,Middle East and Asia,Afghanistan,0.38
+E09000032,327502,2021,Wandsworth,841,Middle East and Asia,Afghanistan,0.26
+E09000033,204238,2021,Westminster,548,Middle East and Asia,Afghanistan,0.27
+E09000001,8579,2021,City of London,117,Middle East and Asia,Bangladesh,1.36
+E09000002,218870,2021,Barking and Dagenham,9290,Middle East and Asia,Bangladesh,4.24
+E09000003,389342,2021,Barnet,1282,Middle East and Asia,Bangladesh,0.33
+E09000004,246472,2021,Bexley,829,Middle East and Asia,Bangladesh,0.34
+E09000005,339817,2021,Brent,958,Middle East and Asia,Bangladesh,0.28
+E09000006,329984,2021,Bromley,713,Middle East and Asia,Bangladesh,0.22
+E09000007,210135,2021,Camden,5814,Middle East and Asia,Bangladesh,2.77
+E09000008,390719,2021,Croydon,1468,Middle East and Asia,Bangladesh,0.38
+E09000009,367116,2021,Ealing,2111,Middle East and Asia,Bangladesh,0.58
+E09000010,329987,2021,Enfield,3537,Middle East and Asia,Bangladesh,1.07
+E09000011,289073,2021,Greenwich,1051,Middle East and Asia,Bangladesh,0.36
+E09000012,259147,2021,Hackney,2511,Middle East and Asia,Bangladesh,0.97
+E09000013,183149,2021,Hammersmith and Fulham,551,Middle East and Asia,Bangladesh,0.3
+E09000014,264236,2021,Haringey,2153,Middle East and Asia,Bangladesh,0.81
+E09000015,261201,2021,Harrow,812,Middle East and Asia,Bangladesh,0.31
+E09000016,262058,2021,Havering,1910,Middle East and Asia,Bangladesh,0.73
+E09000017,305912,2021,Hillingdon,1927,Middle East and Asia,Bangladesh,0.63
+E09000018,288177,2021,Hounslow,1380,Middle East and Asia,Bangladesh,0.48
+E09000019,216589,2021,Islington,2381,Middle East and Asia,Bangladesh,1.1
+E09000020,143375,2021,Kensington and Chelsea,591,Middle East and Asia,Bangladesh,0.41
+E09000021,168064,2021,Kingston upon Thames,430,Middle East and Asia,Bangladesh,0.26
+E09000022,317654,2021,Lambeth,1019,Middle East and Asia,Bangladesh,0.32
+E09000023,300556,2021,Lewisham,775,Middle East and Asia,Bangladesh,0.26
+E09000024,215184,2021,Merton,1092,Middle East and Asia,Bangladesh,0.51
+E09000025,351041,2021,Newham,26860,Middle East and Asia,Bangladesh,7.65
+E09000026,310257,2021,Redbridge,14099,Middle East and Asia,Bangladesh,4.54
+E09000027,195277,2021,Richmond upon Thames,425,Middle East and Asia,Bangladesh,0.22
+E09000028,307632,2021,Southwark,2181,Middle East and Asia,Bangladesh,0.71
+E09000029,209640,2021,Sutton,833,Middle East and Asia,Bangladesh,0.4
+E09000030,310304,2021,Tower Hamlets,43561,Middle East and Asia,Bangladesh,14.04
+E09000031,278417,2021,Waltham Forest,2285,Middle East and Asia,Bangladesh,0.82
+E09000032,327502,2021,Wandsworth,755,Middle East and Asia,Bangladesh,0.23
+E09000033,204238,2021,Westminster,3191,Middle East and Asia,Bangladesh,1.56
+E09000001,8579,2021,City of London,175,Middle East and Asia,India,2.04
+E09000002,218870,2021,Barking and Dagenham,6677,Middle East and Asia,India,3.05
+E09000003,389342,2021,Barnet,11335,Middle East and Asia,India,2.91
+E09000004,246472,2021,Bexley,5488,Middle East and Asia,India,2.23
+E09000005,339817,2021,Brent,35203,Middle East and Asia,India,10.36
+E09000006,329984,2021,Bromley,6842,Middle East and Asia,India,2.07
+E09000007,210135,2021,Camden,3270,Middle East and Asia,India,1.56
+E09000008,390719,2021,Croydon,14374,Middle East and Asia,India,3.68
+E09000009,367116,2021,Ealing,31819,Middle East and Asia,India,8.67
+E09000010,329987,2021,Enfield,3730,Middle East and Asia,India,1.13
+E09000011,289073,2021,Greenwich,5746,Middle East and Asia,India,1.99
+E09000012,259147,2021,Hackney,3126,Middle East and Asia,India,1.21
+E09000013,183149,2021,Hammersmith and Fulham,1994,Middle East and Asia,India,1.09
+E09000014,264236,2021,Haringey,2135,Middle East and Asia,India,0.81
+E09000015,261201,2021,Harrow,26376,Middle East and Asia,India,10.1
+E09000016,262058,2021,Havering,4603,Middle East and Asia,India,1.76
+E09000017,305912,2021,Hillingdon,27738,Middle East and Asia,India,9.07
+E09000018,288177,2021,Hounslow,38028,Middle East and Asia,India,13.2
+E09000019,216589,2021,Islington,1839,Middle East and Asia,India,0.85
+E09000020,143375,2021,Kensington and Chelsea,1698,Middle East and Asia,India,1.18
+E09000021,168064,2021,Kingston upon Thames,3690,Middle East and Asia,India,2.2
+E09000022,317654,2021,Lambeth,2463,Middle East and Asia,India,0.78
+E09000023,300556,2021,Lewisham,2554,Middle East and Asia,India,0.85
+E09000024,215184,2021,Merton,4701,Middle East and Asia,India,2.18
+E09000025,351041,2021,Newham,21818,Middle East and Asia,India,6.22
+E09000026,310257,2021,Redbridge,23651,Middle East and Asia,India,7.62
+E09000027,195277,2021,Richmond upon Thames,3292,Middle East and Asia,India,1.69
+E09000028,307632,2021,Southwark,3003,Middle East and Asia,India,0.98
+E09000029,209640,2021,Sutton,6891,Middle East and Asia,India,3.29
+E09000030,310304,2021,Tower Hamlets,6317,Middle East and Asia,India,2.04
+E09000031,278417,2021,Waltham Forest,3342,Middle East and Asia,India,1.2
+E09000032,327502,2021,Wandsworth,4280,Middle East and Asia,India,1.31
+E09000033,204238,2021,Westminster,4446,Middle East and Asia,India,2.18
+E09000001,8579,2021,City of London,4,Middle East and Asia,Other Southern Asia,0.05
+E09000002,218870,2021,Barking and Dagenham,258,Middle East and Asia,Other Southern Asia,0.12
+E09000003,389342,2021,Barnet,764,Middle East and Asia,Other Southern Asia,0.2
+E09000004,246472,2021,Bexley,1220,Middle East and Asia,Other Southern Asia,0.49
+E09000005,339817,2021,Brent,1505,Middle East and Asia,Other Southern Asia,0.44
+E09000006,329984,2021,Bromley,176,Middle East and Asia,Other Southern Asia,0.05
+E09000007,210135,2021,Camden,119,Middle East and Asia,Other Southern Asia,0.06
+E09000008,390719,2021,Croydon,203,Middle East and Asia,Other Southern Asia,0.05
+E09000009,367116,2021,Ealing,2659,Middle East and Asia,Other Southern Asia,0.72
+E09000010,329987,2021,Enfield,64,Middle East and Asia,Other Southern Asia,0.02
+E09000011,289073,2021,Greenwich,6014,Middle East and Asia,Other Southern Asia,2.08
+E09000012,259147,2021,Hackney,37,Middle East and Asia,Other Southern Asia,0.01
+E09000013,183149,2021,Hammersmith and Fulham,72,Middle East and Asia,Other Southern Asia,0.04
+E09000014,264236,2021,Haringey,74,Middle East and Asia,Other Southern Asia,0.03
+E09000015,261201,2021,Harrow,1586,Middle East and Asia,Other Southern Asia,0.61
+E09000016,262058,2021,Havering,102,Middle East and Asia,Other Southern Asia,0.04
+E09000017,305912,2021,Hillingdon,2170,Middle East and Asia,Other Southern Asia,0.71
+E09000018,288177,2021,Hounslow,3443,Middle East and Asia,Other Southern Asia,1.19
+E09000019,216589,2021,Islington,69,Middle East and Asia,Other Southern Asia,0.03
+E09000020,143375,2021,Kensington and Chelsea,85,Middle East and Asia,Other Southern Asia,0.06
+E09000021,168064,2021,Kingston upon Thames,161,Middle East and Asia,Other Southern Asia,0.1
+E09000022,317654,2021,Lambeth,93,Middle East and Asia,Other Southern Asia,0.03
+E09000023,300556,2021,Lewisham,153,Middle East and Asia,Other Southern Asia,0.05
+E09000024,215184,2021,Merton,445,Middle East and Asia,Other Southern Asia,0.21
+E09000025,351041,2021,Newham,295,Middle East and Asia,Other Southern Asia,0.08
+E09000026,310257,2021,Redbridge,110,Middle East and Asia,Other Southern Asia,0.04
+E09000027,195277,2021,Richmond upon Thames,86,Middle East and Asia,Other Southern Asia,0.04
+E09000028,307632,2021,Southwark,90,Middle East and Asia,Other Southern Asia,0.03
+E09000029,209640,2021,Sutton,416,Middle East and Asia,Other Southern Asia,0.2
+E09000030,310304,2021,Tower Hamlets,112,Middle East and Asia,Other Southern Asia,0.04
+E09000031,278417,2021,Waltham Forest,90,Middle East and Asia,Other Southern Asia,0.03
+E09000032,327502,2021,Wandsworth,174,Middle East and Asia,Other Southern Asia,0.05
+E09000033,204238,2021,Westminster,125,Middle East and Asia,Other Southern Asia,0.06
+E09000001,8579,2021,City of London,16,Middle East and Asia,Pakistan,0.19
+E09000002,218870,2021,Barking and Dagenham,7275,Middle East and Asia,Pakistan,3.32
+E09000003,389342,2021,Barnet,3042,Middle East and Asia,Pakistan,0.78
+E09000004,246472,2021,Bexley,685,Middle East and Asia,Pakistan,0.28
+E09000005,339817,2021,Brent,6585,Middle East and Asia,Pakistan,1.94
+E09000006,329984,2021,Bromley,822,Middle East and Asia,Pakistan,0.25
+E09000007,210135,2021,Camden,768,Middle East and Asia,Pakistan,0.37
+E09000008,390719,2021,Croydon,6960,Middle East and Asia,Pakistan,1.78
+E09000009,367116,2021,Ealing,7757,Middle East and Asia,Pakistan,2.11
+E09000010,329987,2021,Enfield,1489,Middle East and Asia,Pakistan,0.45
+E09000011,289073,2021,Greenwich,1601,Middle East and Asia,Pakistan,0.55
+E09000012,259147,2021,Hackney,1020,Middle East and Asia,Pakistan,0.39
+E09000013,183149,2021,Hammersmith and Fulham,913,Middle East and Asia,Pakistan,0.5
+E09000014,264236,2021,Haringey,980,Middle East and Asia,Pakistan,0.37
+E09000015,261201,2021,Harrow,4485,Middle East and Asia,Pakistan,1.72
+E09000016,262058,2021,Havering,2505,Middle East and Asia,Pakistan,0.96
+E09000017,305912,2021,Hillingdon,6466,Middle East and Asia,Pakistan,2.11
+E09000018,288177,2021,Hounslow,8255,Middle East and Asia,Pakistan,2.86
+E09000019,216589,2021,Islington,454,Middle East and Asia,Pakistan,0.21
+E09000020,143375,2021,Kensington and Chelsea,631,Middle East and Asia,Pakistan,0.44
+E09000021,168064,2021,Kingston upon Thames,1979,Middle East and Asia,Pakistan,1.18
+E09000022,317654,2021,Lambeth,1617,Middle East and Asia,Pakistan,0.51
+E09000023,300556,2021,Lewisham,1018,Middle East and Asia,Pakistan,0.34
+E09000024,215184,2021,Merton,4925,Middle East and Asia,Pakistan,2.29
+E09000025,351041,2021,Newham,13826,Middle East and Asia,Pakistan,3.94
+E09000026,310257,2021,Redbridge,18479,Middle East and Asia,Pakistan,5.96
+E09000027,195277,2021,Richmond upon Thames,775,Middle East and Asia,Pakistan,0.4
+E09000028,307632,2021,Southwark,947,Middle East and Asia,Pakistan,0.31
+E09000029,209640,2021,Sutton,3109,Middle East and Asia,Pakistan,1.48
+E09000030,310304,2021,Tower Hamlets,1566,Middle East and Asia,Pakistan,0.5
+E09000031,278417,2021,Waltham Forest,11035,Middle East and Asia,Pakistan,3.96
+E09000032,327502,2021,Wandsworth,6533,Middle East and Asia,Pakistan,1.99
+E09000033,204238,2021,Westminster,1256,Middle East and Asia,Pakistan,0.61
+E09000001,8579,2021,City of London,11,Middle East and Asia,Sri Lanka,0.13
+E09000002,218870,2021,Barking and Dagenham,952,Middle East and Asia,Sri Lanka,0.43
+E09000003,389342,2021,Barnet,2564,Middle East and Asia,Sri Lanka,0.66
+E09000004,246472,2021,Bexley,1309,Middle East and Asia,Sri Lanka,0.53
+E09000005,339817,2021,Brent,5672,Middle East and Asia,Sri Lanka,1.67
+E09000006,329984,2021,Bromley,1514,Middle East and Asia,Sri Lanka,0.46
+E09000007,210135,2021,Camden,318,Middle East and Asia,Sri Lanka,0.15
+E09000008,390719,2021,Croydon,5165,Middle East and Asia,Sri Lanka,1.32
+E09000009,367116,2021,Ealing,6020,Middle East and Asia,Sri Lanka,1.64
+E09000010,329987,2021,Enfield,2194,Middle East and Asia,Sri Lanka,0.66
+E09000011,289073,2021,Greenwich,1453,Middle East and Asia,Sri Lanka,0.5
+E09000012,259147,2021,Hackney,159,Middle East and Asia,Sri Lanka,0.06
+E09000013,183149,2021,Hammersmith and Fulham,254,Middle East and Asia,Sri Lanka,0.14
+E09000014,264236,2021,Haringey,478,Middle East and Asia,Sri Lanka,0.18
+E09000015,261201,2021,Harrow,10706,Middle East and Asia,Sri Lanka,4.1
+E09000016,262058,2021,Havering,764,Middle East and Asia,Sri Lanka,0.29
+E09000017,305912,2021,Hillingdon,5106,Middle East and Asia,Sri Lanka,1.67
+E09000018,288177,2021,Hounslow,2392,Middle East and Asia,Sri Lanka,0.83
+E09000019,216589,2021,Islington,235,Middle East and Asia,Sri Lanka,0.11
+E09000020,143375,2021,Kensington and Chelsea,295,Middle East and Asia,Sri Lanka,0.21
+E09000021,168064,2021,Kingston upon Thames,3365,Middle East and Asia,Sri Lanka,2
+E09000022,317654,2021,Lambeth,416,Middle East and Asia,Sri Lanka,0.13
+E09000023,300556,2021,Lewisham,3275,Middle East and Asia,Sri Lanka,1.09
+E09000024,215184,2021,Merton,5595,Middle East and Asia,Sri Lanka,2.6
+E09000025,351041,2021,Newham,3837,Middle East and Asia,Sri Lanka,1.09
+E09000026,310257,2021,Redbridge,6866,Middle East and Asia,Sri Lanka,2.21
+E09000027,195277,2021,Richmond upon Thames,481,Middle East and Asia,Sri Lanka,0.25
+E09000028,307632,2021,Southwark,355,Middle East and Asia,Sri Lanka,0.12
+E09000029,209640,2021,Sutton,4622,Middle East and Asia,Sri Lanka,2.2
+E09000030,310304,2021,Tower Hamlets,277,Middle East and Asia,Sri Lanka,0.09
+E09000031,278417,2021,Waltham Forest,1944,Middle East and Asia,Sri Lanka,0.7
+E09000032,327502,2021,Wandsworth,1297,Middle East and Asia,Sri Lanka,0.4
+E09000033,204238,2021,Westminster,489,Middle East and Asia,Sri Lanka,0.24
+E09000001,8579,2021,City of London,0,Other,Other,0
+E09000002,218870,2021,Barking and Dagenham,0,Other,Other,0
+E09000003,389342,2021,Barnet,1,Other,Other,0
+E09000004,246472,2021,Bexley,1,Other,Other,0
+E09000005,339817,2021,Brent,0,Other,Other,0
+E09000006,329984,2021,Bromley,0,Other,Other,0
+E09000007,210135,2021,Camden,0,Other,Other,0
+E09000008,390719,2021,Croydon,2,Other,Other,0
+E09000009,367116,2021,Ealing,3,Other,Other,0
+E09000010,329987,2021,Enfield,0,Other,Other,0
+E09000011,289073,2021,Greenwich,3,Other,Other,0
+E09000012,259147,2021,Hackney,2,Other,Other,0
+E09000013,183149,2021,Hammersmith and Fulham,0,Other,Other,0
+E09000014,264236,2021,Haringey,0,Other,Other,0
+E09000015,261201,2021,Harrow,2,Other,Other,0
+E09000016,262058,2021,Havering,0,Other,Other,0
+E09000017,305912,2021,Hillingdon,1,Other,Other,0
+E09000018,288177,2021,Hounslow,0,Other,Other,0
+E09000019,216589,2021,Islington,0,Other,Other,0
+E09000020,143375,2021,Kensington and Chelsea,0,Other,Other,0
+E09000021,168064,2021,Kingston upon Thames,1,Other,Other,0
+E09000022,317654,2021,Lambeth,0,Other,Other,0
+E09000023,300556,2021,Lewisham,0,Other,Other,0
+E09000024,215184,2021,Merton,0,Other,Other,0
+E09000025,351041,2021,Newham,0,Other,Other,0
+E09000026,310257,2021,Redbridge,3,Other,Other,0
+E09000027,195277,2021,Richmond upon Thames,0,Other,Other,0
+E09000028,307632,2021,Southwark,1,Other,Other,0
+E09000029,209640,2021,Sutton,0,Other,Other,0
+E09000030,310304,2021,Tower Hamlets,0,Other,Other,0
+E09000031,278417,2021,Waltham Forest,0,Other,Other,0
+E09000032,327502,2021,Wandsworth,1,Other,Other,0
+E09000033,204238,2021,Westminster,0,Other,Other,0
+E09000001,8579,2021,City of London,28,The Americas and the Caribbean,All Central American countries,0.33
+E09000002,218870,2021,Barking and Dagenham,36,The Americas and the Caribbean,All Central American countries,0.02
+E09000003,389342,2021,Barnet,291,The Americas and the Caribbean,All Central American countries,0.07
+E09000004,246472,2021,Bexley,35,The Americas and the Caribbean,All Central American countries,0.01
+E09000005,339817,2021,Brent,200,The Americas and the Caribbean,All Central American countries,0.06
+E09000006,329984,2021,Bromley,145,The Americas and the Caribbean,All Central American countries,0.04
+E09000007,210135,2021,Camden,492,The Americas and the Caribbean,All Central American countries,0.23
+E09000008,390719,2021,Croydon,218,The Americas and the Caribbean,All Central American countries,0.06
+E09000009,367116,2021,Ealing,226,The Americas and the Caribbean,All Central American countries,0.06
+E09000010,329987,2021,Enfield,93,The Americas and the Caribbean,All Central American countries,0.03
+E09000011,289073,2021,Greenwich,216,The Americas and the Caribbean,All Central American countries,0.07
+E09000012,259147,2021,Hackney,356,The Americas and the Caribbean,All Central American countries,0.14
+E09000013,183149,2021,Hammersmith and Fulham,354,The Americas and the Caribbean,All Central American countries,0.19
+E09000014,264236,2021,Haringey,315,The Americas and the Caribbean,All Central American countries,0.12
+E09000015,261201,2021,Harrow,52,The Americas and the Caribbean,All Central American countries,0.02
+E09000016,262058,2021,Havering,45,The Americas and the Caribbean,All Central American countries,0.02
+E09000017,305912,2021,Hillingdon,101,The Americas and the Caribbean,All Central American countries,0.03
+E09000018,288177,2021,Hounslow,165,The Americas and the Caribbean,All Central American countries,0.06
+E09000019,216589,2021,Islington,318,The Americas and the Caribbean,All Central American countries,0.15
+E09000020,143375,2021,Kensington and Chelsea,363,The Americas and the Caribbean,All Central American countries,0.25
+E09000021,168064,2021,Kingston upon Thames,129,The Americas and the Caribbean,All Central American countries,0.08
+E09000022,317654,2021,Lambeth,645,The Americas and the Caribbean,All Central American countries,0.2
+E09000023,300556,2021,Lewisham,335,The Americas and the Caribbean,All Central American countries,0.11
+E09000024,215184,2021,Merton,194,The Americas and the Caribbean,All Central American countries,0.09
+E09000025,351041,2021,Newham,172,The Americas and the Caribbean,All Central American countries,0.05
+E09000026,310257,2021,Redbridge,91,The Americas and the Caribbean,All Central American countries,0.03
+E09000027,195277,2021,Richmond upon Thames,298,The Americas and the Caribbean,All Central American countries,0.15
+E09000028,307632,2021,Southwark,624,The Americas and the Caribbean,All Central American countries,0.2
+E09000029,209640,2021,Sutton,83,The Americas and the Caribbean,All Central American countries,0.04
+E09000030,310304,2021,Tower Hamlets,492,The Americas and the Caribbean,All Central American countries,0.16
+E09000031,278417,2021,Waltham Forest,137,The Americas and the Caribbean,All Central American countries,0.05
+E09000032,327502,2021,Wandsworth,538,The Americas and the Caribbean,All Central American countries,0.16
+E09000033,204238,2021,Westminster,549,The Americas and the Caribbean,All Central American countries,0.27
+E09000001,8579,2021,City of London,78,The Americas and the Caribbean,Canada,0.91
+E09000002,218870,2021,Barking and Dagenham,77,The Americas and the Caribbean,Canada,0.04
+E09000003,389342,2021,Barnet,685,The Americas and the Caribbean,Canada,0.18
+E09000004,246472,2021,Bexley,156,The Americas and the Caribbean,Canada,0.06
+E09000005,339817,2021,Brent,480,The Americas and the Caribbean,Canada,0.14
+E09000006,329984,2021,Bromley,510,The Americas and the Caribbean,Canada,0.15
+E09000007,210135,2021,Camden,1391,The Americas and the Caribbean,Canada,0.66
+E09000008,390719,2021,Croydon,419,The Americas and the Caribbean,Canada,0.11
+E09000009,367116,2021,Ealing,687,The Americas and the Caribbean,Canada,0.19
+E09000010,329987,2021,Enfield,244,The Americas and the Caribbean,Canada,0.07
+E09000011,289073,2021,Greenwich,595,The Americas and the Caribbean,Canada,0.21
+E09000012,259147,2021,Hackney,1294,The Americas and the Caribbean,Canada,0.5
+E09000013,183149,2021,Hammersmith and Fulham,965,The Americas and the Caribbean,Canada,0.53
+E09000014,264236,2021,Haringey,779,The Americas and the Caribbean,Canada,0.29
+E09000015,261201,2021,Harrow,230,The Americas and the Caribbean,Canada,0.09
+E09000016,262058,2021,Havering,153,The Americas and the Caribbean,Canada,0.06
+E09000017,305912,2021,Hillingdon,317,The Americas and the Caribbean,Canada,0.1
+E09000018,288177,2021,Hounslow,395,The Americas and the Caribbean,Canada,0.14
+E09000019,216589,2021,Islington,1224,The Americas and the Caribbean,Canada,0.57
+E09000020,143375,2021,Kensington and Chelsea,1142,The Americas and the Caribbean,Canada,0.8
+E09000021,168064,2021,Kingston upon Thames,363,The Americas and the Caribbean,Canada,0.22
+E09000022,317654,2021,Lambeth,1076,The Americas and the Caribbean,Canada,0.34
+E09000023,300556,2021,Lewisham,758,The Americas and the Caribbean,Canada,0.25
+E09000024,215184,2021,Merton,481,The Americas and the Caribbean,Canada,0.22
+E09000025,351041,2021,Newham,342,The Americas and the Caribbean,Canada,0.1
+E09000026,310257,2021,Redbridge,240,The Americas and the Caribbean,Canada,0.08
+E09000027,195277,2021,Richmond upon Thames,845,The Americas and the Caribbean,Canada,0.43
+E09000028,307632,2021,Southwark,1266,The Americas and the Caribbean,Canada,0.41
+E09000029,209640,2021,Sutton,223,The Americas and the Caribbean,Canada,0.11
+E09000030,310304,2021,Tower Hamlets,1061,The Americas and the Caribbean,Canada,0.34
+E09000031,278417,2021,Waltham Forest,450,The Americas and the Caribbean,Canada,0.16
+E09000032,327502,2021,Wandsworth,1447,The Americas and the Caribbean,Canada,0.44
+E09000033,204238,2021,Westminster,1398,The Americas and the Caribbean,Canada,0.68
+E09000001,8579,2021,City of London,3,The Americas and the Caribbean,Other North America,0.03
+E09000002,218870,2021,Barking and Dagenham,10,The Americas and the Caribbean,Other North America,0
+E09000003,389342,2021,Barnet,23,The Americas and the Caribbean,Other North America,0.01
+E09000004,246472,2021,Bexley,7,The Americas and the Caribbean,Other North America,0
+E09000005,339817,2021,Brent,22,The Americas and the Caribbean,Other North America,0.01
+E09000006,329984,2021,Bromley,38,The Americas and the Caribbean,Other North America,0.01
+E09000007,210135,2021,Camden,21,The Americas and the Caribbean,Other North America,0.01
+E09000008,390719,2021,Croydon,51,The Americas and the Caribbean,Other North America,0.01
+E09000009,367116,2021,Ealing,73,The Americas and the Caribbean,Other North America,0.02
+E09000010,329987,2021,Enfield,20,The Americas and the Caribbean,Other North America,0.01
+E09000011,289073,2021,Greenwich,43,The Americas and the Caribbean,Other North America,0.01
+E09000012,259147,2021,Hackney,41,The Americas and the Caribbean,Other North America,0.02
+E09000013,183149,2021,Hammersmith and Fulham,24,The Americas and the Caribbean,Other North America,0.01
+E09000014,264236,2021,Haringey,22,The Americas and the Caribbean,Other North America,0.01
+E09000015,261201,2021,Harrow,17,The Americas and the Caribbean,Other North America,0.01
+E09000016,262058,2021,Havering,17,The Americas and the Caribbean,Other North America,0.01
+E09000017,305912,2021,Hillingdon,18,The Americas and the Caribbean,Other North America,0.01
+E09000018,288177,2021,Hounslow,15,The Americas and the Caribbean,Other North America,0.01
+E09000019,216589,2021,Islington,38,The Americas and the Caribbean,Other North America,0.02
+E09000020,143375,2021,Kensington and Chelsea,26,The Americas and the Caribbean,Other North America,0.02
+E09000021,168064,2021,Kingston upon Thames,35,The Americas and the Caribbean,Other North America,0.02
+E09000022,317654,2021,Lambeth,67,The Americas and the Caribbean,Other North America,0.02
+E09000023,300556,2021,Lewisham,40,The Americas and the Caribbean,Other North America,0.01
+E09000024,215184,2021,Merton,49,The Americas and the Caribbean,Other North America,0.02
+E09000025,351041,2021,Newham,53,The Americas and the Caribbean,Other North America,0.02
+E09000026,310257,2021,Redbridge,6,The Americas and the Caribbean,Other North America,0
+E09000027,195277,2021,Richmond upon Thames,32,The Americas and the Caribbean,Other North America,0.02
+E09000028,307632,2021,Southwark,57,The Americas and the Caribbean,Other North America,0.02
+E09000029,209640,2021,Sutton,10,The Americas and the Caribbean,Other North America,0
+E09000030,310304,2021,Tower Hamlets,33,The Americas and the Caribbean,Other North America,0.01
+E09000031,278417,2021,Waltham Forest,9,The Americas and the Caribbean,Other North America,0
+E09000032,327502,2021,Wandsworth,89,The Americas and the Caribbean,Other North America,0.03
+E09000033,204238,2021,Westminster,18,The Americas and the Caribbean,Other North America,0.01
+E09000001,8579,2021,City of London,266,The Americas and the Caribbean,United States,3.1
+E09000002,218870,2021,Barking and Dagenham,311,The Americas and the Caribbean,United States,0.14
+E09000003,389342,2021,Barnet,2470,The Americas and the Caribbean,United States,0.63
+E09000004,246472,2021,Bexley,511,The Americas and the Caribbean,United States,0.21
+E09000005,339817,2021,Brent,1501,The Americas and the Caribbean,United States,0.44
+E09000006,329984,2021,Bromley,1225,The Americas and the Caribbean,United States,0.37
+E09000007,210135,2021,Camden,5912,The Americas and the Caribbean,United States,2.81
+E09000008,390719,2021,Croydon,1171,The Americas and the Caribbean,United States,0.3
+E09000009,367116,2021,Ealing,1900,The Americas and the Caribbean,United States,0.52
+E09000010,329987,2021,Enfield,622,The Americas and the Caribbean,United States,0.19
+E09000011,289073,2021,Greenwich,1779,The Americas and the Caribbean,United States,0.62
+E09000012,259147,2021,Hackney,3735,The Americas and the Caribbean,United States,1.44
+E09000013,183149,2021,Hammersmith and Fulham,3422,The Americas and the Caribbean,United States,1.87
+E09000014,264236,2021,Haringey,2238,The Americas and the Caribbean,United States,0.85
+E09000015,261201,2021,Harrow,735,The Americas and the Caribbean,United States,0.28
+E09000016,262058,2021,Havering,363,The Americas and the Caribbean,United States,0.14
+E09000017,305912,2021,Hillingdon,909,The Americas and the Caribbean,United States,0.3
+E09000018,288177,2021,Hounslow,1383,The Americas and the Caribbean,United States,0.48
+E09000019,216589,2021,Islington,4149,The Americas and the Caribbean,United States,1.92
+E09000020,143375,2021,Kensington and Chelsea,5806,The Americas and the Caribbean,United States,4.05
+E09000021,168064,2021,Kingston upon Thames,1113,The Americas and the Caribbean,United States,0.66
+E09000022,317654,2021,Lambeth,3061,The Americas and the Caribbean,United States,0.96
+E09000023,300556,2021,Lewisham,2078,The Americas and the Caribbean,United States,0.69
+E09000024,215184,2021,Merton,1437,The Americas and the Caribbean,United States,0.67
+E09000025,351041,2021,Newham,919,The Americas and the Caribbean,United States,0.26
+E09000026,310257,2021,Redbridge,631,The Americas and the Caribbean,United States,0.2
+E09000027,195277,2021,Richmond upon Thames,2841,The Americas and the Caribbean,United States,1.45
+E09000028,307632,2021,Southwark,3373,The Americas and the Caribbean,United States,1.1
+E09000029,209640,2021,Sutton,520,The Americas and the Caribbean,United States,0.25
+E09000030,310304,2021,Tower Hamlets,2728,The Americas and the Caribbean,United States,0.88
+E09000031,278417,2021,Waltham Forest,1112,The Americas and the Caribbean,United States,0.4
+E09000032,327502,2021,Wandsworth,4486,The Americas and the Caribbean,United States,1.37
+E09000033,204238,2021,Westminster,6421,The Americas and the Caribbean,United States,3.14
+E09000001,8579,2021,City of London,238,The Americas and the Caribbean,All South American countries,2.77
+E09000002,218870,2021,Barking and Dagenham,881,The Americas and the Caribbean,All South American countries,0.4
+E09000003,389342,2021,Barnet,4758,The Americas and the Caribbean,All South American countries,1.22
+E09000004,246472,2021,Bexley,1037,The Americas and the Caribbean,All South American countries,0.42
+E09000005,339817,2021,Brent,7606,The Americas and the Caribbean,All South American countries,2.24
+E09000006,329984,2021,Bromley,3069,The Americas and the Caribbean,All South American countries,0.93
+E09000007,210135,2021,Camden,3839,The Americas and the Caribbean,All South American countries,1.83
+E09000008,390719,2021,Croydon,6118,The Americas and the Caribbean,All South American countries,1.57
+E09000009,367116,2021,Ealing,4109,The Americas and the Caribbean,All South American countries,1.12
+E09000010,329987,2021,Enfield,3144,The Americas and the Caribbean,All South American countries,0.95
+E09000011,289073,2021,Greenwich,3785,The Americas and the Caribbean,All South American countries,1.31
+E09000012,259147,2021,Hackney,5376,The Americas and the Caribbean,All South American countries,2.07
+E09000013,183149,2021,Hammersmith and Fulham,4289,The Americas and the Caribbean,All South American countries,2.34
+E09000014,264236,2021,Haringey,8730,The Americas and the Caribbean,All South American countries,3.3
+E09000015,261201,2021,Harrow,1507,The Americas and the Caribbean,All South American countries,0.58
+E09000016,262058,2021,Havering,789,The Americas and the Caribbean,All South American countries,0.3
+E09000017,305912,2021,Hillingdon,1572,The Americas and the Caribbean,All South American countries,0.51
+E09000018,288177,2021,Hounslow,2449,The Americas and the Caribbean,All South American countries,0.85
+E09000019,216589,2021,Islington,4709,The Americas and the Caribbean,All South American countries,2.17
+E09000020,143375,2021,Kensington and Chelsea,3788,The Americas and the Caribbean,All South American countries,2.64
+E09000021,168064,2021,Kingston upon Thames,1989,The Americas and the Caribbean,All South American countries,1.18
+E09000022,317654,2021,Lambeth,13182,The Americas and the Caribbean,All South American countries,4.15
+E09000023,300556,2021,Lewisham,7173,The Americas and the Caribbean,All South American countries,2.39
+E09000024,215184,2021,Merton,4519,The Americas and the Caribbean,All South American countries,2.1
+E09000025,351041,2021,Newham,5455,The Americas and the Caribbean,All South American countries,1.55
+E09000026,310257,2021,Redbridge,1388,The Americas and the Caribbean,All South American countries,0.45
+E09000027,195277,2021,Richmond upon Thames,2495,The Americas and the Caribbean,All South American countries,1.28
+E09000028,307632,2021,Southwark,12242,The Americas and the Caribbean,All South American countries,3.98
+E09000029,209640,2021,Sutton,1872,The Americas and the Caribbean,All South American countries,0.89
+E09000030,310304,2021,Tower Hamlets,4798,The Americas and the Caribbean,All South American countries,1.55
+E09000031,278417,2021,Waltham Forest,3147,The Americas and the Caribbean,All South American countries,1.13
+E09000032,327502,2021,Wandsworth,7403,The Americas and the Caribbean,All South American countries,2.26
+E09000033,204238,2021,Westminster,4862,The Americas and the Caribbean,All South American countries,2.38
+E09000001,8579,2021,City of London,7,The Americas and the Caribbean,Jamaica,0.08
+E09000002,218870,2021,Barking and Dagenham,970,The Americas and the Caribbean,Jamaica,0.44
+E09000003,389342,2021,Barnet,872,The Americas and the Caribbean,Jamaica,0.22
+E09000004,246472,2021,Bexley,691,The Americas and the Caribbean,Jamaica,0.28
+E09000005,339817,2021,Brent,5423,The Americas and the Caribbean,Jamaica,1.6
+E09000006,329984,2021,Bromley,1753,The Americas and the Caribbean,Jamaica,0.53
+E09000007,210135,2021,Camden,350,The Americas and the Caribbean,Jamaica,0.17
+E09000008,390719,2021,Croydon,9397,The Americas and the Caribbean,Jamaica,2.41
+E09000009,367116,2021,Ealing,1983,The Americas and the Caribbean,Jamaica,0.54
+E09000010,329987,2021,Enfield,4072,The Americas and the Caribbean,Jamaica,1.23
+E09000011,289073,2021,Greenwich,2047,The Americas and the Caribbean,Jamaica,0.71
+E09000012,259147,2021,Hackney,3250,The Americas and the Caribbean,Jamaica,1.25
+E09000013,183149,2021,Hammersmith and Fulham,850,The Americas and the Caribbean,Jamaica,0.46
+E09000014,264236,2021,Haringey,3799,The Americas and the Caribbean,Jamaica,1.44
+E09000015,261201,2021,Harrow,1505,The Americas and the Caribbean,Jamaica,0.58
+E09000016,262058,2021,Havering,671,The Americas and the Caribbean,Jamaica,0.26
+E09000017,305912,2021,Hillingdon,904,The Americas and the Caribbean,Jamaica,0.3
+E09000018,288177,2021,Hounslow,654,The Americas and the Caribbean,Jamaica,0.23
+E09000019,216589,2021,Islington,1122,The Americas and the Caribbean,Jamaica,0.52
+E09000020,143375,2021,Kensington and Chelsea,322,The Americas and the Caribbean,Jamaica,0.22
+E09000021,168064,2021,Kingston upon Thames,183,The Americas and the Caribbean,Jamaica,0.11
+E09000022,317654,2021,Lambeth,7842,The Americas and the Caribbean,Jamaica,2.47
+E09000023,300556,2021,Lewisham,8679,The Americas and the Caribbean,Jamaica,2.89
+E09000024,215184,2021,Merton,1988,The Americas and the Caribbean,Jamaica,0.92
+E09000025,351041,2021,Newham,2273,The Americas and the Caribbean,Jamaica,0.65
+E09000026,310257,2021,Redbridge,1322,The Americas and the Caribbean,Jamaica,0.43
+E09000027,195277,2021,Richmond upon Thames,164,The Americas and the Caribbean,Jamaica,0.08
+E09000028,307632,2021,Southwark,4553,The Americas and the Caribbean,Jamaica,1.48
+E09000029,209640,2021,Sutton,636,The Americas and the Caribbean,Jamaica,0.3
+E09000030,310304,2021,Tower Hamlets,602,The Americas and the Caribbean,Jamaica,0.19
+E09000031,278417,2021,Waltham Forest,3278,The Americas and the Caribbean,Jamaica,1.18
+E09000032,327502,2021,Wandsworth,2944,The Americas and the Caribbean,Jamaica,0.9
+E09000033,204238,2021,Westminster,567,The Americas and the Caribbean,Jamaica,0.28
+E09000001,8579,2021,City of London,26,The Americas and the Caribbean,Other Caribbean,0.3
+E09000002,218870,2021,Barking and Dagenham,1083,The Americas and the Caribbean,Other Caribbean,0.49
+E09000003,389342,2021,Barnet,886,The Americas and the Caribbean,Other Caribbean,0.23
+E09000004,246472,2021,Bexley,466,The Americas and the Caribbean,Other Caribbean,0.19
+E09000005,339817,2021,Brent,2939,The Americas and the Caribbean,Other Caribbean,0.86
+E09000006,329984,2021,Bromley,794,The Americas and the Caribbean,Other Caribbean,0.24
+E09000007,210135,2021,Camden,700,The Americas and the Caribbean,Other Caribbean,0.33
+E09000008,390719,2021,Croydon,2955,The Americas and the Caribbean,Other Caribbean,0.76
+E09000009,367116,2021,Ealing,2884,The Americas and the Caribbean,Other Caribbean,0.79
+E09000010,329987,2021,Enfield,2505,The Americas and the Caribbean,Other Caribbean,0.76
+E09000011,289073,2021,Greenwich,1146,The Americas and the Caribbean,Other Caribbean,0.4
+E09000012,259147,2021,Hackney,3177,The Americas and the Caribbean,Other Caribbean,1.23
+E09000013,183149,2021,Hammersmith and Fulham,1526,The Americas and the Caribbean,Other Caribbean,0.83
+E09000014,264236,2021,Haringey,3188,The Americas and the Caribbean,Other Caribbean,1.21
+E09000015,261201,2021,Harrow,993,The Americas and the Caribbean,Other Caribbean,0.38
+E09000016,262058,2021,Havering,838,The Americas and the Caribbean,Other Caribbean,0.32
+E09000017,305912,2021,Hillingdon,1206,The Americas and the Caribbean,Other Caribbean,0.39
+E09000018,288177,2021,Hounslow,860,The Americas and the Caribbean,Other Caribbean,0.3
+E09000019,216589,2021,Islington,1287,The Americas and the Caribbean,Other Caribbean,0.59
+E09000020,143375,2021,Kensington and Chelsea,876,The Americas and the Caribbean,Other Caribbean,0.61
+E09000021,168064,2021,Kingston upon Thames,322,The Americas and the Caribbean,Other Caribbean,0.19
+E09000022,317654,2021,Lambeth,2867,The Americas and the Caribbean,Other Caribbean,0.9
+E09000023,300556,2021,Lewisham,3084,The Americas and the Caribbean,Other Caribbean,1.03
+E09000024,215184,2021,Merton,1049,The Americas and the Caribbean,Other Caribbean,0.49
+E09000025,351041,2021,Newham,2782,The Americas and the Caribbean,Other Caribbean,0.79
+E09000026,310257,2021,Redbridge,1630,The Americas and the Caribbean,Other Caribbean,0.53
+E09000027,195277,2021,Richmond upon Thames,346,The Americas and the Caribbean,Other Caribbean,0.18
+E09000028,307632,2021,Southwark,3048,The Americas and the Caribbean,Other Caribbean,0.99
+E09000029,209640,2021,Sutton,466,The Americas and the Caribbean,Other Caribbean,0.22
+E09000030,310304,2021,Tower Hamlets,1263,The Americas and the Caribbean,Other Caribbean,0.41
+E09000031,278417,2021,Waltham Forest,2887,The Americas and the Caribbean,Other Caribbean,1.04
+E09000032,327502,2021,Wandsworth,1397,The Americas and the Caribbean,Other Caribbean,0.43
+E09000033,204238,2021,Westminster,1140,The Americas and the Caribbean,Other Caribbean,0.56

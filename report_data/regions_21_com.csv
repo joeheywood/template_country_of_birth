@@ -1,0 +1,469 @@
+date,geography,geography_code,total_pop,value,cob_region,cob,percs
+2021,North East,E12000001,2647004,72,Africa,Africa not otherwise specified,0
+2021,North West,E12000002,7417398,426,Africa,Africa not otherwise specified,0.01
+2021,Yorkshire and The Humber,E12000003,5480772,293,Africa,Africa not otherwise specified,0.01
+2021,East Midlands,E12000004,4880054,796,Africa,Africa not otherwise specified,0.02
+2021,West Midlands,E12000005,5950757,618,Africa,Africa not otherwise specified,0.01
+2021,East of England,E12000006,6335077,317,Africa,Africa not otherwise specified,0.01
+2021,London,E12000007,8799725,1669,Africa,Africa not otherwise specified,0.02
+2021,South East,E12000008,9278064,529,Africa,Africa not otherwise specified,0.01
+2021,South West,E12000009,5701188,240,Africa,Africa not otherwise specified,0
+2021,North East,E12000001,2647004,791,Africa,Ghana,0.03
+2021,North West,E12000002,7417398,6308,Africa,Ghana,0.09
+2021,Yorkshire and The Humber,E12000003,5480772,5744,Africa,Ghana,0.1
+2021,East Midlands,E12000004,4880054,8060,Africa,Ghana,0.17
+2021,West Midlands,E12000005,5950757,12171,Africa,Ghana,0.2
+2021,East of England,E12000006,6335077,13034,Africa,Ghana,0.21
+2021,London,E12000007,8799725,65905,Africa,Ghana,0.75
+2021,South East,E12000008,9278064,16713,Africa,Ghana,0.18
+2021,South West,E12000009,5701188,3027,Africa,Ghana,0.05
+2021,North East,E12000001,2647004,6301,Africa,Nigeria,0.24
+2021,North West,E12000002,7417398,29092,Africa,Nigeria,0.39
+2021,Yorkshire and The Humber,E12000003,5480772,12454,Africa,Nigeria,0.23
+2021,East Midlands,E12000004,4880054,13902,Africa,Nigeria,0.28
+2021,West Midlands,E12000005,5950757,19911,Africa,Nigeria,0.33
+2021,East of England,E12000006,6335077,27913,Africa,Nigeria,0.44
+2021,London,E12000007,8799725,117145,Africa,Nigeria,1.33
+2021,South East,E12000008,9278064,32468,Africa,Nigeria,0.35
+2021,South West,E12000009,5701188,7691,Africa,Nigeria,0.13
+2021,North East,E12000001,2647004,3083,Africa,Other Central and Western Africa,0.12
+2021,North West,E12000002,7417398,16320,Africa,Other Central and Western Africa,0.22
+2021,Yorkshire and The Humber,E12000003,5480772,11216,Africa,Other Central and Western Africa,0.2
+2021,East Midlands,E12000004,4880054,6763,Africa,Other Central and Western Africa,0.14
+2021,West Midlands,E12000005,5950757,14737,Africa,Other Central and Western Africa,0.25
+2021,East of England,E12000006,6335077,10312,Africa,Other Central and Western Africa,0.16
+2021,London,E12000007,8799725,71963,Africa,Other Central and Western Africa,0.82
+2021,South East,E12000008,9278064,13446,Africa,Other Central and Western Africa,0.14
+2021,South West,E12000009,5701188,5284,Africa,Other Central and Western Africa,0.09
+2021,North East,E12000001,2647004,4526,Africa,North Africa,0.17
+2021,North West,E12000002,7417398,19994,Africa,North Africa,0.27
+2021,Yorkshire and The Humber,E12000003,5480772,11380,Africa,North Africa,0.21
+2021,East Midlands,E12000004,4880054,8768,Africa,North Africa,0.18
+2021,West Midlands,E12000005,5950757,14661,Africa,North Africa,0.25
+2021,East of England,E12000006,6335077,10886,Africa,North Africa,0.17
+2021,London,E12000007,8799725,66268,Africa,North Africa,0.75
+2021,South East,E12000008,9278064,20720,Africa,North Africa,0.22
+2021,South West,E12000009,5701188,7968,Africa,North Africa,0.14
+2021,North East,E12000001,2647004,936,Africa,Kenya,0.04
+2021,North West,E12000002,7417398,7259,Africa,Kenya,0.1
+2021,Yorkshire and The Humber,E12000003,5480772,4509,Africa,Kenya,0.08
+2021,East Midlands,E12000004,4880054,14512,Africa,Kenya,0.3
+2021,West Midlands,E12000005,5950757,11137,Africa,Kenya,0.19
+2021,East of England,E12000006,6335077,11979,Africa,Kenya,0.19
+2021,London,E12000007,8799725,58020,Africa,Kenya,0.66
+2021,South East,E12000008,9278064,19169,Africa,Kenya,0.21
+2021,South West,E12000009,5701188,5895,Africa,Kenya,0.1
+2021,North East,E12000001,2647004,3794,Africa,Other South and Eastern Africa,0.14
+2021,North West,E12000002,7417398,19454,Africa,Other South and Eastern Africa,0.26
+2021,Yorkshire and The Humber,E12000003,5480772,14425,Africa,Other South and Eastern Africa,0.26
+2021,East Midlands,E12000004,4880054,25880,Africa,Other South and Eastern Africa,0.53
+2021,West Midlands,E12000005,5950757,21534,Africa,Other South and Eastern Africa,0.36
+2021,East of England,E12000006,6335077,20343,Africa,Other South and Eastern Africa,0.32
+2021,London,E12000007,8799725,113143,Africa,Other South and Eastern Africa,1.29
+2021,South East,E12000008,9278064,34115,Africa,Other South and Eastern Africa,0.37
+2021,South West,E12000009,5701188,10505,Africa,Other South and Eastern Africa,0.18
+2021,North East,E12000001,2647004,302,Africa,Somalia,0.01
+2021,North West,E12000002,7417398,7490,Africa,Somalia,0.1
+2021,Yorkshire and The Humber,E12000003,5480772,4087,Africa,Somalia,0.07
+2021,East Midlands,E12000004,4880054,5139,Africa,Somalia,0.11
+2021,West Midlands,E12000005,5950757,13156,Africa,Somalia,0.22
+2021,East of England,E12000006,6335077,1341,Africa,Somalia,0.02
+2021,London,E12000007,8799725,66288,Africa,Somalia,0.75
+2021,South East,E12000008,9278064,4021,Africa,Somalia,0.04
+2021,South West,E12000009,5701188,5088,Africa,Somalia,0.09
+2021,North East,E12000001,2647004,4126,Africa,South Africa,0.16
+2021,North West,E12000002,7417398,12981,Africa,South Africa,0.18
+2021,Yorkshire and The Humber,E12000003,5480772,8906,Africa,South Africa,0.16
+2021,East Midlands,E12000004,4880054,11746,Africa,South Africa,0.24
+2021,West Midlands,E12000005,5950757,10975,Africa,South Africa,0.18
+2021,East of England,E12000006,6335077,25077,Africa,South Africa,0.4
+2021,London,E12000007,8799725,47964,Africa,South Africa,0.55
+2021,South East,E12000008,9278064,65920,Africa,South Africa,0.71
+2021,South West,E12000009,5701188,23752,Africa,South Africa,0.42
+2021,North East,E12000001,2647004,2556,Africa,Zimbabwe,0.1
+2021,North West,E12000002,7417398,9726,Africa,Zimbabwe,0.13
+2021,Yorkshire and The Humber,E12000003,5480772,10628,Africa,Zimbabwe,0.19
+2021,East Midlands,E12000004,4880054,13737,Africa,Zimbabwe,0.28
+2021,West Midlands,E12000005,5950757,13605,Africa,Zimbabwe,0.23
+2021,East of England,E12000006,6335077,16932,Africa,Zimbabwe,0.27
+2021,London,E12000007,8799725,17000,Africa,Zimbabwe,0.19
+2021,South East,E12000008,9278064,28096,Africa,Zimbabwe,0.3
+2021,South West,E12000009,5701188,9066,Africa,Zimbabwe,0.16
+2021,North East,E12000001,2647004,2008,Antarctica and Oceania,Australia,0.08
+2021,North West,E12000002,7417398,7060,Antarctica and Oceania,Australia,0.1
+2021,Yorkshire and The Humber,E12000003,5480772,4934,Antarctica and Oceania,Australia,0.09
+2021,East Midlands,E12000004,4880054,4389,Antarctica and Oceania,Australia,0.09
+2021,West Midlands,E12000005,5950757,4744,Antarctica and Oceania,Australia,0.08
+2021,East of England,E12000006,6335077,10364,Antarctica and Oceania,Australia,0.16
+2021,London,E12000007,8799725,43418,Antarctica and Oceania,Australia,0.49
+2021,South East,E12000008,9278064,22459,Antarctica and Oceania,Australia,0.24
+2021,South West,E12000009,5701188,10587,Antarctica and Oceania,Australia,0.19
+2021,North East,E12000001,2647004,763,Antarctica and Oceania,Other Australasia,0.03
+2021,North West,E12000002,7417398,2533,Antarctica and Oceania,Other Australasia,0.03
+2021,Yorkshire and The Humber,E12000003,5480772,1934,Antarctica and Oceania,Other Australasia,0.04
+2021,East Midlands,E12000004,4880054,1851,Antarctica and Oceania,Other Australasia,0.04
+2021,West Midlands,E12000005,5950757,1735,Antarctica and Oceania,Other Australasia,0.03
+2021,East of England,E12000006,6335077,4803,Antarctica and Oceania,Other Australasia,0.08
+2021,London,E12000007,8799725,19072,Antarctica and Oceania,Other Australasia,0.22
+2021,South East,E12000008,9278064,10244,Antarctica and Oceania,Other Australasia,0.11
+2021,South West,E12000009,5701188,4953,Antarctica and Oceania,Other Australasia,0.09
+2021,North East,E12000001,2647004,228,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+2021,North West,E12000002,7417398,587,Antarctica and Oceania,Other Oceania and Antarctica,0.01
+2021,Yorkshire and The Humber,E12000003,5480772,944,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+2021,East Midlands,E12000004,4880054,895,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+2021,West Midlands,E12000005,5950757,1220,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+2021,East of England,E12000006,6335077,1082,Antarctica and Oceania,Other Oceania and Antarctica,0.02
+2021,London,E12000007,8799725,2324,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+2021,South East,E12000008,9278064,2659,Antarctica and Oceania,Other Oceania and Antarctica,0.03
+2021,South West,E12000009,5701188,2235,Antarctica and Oceania,Other Oceania and Antarctica,0.04
+2021,North East,E12000001,2647004,1942,Europe,Lithuania,0.07
+2021,North West,E12000002,7417398,8949,Europe,Lithuania,0.12
+2021,Yorkshire and The Humber,E12000003,5480772,11616,Europe,Lithuania,0.21
+2021,East Midlands,E12000004,4880054,19532,Europe,Lithuania,0.4
+2021,West Midlands,E12000005,5950757,9647,Europe,Lithuania,0.16
+2021,East of England,E12000006,6335077,37896,Europe,Lithuania,0.6
+2021,London,E12000007,8799725,45378,Europe,Lithuania,0.52
+2021,South East,E12000008,9278064,19071,Europe,Lithuania,0.21
+2021,South West,E12000009,5701188,7565,Europe,Lithuania,0.13
+2021,North East,E12000001,2647004,9707,Europe,Other EU 2001-2011 members,0.37
+2021,North West,E12000002,7417398,45719,Europe,Other EU 2001-2011 members,0.62
+2021,Yorkshire and The Humber,E12000003,5480772,46481,Europe,Other EU 2001-2011 members,0.85
+2021,East Midlands,E12000004,4880054,48586,Europe,Other EU 2001-2011 members,1
+2021,West Midlands,E12000005,5950757,43261,Europe,Other EU 2001-2011 members,0.73
+2021,East of England,E12000006,6335077,60512,Europe,Other EU 2001-2011 members,0.96
+2021,London,E12000007,8799725,167657,Europe,Other EU 2001-2011 members,1.91
+2021,South East,E12000008,9278064,89575,Europe,Other EU 2001-2011 members,0.97
+2021,South West,E12000009,5701188,38860,Europe,Other EU 2001-2011 members,0.68
+2021,North East,E12000001,2647004,12131,Europe,Poland,0.46
+2021,North West,E12000002,7417398,76688,Europe,Poland,1.03
+2021,Yorkshire and The Humber,E12000003,5480772,70820,Europe,Poland,1.29
+2021,East Midlands,E12000004,4880054,79843,Europe,Poland,1.64
+2021,West Midlands,E12000005,5950757,72749,Europe,Poland,1.22
+2021,East of England,E12000006,6335077,81049,Europe,Poland,1.28
+2021,London,E12000007,8799725,149397,Europe,Poland,1.7
+2021,South East,E12000008,9278064,112415,Europe,Poland,1.21
+2021,South West,E12000009,5701188,63159,Europe,Poland,1.11
+2021,North East,E12000001,2647004,7596,Europe,Romania,0.29
+2021,North West,E12000002,7417398,33918,Europe,Romania,0.46
+2021,Yorkshire and The Humber,E12000003,5480772,32912,Europe,Romania,0.6
+2021,East Midlands,E12000004,4880054,44921,Europe,Romania,0.92
+2021,West Midlands,E12000005,5950757,56425,Europe,Romania,0.95
+2021,East of England,E12000006,6335077,72281,Europe,Romania,1.14
+2021,London,E12000007,8799725,175991,Europe,Romania,2
+2021,South East,E12000008,9278064,74693,Europe,Romania,0.81
+2021,South West,E12000009,5701188,31583,Europe,Romania,0.55
+2021,North East,E12000001,2647004,1722,Europe,France,0.07
+2021,North West,E12000002,7417398,7394,Europe,France,0.1
+2021,Yorkshire and The Humber,E12000003,5480772,4472,Europe,France,0.08
+2021,East Midlands,E12000004,4880054,5516,Europe,France,0.11
+2021,West Midlands,E12000005,5950757,7530,Europe,France,0.13
+2021,East of England,E12000006,6335077,11573,Europe,France,0.18
+2021,London,E12000007,8799725,77715,Europe,France,0.88
+2021,South East,E12000008,9278064,25589,Europe,France,0.28
+2021,South West,E12000009,5701188,11186,Europe,France,0.2
+2021,North East,E12000001,2647004,9992,Europe,Germany,0.38
+2021,North West,E12000002,7417398,22169,Europe,Germany,0.3
+2021,Yorkshire and The Humber,E12000003,5480772,20576,Europe,Germany,0.38
+2021,East Midlands,E12000004,4880054,20192,Europe,Germany,0.41
+2021,West Midlands,E12000005,5950757,18284,Europe,Germany,0.31
+2021,East of England,E12000006,6335077,27444,Europe,Germany,0.43
+2021,London,E12000007,8799725,50364,Europe,Germany,0.57
+2021,South East,E12000008,9278064,50154,Europe,Germany,0.54
+2021,South West,E12000009,5701188,33077,Europe,Germany,0.58
+2021,North East,E12000001,2647004,4824,Europe,Ireland,0.18
+2021,North West,E12000002,7417398,38379,Europe,Ireland,0.52
+2021,Yorkshire and The Humber,E12000003,5480772,15765,Europe,Ireland,0.29
+2021,East Midlands,E12000004,4880054,17935,Europe,Ireland,0.37
+2021,West Midlands,E12000005,5950757,30558,Europe,Ireland,0.51
+2021,East of England,E12000006,6335077,37548,Europe,Ireland,0.59
+2021,London,E12000007,8799725,96566,Europe,Ireland,1.1
+2021,South East,E12000008,9278064,51803,Europe,Ireland,0.56
+2021,South West,E12000009,5701188,21296,Europe,Ireland,0.37
+2021,North East,E12000001,2647004,3755,Europe,Italy,0.14
+2021,North West,E12000002,7417398,23305,Europe,Italy,0.31
+2021,Yorkshire and The Humber,E12000003,5480772,10984,Europe,Italy,0.2
+2021,East Midlands,E12000004,4880054,14082,Europe,Italy,0.29
+2021,West Midlands,E12000005,5950757,20993,Europe,Italy,0.35
+2021,East of England,E12000006,6335077,25784,Europe,Italy,0.41
+2021,London,E12000007,8799725,126059,Europe,Italy,1.43
+2021,South East,E12000008,9278064,33965,Europe,Italy,0.37
+2021,South West,E12000009,5701188,13090,Europe,Italy,0.23
+2021,North East,E12000001,2647004,5415,Europe,Other EU 2001 members,0.2
+2021,North West,E12000002,7417398,20561,Europe,Other EU 2001 members,0.28
+2021,Yorkshire and The Humber,E12000003,5480772,12907,Europe,Other EU 2001 members,0.24
+2021,East Midlands,E12000004,4880054,14241,Europe,Other EU 2001 members,0.29
+2021,West Midlands,E12000005,5950757,22014,Europe,Other EU 2001 members,0.37
+2021,East of England,E12000006,6335077,24347,Europe,Other EU 2001 members,0.38
+2021,London,E12000007,8799725,103000,Europe,Other EU 2001 members,1.17
+2021,South East,E12000008,9278064,48146,Europe,Other EU 2001 members,0.52
+2021,South West,E12000009,5701188,19626,Europe,Other EU 2001 members,0.34
+2021,North East,E12000001,2647004,1812,Europe,Portugal,0.07
+2021,North West,E12000002,7417398,10829,Europe,Portugal,0.15
+2021,Yorkshire and The Humber,E12000003,5480772,5944,Europe,Portugal,0.11
+2021,East Midlands,E12000004,4880054,8560,Europe,Portugal,0.18
+2021,West Midlands,E12000005,5950757,8831,Europe,Portugal,0.15
+2021,East of England,E12000006,6335077,22404,Europe,Portugal,0.35
+2021,London,E12000007,8799725,56963,Europe,Portugal,0.65
+2021,South East,E12000008,9278064,25576,Europe,Portugal,0.28
+2021,South West,E12000009,5701188,11715,Europe,Portugal,0.21
+2021,North East,E12000001,2647004,2554,Europe,Spain,0.1
+2021,North West,E12000002,7417398,17237,Europe,Spain,0.23
+2021,Yorkshire and The Humber,E12000003,5480772,7492,Europe,Spain,0.14
+2021,East Midlands,E12000004,4880054,6574,Europe,Spain,0.13
+2021,West Midlands,E12000005,5950757,9721,Europe,Spain,0.16
+2021,East of England,E12000006,6335077,13967,Europe,Spain,0.22
+2021,London,E12000007,8799725,68114,Europe,Spain,0.77
+2021,South East,E12000008,9278064,25438,Europe,Spain,0.27
+2021,South West,E12000009,5701188,12751,Europe,Spain,0.22
+2021,North East,E12000001,2647004,5401,Europe,Other Europe non-EU,0.2
+2021,North West,E12000002,7417398,22067,Europe,Other Europe non-EU,0.3
+2021,Yorkshire and The Humber,E12000003,5480772,14913,Europe,Other Europe non-EU,0.27
+2021,East Midlands,E12000004,4880054,25089,Europe,Other Europe non-EU,0.51
+2021,West Midlands,E12000005,5950757,21647,Europe,Other Europe non-EU,0.36
+2021,East of England,E12000006,6335077,36365,Europe,Other Europe non-EU,0.57
+2021,London,E12000007,8799725,176359,Europe,Other Europe non-EU,2
+2021,South East,E12000008,9278064,57063,Europe,Other Europe non-EU,0.62
+2021,South West,E12000009,5701188,19968,Europe,Other Europe non-EU,0.35
+2021,North East,E12000001,2647004,1703,Europe,Turkey,0.06
+2021,North West,E12000002,7417398,5959,Europe,Turkey,0.08
+2021,Yorkshire and The Humber,E12000003,5480772,4468,Europe,Turkey,0.08
+2021,East Midlands,E12000004,4880054,4807,Europe,Turkey,0.1
+2021,West Midlands,E12000005,5950757,3945,Europe,Turkey,0.07
+2021,East of England,E12000006,6335077,12126,Europe,Turkey,0.19
+2021,London,E12000007,8799725,72867,Europe,Turkey,0.83
+2021,South East,E12000008,9278064,13357,Europe,Turkey,0.14
+2021,South West,E12000009,5701188,5525,Europe,Turkey,0.1
+2021,North East,E12000001,2647004,2406581,Europe,England,90.92
+2021,North West,E12000002,7417398,6358250,Europe,England,85.72
+2021,Yorkshire and The Humber,E12000003,5480772,4757335,Europe,England,86.8
+2021,East Midlands,E12000004,4880054,4106626,Europe,England,84.15
+2021,West Midlands,E12000005,5950757,4914178,Europe,England,82.58
+2021,East of England,E12000006,6335077,5265912,Europe,England,83.12
+2021,London,E12000007,8799725,5075165,Europe,England,57.67
+2021,South East,E12000008,9278064,7579637,Europe,England,81.69
+2021,South West,E12000009,5701188,4925038,Europe,England,86.39
+2021,North East,E12000001,2647004,10,Europe,Great Britain not otherwise specified,0
+2021,North West,E12000002,7417398,41,Europe,Great Britain not otherwise specified,0
+2021,Yorkshire and The Humber,E12000003,5480772,23,Europe,Great Britain not otherwise specified,0
+2021,East Midlands,E12000004,4880054,35,Europe,Great Britain not otherwise specified,0
+2021,West Midlands,E12000005,5950757,58,Europe,Great Britain not otherwise specified,0
+2021,East of England,E12000006,6335077,42,Europe,Great Britain not otherwise specified,0
+2021,London,E12000007,8799725,119,Europe,Great Britain not otherwise specified,0
+2021,South East,E12000008,9278064,76,Europe,Great Britain not otherwise specified,0
+2021,South West,E12000009,5701188,86,Europe,Great Britain not otherwise specified,0
+2021,North East,E12000001,2647004,8986,Europe,Northern Ireland,0.34
+2021,North West,E12000002,7417398,35228,Europe,Northern Ireland,0.47
+2021,Yorkshire and The Humber,E12000003,5480772,15488,Europe,Northern Ireland,0.28
+2021,East Midlands,E12000004,4880054,14170,Europe,Northern Ireland,0.29
+2021,West Midlands,E12000005,5950757,16439,Europe,Northern Ireland,0.28
+2021,East of England,E12000006,6335077,18772,Europe,Northern Ireland,0.3
+2021,London,E12000007,8799725,28248,Europe,Northern Ireland,0.32
+2021,South East,E12000008,9278064,32637,Europe,Northern Ireland,0.35
+2021,South West,E12000009,5701188,20573,Europe,Northern Ireland,0.36
+2021,North East,E12000001,2647004,43434,Europe,Scotland,1.64
+2021,North West,E12000002,7417398,89025,Europe,Scotland,1.2
+2021,Yorkshire and The Humber,E12000003,5480772,60619,Europe,Scotland,1.11
+2021,East Midlands,E12000004,4880054,57935,Europe,Scotland,1.19
+2021,West Midlands,E12000005,5950757,45250,Europe,Scotland,0.76
+2021,East of England,E12000006,6335077,67272,Europe,Scotland,1.06
+2021,London,E12000007,8799725,75004,Europe,Scotland,0.85
+2021,South East,E12000008,9278064,118021,Europe,Scotland,1.27
+2021,South West,E12000009,5701188,69883,Europe,Scotland,1.23
+2021,North East,E12000001,2647004,69,Europe,United Kingdom not otherwise specified,0
+2021,North West,E12000002,7417398,343,Europe,United Kingdom not otherwise specified,0
+2021,Yorkshire and The Humber,E12000003,5480772,255,Europe,United Kingdom not otherwise specified,0
+2021,East Midlands,E12000004,4880054,187,Europe,United Kingdom not otherwise specified,0
+2021,West Midlands,E12000005,5950757,240,Europe,United Kingdom not otherwise specified,0
+2021,East of England,E12000006,6335077,252,Europe,United Kingdom not otherwise specified,0
+2021,London,E12000007,8799725,644,Europe,United Kingdom not otherwise specified,0.01
+2021,South East,E12000008,9278064,378,Europe,United Kingdom not otherwise specified,0
+2021,South West,E12000009,5701188,243,Europe,United Kingdom not otherwise specified,0
+2021,North East,E12000001,2647004,8788,Europe,Wales,0.33
+2021,North West,E12000002,7417398,69106,Europe,Wales,0.93
+2021,Yorkshire and The Humber,E12000003,5480772,24794,Europe,Wales,0.45
+2021,East Midlands,E12000004,4880054,31721,Europe,Wales,0.65
+2021,West Midlands,E12000005,5950757,72157,Europe,Wales,1.21
+2021,East of England,E12000006,6335077,38455,Europe,Wales,0.61
+2021,London,E12000007,8799725,44806,Europe,Wales,0.51
+2021,South East,E12000008,9278064,85199,Europe,Wales,0.92
+2021,South West,E12000009,5701188,103669,Europe,Wales,1.82
+2021,North East,E12000001,2647004,255,Middle East and Asia,Central Asia,0.01
+2021,North West,E12000002,7417398,597,Middle East and Asia,Central Asia,0.01
+2021,Yorkshire and The Humber,E12000003,5480772,419,Middle East and Asia,Central Asia,0.01
+2021,East Midlands,E12000004,4880054,497,Middle East and Asia,Central Asia,0.01
+2021,West Midlands,E12000005,5950757,588,Middle East and Asia,Central Asia,0.01
+2021,East of England,E12000006,6335077,1056,Middle East and Asia,Central Asia,0.02
+2021,London,E12000007,8799725,6207,Middle East and Asia,Central Asia,0.07
+2021,South East,E12000008,9278064,1988,Middle East and Asia,Central Asia,0.02
+2021,South West,E12000009,5701188,707,Middle East and Asia,Central Asia,0.01
+2021,North East,E12000001,2647004,6676,Middle East and Asia,China,0.25
+2021,North West,E12000002,7417398,22792,Middle East and Asia,China,0.31
+2021,Yorkshire and The Humber,E12000003,5480772,15271,Middle East and Asia,China,0.28
+2021,East Midlands,E12000004,4880054,9601,Middle East and Asia,China,0.2
+2021,West Midlands,E12000005,5950757,14638,Middle East and Asia,China,0.25
+2021,East of England,E12000006,6335077,13817,Middle East and Asia,China,0.22
+2021,London,E12000007,8799725,56116,Middle East and Asia,China,0.64
+2021,South East,E12000008,9278064,26069,Middle East and Asia,China,0.28
+2021,South West,E12000009,5701188,11091,Middle East and Asia,China,0.19
+2021,North East,E12000001,2647004,3343,Middle East and Asia,Hong Kong,0.13
+2021,North West,E12000002,7417398,12770,Middle East and Asia,Hong Kong,0.17
+2021,Yorkshire and The Humber,E12000003,5480772,6840,Middle East and Asia,Hong Kong,0.12
+2021,East Midlands,E12000004,4880054,6317,Middle East and Asia,Hong Kong,0.13
+2021,West Midlands,E12000005,5950757,8802,Middle East and Asia,Hong Kong,0.15
+2021,East of England,E12000006,6335077,10543,Middle East and Asia,Hong Kong,0.17
+2021,London,E12000007,8799725,33760,Middle East and Asia,Hong Kong,0.38
+2021,South East,E12000008,9278064,24708,Middle East and Asia,Hong Kong,0.27
+2021,South West,E12000009,5701188,10631,Middle East and Asia,Hong Kong,0.19
+2021,North East,E12000001,2647004,1054,Middle East and Asia,Other Eastern Asia,0.04
+2021,North West,E12000002,7417398,3699,Middle East and Asia,Other Eastern Asia,0.05
+2021,Yorkshire and The Humber,E12000003,5480772,2370,Middle East and Asia,Other Eastern Asia,0.04
+2021,East Midlands,E12000004,4880054,2291,Middle East and Asia,Other Eastern Asia,0.05
+2021,West Midlands,E12000005,5950757,3049,Middle East and Asia,Other Eastern Asia,0.05
+2021,East of England,E12000006,6335077,5352,Middle East and Asia,Other Eastern Asia,0.08
+2021,London,E12000007,8799725,35577,Middle East and Asia,Other Eastern Asia,0.4
+2021,South East,E12000008,9278064,10857,Middle East and Asia,Other Eastern Asia,0.12
+2021,South West,E12000009,5701188,3918,Middle East and Asia,Other Eastern Asia,0.07
+2021,North East,E12000001,2647004,4659,Middle East and Asia,Iran,0.18
+2021,North West,E12000002,7417398,14724,Middle East and Asia,Iran,0.2
+2021,Yorkshire and The Humber,E12000003,5480772,8588,Middle East and Asia,Iran,0.16
+2021,East Midlands,E12000004,4880054,4235,Middle East and Asia,Iran,0.09
+2021,West Midlands,E12000005,5950757,9353,Middle East and Asia,Iran,0.16
+2021,East of England,E12000006,6335077,5783,Middle East and Asia,Iran,0.09
+2021,London,E12000007,8799725,43852,Middle East and Asia,Iran,0.5
+2021,South East,E12000008,9278064,11601,Middle East and Asia,Iran,0.13
+2021,South West,E12000009,5701188,4007,Middle East and Asia,Iran,0.07
+2021,North East,E12000001,2647004,11390,Middle East and Asia,Other Middle East,0.43
+2021,North West,E12000002,7417398,41245,Middle East and Asia,Other Middle East,0.56
+2021,Yorkshire and The Humber,E12000003,5480772,28022,Middle East and Asia,Other Middle East,0.51
+2021,East Midlands,E12000004,4880054,14555,Middle East and Asia,Other Middle East,0.3
+2021,West Midlands,E12000005,5950757,28816,Middle East and Asia,Other Middle East,0.48
+2021,East of England,E12000006,6335077,16042,Middle East and Asia,Other Middle East,0.25
+2021,London,E12000007,8799725,105159,Middle East and Asia,Other Middle East,1.2
+2021,South East,E12000008,9278064,30371,Middle East and Asia,Other Middle East,0.33
+2021,South West,E12000009,5701188,13600,Middle East and Asia,Other Middle East,0.24
+2021,North East,E12000001,2647004,6009,Middle East and Asia,Other South-East Asia,0.23
+2021,North West,E12000002,7417398,19741,Middle East and Asia,Other South-East Asia,0.27
+2021,Yorkshire and The Humber,E12000003,5480772,15030,Middle East and Asia,Other South-East Asia,0.27
+2021,East Midlands,E12000004,4880054,13436,Middle East and Asia,Other South-East Asia,0.28
+2021,West Midlands,E12000005,5950757,16162,Middle East and Asia,Other South-East Asia,0.27
+2021,East of England,E12000006,6335077,23851,Middle East and Asia,Other South-East Asia,0.38
+2021,London,E12000007,8799725,68269,Middle East and Asia,Other South-East Asia,0.78
+2021,South East,E12000008,9278064,43745,Middle East and Asia,Other South-East Asia,0.47
+2021,South West,E12000009,5701188,20809,Middle East and Asia,Other South-East Asia,0.36
+2021,North East,E12000001,2647004,4343,Middle East and Asia,Philippines,0.16
+2021,North West,E12000002,7417398,9633,Middle East and Asia,Philippines,0.13
+2021,Yorkshire and The Humber,E12000003,5480772,6694,Middle East and Asia,Philippines,0.12
+2021,East Midlands,E12000004,4880054,6596,Middle East and Asia,Philippines,0.14
+2021,West Midlands,E12000005,5950757,8869,Middle East and Asia,Philippines,0.15
+2021,East of England,E12000006,6335077,18065,Middle East and Asia,Philippines,0.29
+2021,London,E12000007,8799725,54930,Middle East and Asia,Philippines,0.62
+2021,South East,E12000008,9278064,28291,Middle East and Asia,Philippines,0.3
+2021,South West,E12000009,5701188,12053,Middle East and Asia,Philippines,0.21
+2021,North East,E12000001,2647004,6739,Middle East and Asia,Bangladesh,0.25
+2021,North West,E12000002,7417398,23876,Middle East and Asia,Bangladesh,0.32
+2021,Yorkshire and The Humber,E12000003,5480772,11068,Middle East and Asia,Bangladesh,0.2
+2021,East Midlands,E12000004,4880054,9054,Middle East and Asia,Bangladesh,0.19
+2021,West Midlands,E12000005,5950757,30453,Middle East and Asia,Bangladesh,0.51
+2021,East of England,E12000006,6335077,21677,Middle East and Asia,Bangladesh,0.34
+2021,London,E12000007,8799725,138895,Middle East and Asia,Bangladesh,1.58
+2021,South East,E12000008,9278064,18440,Middle East and Asia,Bangladesh,0.2
+2021,South West,E12000009,5701188,6085,Middle East and Asia,Bangladesh,0.11
+2021,North East,E12000001,2647004,13868,Middle East and Asia,India,0.52
+2021,North West,E12000002,7417398,60180,Middle East and Asia,India,0.81
+2021,Yorkshire and The Humber,E12000003,5480772,37179,Middle East and Asia,India,0.68
+2021,East Midlands,E12000004,4880054,102948,Middle East and Asia,India,2.11
+2021,West Midlands,E12000005,5950757,127319,Middle East and Asia,India,2.14
+2021,East of England,E12000006,6335077,69472,Middle East and Asia,India,1.1
+2021,London,E12000007,8799725,322644,Middle East and Asia,India,3.67
+2021,South East,E12000008,9278064,132608,Middle East and Asia,India,1.43
+2021,South West,E12000009,5701188,40742,Middle East and Asia,India,0.71
+2021,North East,E12000001,2647004,1812,Middle East and Asia,Other Southern Asia,0.07
+2021,North West,E12000002,7417398,7575,Middle East and Asia,Other Southern Asia,0.1
+2021,Yorkshire and The Humber,E12000003,5480772,6783,Middle East and Asia,Other Southern Asia,0.12
+2021,East Midlands,E12000004,4880054,5285,Middle East and Asia,Other Southern Asia,0.11
+2021,West Midlands,E12000005,5950757,14165,Middle East and Asia,Other Southern Asia,0.24
+2021,East of England,E12000006,6335077,7580,Middle East and Asia,Other Southern Asia,0.12
+2021,London,E12000007,8799725,70683,Middle East and Asia,Other Southern Asia,0.8
+2021,South East,E12000008,9278064,41416,Middle East and Asia,Other Southern Asia,0.45
+2021,South West,E12000009,5701188,8043,Middle East and Asia,Other Southern Asia,0.14
+2021,North East,E12000001,2647004,9971,Middle East and Asia,Pakistan,0.38
+2021,North West,E12000002,7417398,125110,Middle East and Asia,Pakistan,1.69
+2021,Yorkshire and The Humber,E12000003,5480772,100202,Middle East and Asia,Pakistan,1.83
+2021,East Midlands,E12000004,4880054,28771,Middle East and Asia,Pakistan,0.59
+2021,West Midlands,E12000005,5950757,112441,Middle East and Asia,Pakistan,1.89
+2021,East of England,E12000006,6335077,41421,Middle East and Asia,Pakistan,0.65
+2021,London,E12000007,8799725,129774,Middle East and Asia,Pakistan,1.47
+2021,South East,E12000008,9278064,60610,Middle East and Asia,Pakistan,0.65
+2021,South West,E12000009,5701188,8154,Middle East and Asia,Pakistan,0.14
+2021,North East,E12000001,2647004,1568,Middle East and Asia,Sri Lanka,0.06
+2021,North West,E12000002,7417398,6049,Middle East and Asia,Sri Lanka,0.08
+2021,Yorkshire and The Humber,E12000003,5480772,2858,Middle East and Asia,Sri Lanka,0.05
+2021,East Midlands,E12000004,4880054,6333,Middle East and Asia,Sri Lanka,0.13
+2021,West Midlands,E12000005,5950757,7623,Middle East and Asia,Sri Lanka,0.13
+2021,East of England,E12000006,6335077,13159,Middle East and Asia,Sri Lanka,0.21
+2021,London,E12000007,8799725,80379,Middle East and Asia,Sri Lanka,0.91
+2021,South East,E12000008,9278064,20164,Middle East and Asia,Sri Lanka,0.22
+2021,South West,E12000009,5701188,3728,Middle East and Asia,Sri Lanka,0.07
+2021,North East,E12000001,2647004,1,Other,Other,0
+2021,North West,E12000002,7417398,8,Other,Other,0
+2021,Yorkshire and The Humber,E12000003,5480772,4,Other,Other,0
+2021,East Midlands,E12000004,4880054,7,Other,Other,0
+2021,West Midlands,E12000005,5950757,7,Other,Other,0
+2021,East of England,E12000006,6335077,11,Other,Other,0
+2021,London,E12000007,8799725,21,Other,Other,0
+2021,South East,E12000008,9278064,19,Other,Other,0
+2021,South West,E12000009,5701188,5,Other,Other,0
+2021,North East,E12000001,2647004,888,The Americas and the Caribbean,All Central American countries,0.03
+2021,North West,E12000002,7417398,2324,The Americas and the Caribbean,All Central American countries,0.03
+2021,Yorkshire and The Humber,E12000003,5480772,1593,The Americas and the Caribbean,All Central American countries,0.03
+2021,East Midlands,E12000004,4880054,1031,The Americas and the Caribbean,All Central American countries,0.02
+2021,West Midlands,E12000005,5950757,1288,The Americas and the Caribbean,All Central American countries,0.02
+2021,East of England,E12000006,6335077,1995,The Americas and the Caribbean,All Central American countries,0.03
+2021,London,E12000007,8799725,8331,The Americas and the Caribbean,All Central American countries,0.09
+2021,South East,E12000008,9278064,3697,The Americas and the Caribbean,All Central American countries,0.04
+2021,South West,E12000009,5701188,1785,The Americas and the Caribbean,All Central American countries,0.03
+2021,North East,E12000001,2647004,1807,The Americas and the Caribbean,Other North America,0.07
+2021,North West,E12000002,7417398,5913,The Americas and the Caribbean,Other North America,0.08
+2021,Yorkshire and The Humber,E12000003,5480772,4015,The Americas and the Caribbean,Other North America,0.07
+2021,East Midlands,E12000004,4880054,3997,The Americas and the Caribbean,Other North America,0.08
+2021,West Midlands,E12000005,5950757,4162,The Americas and the Caribbean,Other North America,0.07
+2021,East of England,E12000006,6335077,7087,The Americas and the Caribbean,Other North America,0.11
+2021,London,E12000007,8799725,22799,The Americas and the Caribbean,Other North America,0.26
+2021,South East,E12000008,9278064,15145,The Americas and the Caribbean,Other North America,0.16
+2021,South West,E12000009,5701188,7708,The Americas and the Caribbean,Other North America,0.14
+2021,North East,E12000001,2647004,3460,The Americas and the Caribbean,United States,0.13
+2021,North West,E12000002,7417398,10995,The Americas and the Caribbean,United States,0.15
+2021,Yorkshire and The Humber,E12000003,5480772,8818,The Americas and the Caribbean,United States,0.16
+2021,East Midlands,E12000004,4880054,9039,The Americas and the Caribbean,United States,0.19
+2021,West Midlands,E12000005,5950757,8221,The Americas and the Caribbean,United States,0.14
+2021,East of England,E12000006,6335077,35388,The Americas and the Caribbean,United States,0.56
+2021,London,E12000007,8799725,71127,The Americas and the Caribbean,United States,0.81
+2021,South East,E12000008,9278064,35828,The Americas and the Caribbean,United States,0.39
+2021,South West,E12000009,5701188,15779,The Americas and the Caribbean,United States,0.28
+2021,North East,E12000001,2647004,2188,The Americas and the Caribbean,All South American countries,0.08
+2021,North West,E12000002,7417398,14842,The Americas and the Caribbean,All South American countries,0.2
+2021,Yorkshire and The Humber,E12000003,5480772,6032,The Americas and the Caribbean,All South American countries,0.11
+2021,East Midlands,E12000004,4880054,6402,The Americas and the Caribbean,All South American countries,0.13
+2021,West Midlands,E12000005,5950757,8114,The Americas and the Caribbean,All South American countries,0.14
+2021,East of England,E12000006,6335077,17240,The Americas and the Caribbean,All South American countries,0.27
+2021,London,E12000007,8799725,142318,The Americas and the Caribbean,All South American countries,1.62
+2021,South East,E12000008,9278064,36775,The Americas and the Caribbean,All South American countries,0.4
+2021,South West,E12000009,5701188,17342,The Americas and the Caribbean,All South American countries,0.3
+2021,North East,E12000001,2647004,309,The Americas and the Caribbean,Jamaica,0.01
+2021,North West,E12000002,7417398,6009,The Americas and the Caribbean,Jamaica,0.08
+2021,Yorkshire and The Humber,E12000003,5480772,4850,The Americas and the Caribbean,Jamaica,0.09
+2021,East Midlands,E12000004,4880054,7608,The Americas and the Caribbean,Jamaica,0.16
+2021,West Midlands,E12000005,5950757,24570,The Americas and the Caribbean,Jamaica,0.41
+2021,East of England,E12000006,6335077,8343,The Americas and the Caribbean,Jamaica,0.13
+2021,London,E12000007,8799725,75676,The Americas and the Caribbean,Jamaica,0.86
+2021,South East,E12000008,9278064,8299,The Americas and the Caribbean,Jamaica,0.09
+2021,South West,E12000009,5701188,5627,The Americas and the Caribbean,Jamaica,0.1
+2021,North East,E12000001,2647004,756,The Americas and the Caribbean,Other Caribbean,0.03
+2021,North West,E12000002,7417398,4919,The Americas and the Caribbean,Other Caribbean,0.07
+2021,Yorkshire and The Humber,E12000003,5480772,4818,The Americas and the Caribbean,Other Caribbean,0.09
+2021,East Midlands,E12000004,4880054,5061,The Americas and the Caribbean,Other Caribbean,0.1
+2021,West Midlands,E12000005,5950757,7986,The Americas and the Caribbean,Other Caribbean,0.13
+2021,East of England,E12000006,6335077,8811,The Americas and the Caribbean,Other Caribbean,0.14
+2021,London,E12000007,8799725,52613,The Americas and the Caribbean,Other Caribbean,0.6
+2021,South East,E12000008,9278064,14081,The Americas and the Caribbean,Other Caribbean,0.15
+2021,South West,E12000009,5701188,4190,The Americas and the Caribbean,Other Caribbean,0.07
